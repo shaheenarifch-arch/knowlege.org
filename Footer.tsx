@@ -1,0 +1,1 @@
+export function Footer(){return <footer className="footer"><div className="shell"><strong>Knowledge for Humanity.</strong><br/>Read. Learn. Research. Serve. Content is source-attributed, rights-aware and subject to editorial review.</div></footer>}

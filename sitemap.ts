@@ -1,0 +1,1 @@
+import type{MetadataRoute}from"next";export default function sitemap():MetadataRoute.Sitemap{const b=process.env.NEXT_PUBLIC_SITE_URL??"https://knowlege.org";return["","quran","hadith","research","learning","videos","charity","charity/verification","help","newsletter","about"].map(x=>({url:`${b}/${x}`,lastModified:new Date(),priority:x?0.8:1}))}

@@ -1,0 +1,3 @@
+CREATE TABLE subscribers (id UUID PRIMARY KEY, email TEXT UNIQUE NOT NULL, language TEXT DEFAULT 'en', country TEXT, consent_at TIMESTAMPTZ NOT NULL, verified_at TIMESTAMPTZ, unsubscribed_at TIMESTAMPTZ, created_at TIMESTAMPTZ DEFAULT now());
+CREATE TABLE newsletter_events (id UUID PRIMARY KEY, subscriber_id UUID REFERENCES subscribers(id), event_type TEXT NOT NULL, campaign_id TEXT, created_at TIMESTAMPTZ DEFAULT now());
+CREATE TABLE editorial_items (id UUID PRIMARY KEY, slug TEXT UNIQUE NOT NULL, title TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'DRAFT', source_notes JSONB NOT NULL DEFAULT '[]', reviewer_id UUID, published_at TIMESTAMPTZ, created_at TIMESTAMPTZ DEFAULT now());
