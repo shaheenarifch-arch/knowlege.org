@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "drafts": "tsx automation/daily.ts",
     "newsletter": "tsx automation/newsletter.ts",
+    "weekly-post": "tsx automation/weekly-post.ts",
     "seed": "tsx database/seed.ts",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
