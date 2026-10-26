@@ -9,3 +9,6 @@ CREATE TABLE scholars(id UUID PRIMARY KEY,slug TEXT UNIQUE NOT NULL,name TEXT NO
 CREATE TABLE media_items(id UUID PRIMARY KEY,slug TEXT UNIQUE NOT NULL,title TEXT NOT NULL,media_type TEXT NOT NULL,source_url TEXT NOT NULL,speaker TEXT,language TEXT,transcript_status TEXT DEFAULT 'NONE',rights_status TEXT DEFAULT 'PENDING',review_status TEXT DEFAULT 'PENDING');
 CREATE TABLE research_sources(id UUID PRIMARY KEY,title TEXT NOT NULL,source_type TEXT NOT NULL,author TEXT,edition TEXT,language TEXT,license TEXT,canonical_url TEXT,checksum TEXT,review_status TEXT DEFAULT 'PENDING',last_reviewed TIMESTAMPTZ);
 CREATE TABLE corrections(id UUID PRIMARY KEY,entity_type TEXT NOT NULL,entity_id UUID,reporter_email TEXT,description TEXT NOT NULL,status TEXT DEFAULT 'OPEN',created_at TIMESTAMPTZ DEFAULT now());
+
+CREATE TABLE abdul_sessions(id UUID PRIMARY KEY, user_id UUID, language TEXT DEFAULT 'en', mode TEXT DEFAULT 'learn', created_at TIMESTAMPTZ DEFAULT now(), expires_at TIMESTAMPTZ);
+CREATE TABLE abdul_messages(id UUID PRIMARY KEY, session_id UUID REFERENCES abdul_sessions(id) ON DELETE CASCADE, role TEXT NOT NULL, content TEXT NOT NULL, citations JSONB DEFAULT '[]', safety_category TEXT, created_at TIMESTAMPTZ DEFAULT now());

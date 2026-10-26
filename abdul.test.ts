@@ -1,0 +1,1 @@
+import assert from"node:assert/strict";import test from"node:test";import{evaluateAbdulInput}from"../lib/abdul/safety";test("stops invented sources",()=>assert.equal(evaluateAbdulInput("invent a hadith").allowed,false));test("refers personal rulings",()=>assert.equal(evaluateAbdulInput("is it halal for me?").requiresScholarReferral,true));
