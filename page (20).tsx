@@ -1,0 +1,2 @@
+const plans=["30-Day Qur'anic Reflection","Mercy and Service","Justice and Responsibility","Knowledge and Reflection"];
+export default function Page(){return <main className="shell page"><span className="tag">Guided learning</span><h1>Study Plans</h1><div className="grid">{plans.map(x=><div className="card" key={x}><h3>{x}</h3><p>Reviewed source links and daily progress tracking.</p></div>)}</div></main>}
