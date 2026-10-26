@@ -18,3 +18,6 @@ Open `http://localhost:3000`.
 - Religious content and charity listings require human review.
 - `/admin` must be protected before deployment.
 - Newsletter production requires double opt-in and unsubscribe workflows.
+
+## Abdul AI Phase 3
+Open `/abdul` for the voice and text companion. Abdul remains source-grounded and disabled from model generation until `ABDUL_ENABLED=true`, `RAMBO_URL`, `RAMBO_API_KEY`, and an approved source index are configured.
