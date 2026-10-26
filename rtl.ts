@@ -1,0 +1,1 @@
+export const RTL_LANGUAGES=["ar","ur","fa"]; export const isRTL=(l:string)=>RTL_LANGUAGES.includes(l);

@@ -1,0 +1,1 @@
+import{NextResponse}from"next/server";export async function GET(){return NextResponse.json({items:[],notice:"Islamic calendar dates may vary by locality and moon-sighting policy. Display local authority and calculation metadata."})}

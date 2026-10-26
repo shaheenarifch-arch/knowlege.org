@@ -1,0 +1,1 @@
+import assert from"node:assert/strict";import test from"node:test";import{planTask}from"../lib/abdul/orchestrator";test("citation agent always included",()=>assert.equal(planTask("Explain mercy").agents.includes("citation"),true));

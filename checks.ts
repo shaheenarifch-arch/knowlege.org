@@ -1,0 +1,6 @@
+export type Decision="ALLOW"|"REVIEW"|"BLOCK";export interface CheckResult{decision:Decision;reasons:string[];}
+const block=[/invent.*(verse|hadith)/i,/who is a kafir/i,/declare.*unbeliever/i,/which sect is superior/i,/attack.*sect/i,/give me a fatwa/i,/religious group.*should be harmed/i];
+const review=[/which sect/i,/political party/i,/election/i,/war/i,/divorce/i,/inheritance/i,/halal for me/i,/haram for me/i];
+export function preCheck(text:string):CheckResult{if(block.some(x=>x.test(text)))return{decision:"BLOCK",reasons:["The request conflicts with source integrity, non-sectarianism or safety policy."]};if(review.some(x=>x.test(text)))return{decision:"REVIEW",reasons:["This topic requires a qualified human reviewer or scholar and is not answered automatically."]};return{decision:"ALLOW",reasons:[]}}
+export function citationCheck(claims:number,citations:number):CheckResult{return claims>0&&citations<claims?{decision:"BLOCK",reasons:["Every material religious claim requires an approved source citation."]}:{decision:"ALLOW",reasons:[]}}
+export function postCheck(text:string):CheckResult{if(/only true sect|all others are wrong|guaranteed spiritual result|divine punishment on/i.test(text))return{decision:"BLOCK",reasons:["Output contains divisive, coercive or unverifiable religious language."]};return{decision:"ALLOW",reasons:[]}}

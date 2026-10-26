@@ -1,0 +1,1 @@
+import{LANGUAGES}from"../config/languages";export function alternateLanguages(path:string,base=process.env.NEXT_PUBLIC_SITE_URL??"https://knowlege.org"){const clean=path.startsWith("/")?path:`/${path}`;return Object.fromEntries(LANGUAGES.map(l=>[l.code,`${base}/${l.code}${clean}`]))}

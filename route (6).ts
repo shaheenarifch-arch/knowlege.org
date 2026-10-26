@@ -1,0 +1,1 @@
+import{NextResponse}from"next/server";import{z}from"zod";import{planTask}from"../../../../../lib/abdul/orchestrator";export async function POST(r:Request){const b=z.object({message:z.string().min(3).max(4000)}).parse(await r.json());return NextResponse.json(planTask(b.message))}

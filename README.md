@@ -1,20 +1,17 @@
-# Knowlege.org Phase 2
+# Knowlege.org Phase 7
 
-## Run
+Global Knowledge Network code foundation.
+
 ```powershell
 Copy-Item .env.example .env
 docker compose up -d postgres
 npm install
-psql $env:DATABASE_URL -f database/schema.sql
-npm run seed
 npm run typecheck
+npm run test
 npm run dev
 ```
-Open `http://localhost:3000`.
 
-## Safety
-- No copyrighted Qur'an editions, translations, tafsir, hadith, audio or video are bundled.
-- AI research is disabled by default.
-- Religious content and charity listings require human review.
-- `/admin` must be protected before deployment.
-- Newsletter production requires double opt-in and unsubscribe workflows.
+This is an implementation foundation. It is not ready for public religious answers or open community posting until approved sources, authentication, moderation and migrations are connected.
+
+## Safe Community Upgrade
+Adds moderated discussions, Q&A, communities, interactive sessions, Islamic calendar/events, and multi-stage guardrails. See `docs/COMMUNITY_GUARDRAILS.md`.

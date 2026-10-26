@@ -1,0 +1,1 @@
+import{NextResponse}from"next/server";import{db}from"../../../../lib/db";export async function GET(){return NextResponse.json({items:await db()`SELECT slug,title,description,language,level FROM courses WHERE status='PUBLISHED' ORDER BY title LIMIT 100`})}
