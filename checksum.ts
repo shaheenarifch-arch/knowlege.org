@@ -1,0 +1,1 @@
+import{createHash}from"node:crypto";import fs from"node:fs";export function sha256(file:string){const h=createHash("sha256");h.update(fs.readFileSync(file));return h.digest("hex")}

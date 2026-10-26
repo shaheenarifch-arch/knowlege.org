@@ -1,0 +1,1 @@
+import fs from"node:fs";import path from"node:path";import type{DatasetManifest,ImportResult}from"../types.js";export abstract class BaseImporter{constructor(protected root:string,protected dryRun:boolean){}protected read(file:string){return JSON.parse(fs.readFileSync(path.join(this.root,file),"utf8"))}abstract run(m:DatasetManifest):Promise<ImportResult>}

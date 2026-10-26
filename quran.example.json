@@ -1,0 +1,1 @@
+{"datasetId":"quran-arabic-v1","contentType":"QURAN_ARABIC","title":"Verified Arabic Qur'an dataset","language":"ar","version":"REQUIRED","sourceUrl":"REQUIRED","license":{"name":"REQUIRED","url":"REQUIRED","redistributionAllowed":false,"attribution":"REQUIRED"},"checksumAlgorithm":"sha256","files":["quran/001.json"],"review":{"status":"PENDING","reviewer":null}}

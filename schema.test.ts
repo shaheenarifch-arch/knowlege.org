@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";import{QuranFileSchema,ManifestSchema}from"../src/schema";describe("schemas",()=>{it("accepts a valid surah shape",()=>expect(QuranFileSchema.parse({surah:1,nameArabic:"x",nameTransliterated:"x",ayahs:[{ayah:1,text:"x"}]}).surah).toBe(1));it("rejects missing license",()=>expect(()=>ManifestSchema.parse({})).toThrow())})

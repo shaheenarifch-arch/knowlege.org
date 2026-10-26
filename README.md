@@ -1,20 +1,28 @@
-# Knowlege.org Phase 2
+# Knowlege.org Phase 10 Dataset Ingestion
 
-## Run
+This package imports legally obtained, approved datasets. It contains **no Qur'an, translation, tafsir, hadith or scholar dataset itself**.
+
+## Setup
 ```powershell
 Copy-Item .env.example .env
 docker compose up -d postgres
 npm install
 psql $env:DATABASE_URL -f database/schema.sql
-npm run seed
 npm run typecheck
-npm run dev
+npm test
 ```
-Open `http://localhost:3000`.
 
-## Safety
-- No copyrighted Qur'an editions, translations, tafsir, hadith, audio or video are bundled.
-- AI research is disabled by default.
-- Religious content and charity listings require human review.
-- `/admin` must be protected before deployment.
-- Newsletter production requires double opt-in and unsubscribe workflows.
+## Add a dataset
+1. Place files under the matching `datasets/` folder.
+2. Copy an example manifest to `datasets/manifests/<dataset>.json`.
+3. Complete source, license, attribution, version and file fields.
+4. Set review status to `APPROVED` only after authorization and review.
+5. Run with `IMPORT_DRY_RUN=true` first.
+
+```powershell
+npm run validate
+npm run import:quran
+npm run report
+```
+
+Set `IMPORT_DRY_RUN=false` only after the report is clean and database backups exist.

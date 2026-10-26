@@ -1,5 +1,6 @@
-.next
-node_modules
 .env
-.runtime
-*.log
+node_modules
+reports/*.json
+datasets/**/*
+!datasets/**/.gitkeep
+!datasets/manifests/*.example.json

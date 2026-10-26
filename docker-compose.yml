@@ -3,5 +3,3 @@ services:
     image: postgres:16-alpine
     environment: {POSTGRES_USER: knowlege, POSTGRES_PASSWORD: knowlege, POSTGRES_DB: knowlege}
     ports: ["5432:5432"]
-    volumes: [knowlege_pg:/var/lib/postgresql/data]
-volumes: {knowlege_pg: {}}
