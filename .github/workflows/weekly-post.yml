@@ -1,0 +1,51 @@
+name: Weekly Qur'an reflection
+
+# Fridays 08:00 UTC. Writes one reflection from fetched Qur'an verses and hadith (six books)
+# and opens it as a pull request for review. Nothing is published until the PR is merged.
+on:
+  schedule:
+    - cron: "0 8 * * 5"
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Optional theme (e.g. Mercy, Patience)"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: weekly-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - name: Write reflection
+        id: post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          THEME: ${{ github.event.inputs.theme }}
+        run: npm run weekly-post
+      - name: Open pull request
+        if: steps.post.outputs.slug != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SLUG: ${{ steps.post.outputs.slug }}
+          TITLE: ${{ steps.post.outputs.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "post/$SLUG"
+          git add content/posts.json
+          git commit -m "Weekly reflection: $TITLE"
+          git push origin "post/$SLUG"
+          gh pr create --base main --head "post/$SLUG" --title "Weekly reflection: $TITLE" --body-file .post-review.md
