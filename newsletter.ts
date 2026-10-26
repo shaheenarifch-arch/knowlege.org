@@ -1,17 +1,10 @@
-import fs from"node:fs";const date=new Date().toISOString().slice(0,10);fs.mkdirSync("content/newsletters",{recursive:true});fs.writeFileSync(`content/newsletters/${date}-weekly.md`,`---
-title: "Knowlege Letter"
-date: "${date}"
+import fs from"node:fs";const d=new Date().toISOString().slice(0,10);fs.mkdirSync("content/newsletters",{recursive:true});fs.writeFileSync(`content/newsletters/${d}-digest.md`,`---
+title: "Knowlege Weekly Digest"
+date: "${d}"
 status: "DRAFT"
 ---
 
-# This week at Knowlege.org
+# Weekly Digest
 
-## Reflection
-Editorial review required.
-
-## New research
-Add reviewed links.
-
-## Community and charity
-Add verified updates only.
+Reviewed links only.
 `);

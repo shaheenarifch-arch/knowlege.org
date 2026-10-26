@@ -1,4 +1,4 @@
-name: daily-reviewed-content-drafts
+name: daily-reviewed-drafts
 on:
   workflow_dispatch:
   schedule:
@@ -6,18 +6,18 @@ on:
 permissions:
   contents: write
 jobs:
-  draft:
+  create:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: {node-version: 22, cache: npm}
       - run: npm install
-      - run: npm run content:daily
-      - run: npm run newsletter:build
+      - run: npm run drafts
+      - run: npm run newsletter
       - run: |
           git config user.name "Knowlege Editorial Bot"
           git config user.email "editorial@knowlege.org"
           git add content
-          git commit -m "Create reviewed content drafts" || exit 0
+          git commit -m "Create reviewed drafts" || exit 0
           git push

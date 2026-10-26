@@ -1,4 +1,4 @@
-name: portal-ci
+name: phase2-ci
 on: [push,pull_request]
 jobs:
   build:
