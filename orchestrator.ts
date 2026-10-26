@@ -1,0 +1,1 @@
+export type Agent="researcher"|"citation"|"theme"|"teacher"|"coach";export function planTask(message:string){const agents:Agent[]=["researcher","citation"];if(/theme|concept/i.test(message))agents.push("theme");if(/study|learn/i.test(message))agents.push("teacher","coach");return{agents:[...new Set(agents)],approvalRequired:false,sourcePolicy:"APPROVED_ONLY"}}

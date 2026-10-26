@@ -1,0 +1,2 @@
+import{NextResponse}from"next/server";import{z}from"zod";import{preCheck}from"../../../lib/guardrails/checks";export async function POST(req:Request){const b=z.object({title:z.string().min(5).max(180),body:z.string().min(10).max(10000)}).parse(await req.json());const result=preCheck(`${b.title}
+${b.body}`);if(result.decision==="BLOCK")return NextResponse.json(result,{status:422});return NextResponse.json({status:"PENDING_REVIEW",guardrail:result},{status:202})}

@@ -1,0 +1,1 @@
+export default function Page(){return <main className="shell"><h1>Questions & Answers</h1><div className="notice">Questions seeking personal rulings, sectarian judgments, political campaigning or declarations about another person's faith are not answered automatically.</div></main>}

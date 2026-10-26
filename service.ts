@@ -1,0 +1,1 @@
+import{db}from"../db";export async function createIngestionJob(input:{sourceType:string;title:string;submittedBy:string}){return db()`INSERT INTO source_ingestion_jobs(id,source_type,title,status,submitted_by) VALUES(gen_random_uuid(),${input.sourceType},${input.title},'QUEUED',${input.submittedBy}) RETURNING *`}

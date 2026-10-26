@@ -1,0 +1,1 @@
+import{createHash}from"node:crypto";export function hashApiKey(raw:string,pepper:string){return createHash("sha256").update(`${pepper}:${raw}`).digest("hex")}
