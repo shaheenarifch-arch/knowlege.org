@@ -1,1 +1,1 @@
-export function Footer(){return <footer className="footer"><div className="shell"><strong>Knowledge for Humanity.</strong><br/>Read. Learn. Research. Serve. Source-attributed, rights-aware and editorially reviewed.</div></footer>}
+import{Logo}from"./Logo";export function Footer(){return <footer className="footer"><div className="shell footin"><Logo size={42}/><div><strong>Knowledge for Humanity.</strong><br/>Read. Learn. Research. Serve. Source-attributed, rights-aware and editorially reviewed.</div></div></footer>}
