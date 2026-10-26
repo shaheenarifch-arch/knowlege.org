@@ -1,0 +1,1 @@
+export default function Page(){return <main className="shell page"><span className="tag">Source library</span><h1>Scholar Library</h1><p className="lead">Biographies, works, subjects and permitted media, each backed by reviewed metadata.</p><div className="notice">Profiles must avoid unverified affiliations, partisan labels and unsourced biographical claims.</div></main>}

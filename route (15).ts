@@ -1,0 +1,3 @@
+import{NextResponse}from"next/server";import{z}from"zod";import{requireUser}from"../../../../lib/auth/session";import{listCollections,createCollection}from"../../../../lib/workspace/service";
+export async function GET(){try{const u=await requireUser();return NextResponse.json({items:await listCollections(u.id)})}catch{return NextResponse.json({error:"UNAUTHENTICATED"},{status:401})}}
+export async function POST(req:Request){try{const u=await requireUser(),b=z.object({title:z.string().min(1).max(140),description:z.string().max(1000).optional()}).parse(await req.json());return NextResponse.json({item:(await createCollection(u.id,b.title,b.description))[0]},{status:201})}catch(e){return NextResponse.json({error:e instanceof Error?e.message:"CREATE_FAILED"},{status:400})}}

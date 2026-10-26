@@ -1,0 +1,2 @@
+const modules=["Bookmarks","Private notes","Study plans","Saved Abdul conversations","Newsletter preferences"];
+export default function Page(){return <main className="shell page"><span className="tag">Member area</span><h1>Your Dashboard</h1><div className="notice">Authentication adapter must be configured before this dashboard is enabled publicly.</div><section className="section"><div className="grid">{modules.map(x=><div className="card" key={x}><h3>{x}</h3><p>Phase 5 database and API foundation.</p></div>)}</div></section></main>}

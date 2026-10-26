@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";import {unifiedSearch} from "../../../lib/search";
+export async function GET(req:Request){const q=new URL(req.url).searchParams.get("q")??"";if(q.trim().length<2)return NextResponse.json({error:"QUERY_TOO_SHORT"},{status:400});try{return NextResponse.json({query:q,results:await unifiedSearch(q)})}catch(e){return NextResponse.json({error:e instanceof Error?e.message:"SEARCH_FAILED"},{status:500})}}

@@ -1,0 +1,2 @@
+import{db}from"../db";
+export async function track(event:{anonymousId?:string;userId?:string;eventName:string;entityType?:string;entityId?:string;properties?:Record<string,unknown>}){return db()`INSERT INTO analytics_events(id,anonymous_id,user_id,event_name,entity_type,entity_id,properties) VALUES(gen_random_uuid(),${event.anonymousId??null},${event.userId??null},${event.eventName},${event.entityType??null},${event.entityId??null},${JSON.stringify(event.properties??{})})`}

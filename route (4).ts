@@ -1,0 +1,1 @@
+import{NextResponse}from"next/server";import{publicCourses}from"../../../../lib/academy/service";export async function GET(){try{return NextResponse.json({items:await publicCourses()})}catch(e){return NextResponse.json({error:e instanceof Error?e.message:"COURSES_FAILED"},{status:500})}}
