@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { posts } from "../../lib/posts";
 
-export const metadata = { title: "Weekly Qur'an reflections | KNOWLEGE.ORG", description: "A weekly reflection on a Qur'anic theme, with verses and hadith from the six major collections, each cited and linked to its source." };
+export const metadata = { title: "Weekly Qur'an Reflections", description: "A weekly reflection on a Qur'anic theme, with verses and hadith from the six major collections, each cited and linked to its source." };
 
 export default function Page() {
   return <main className="shell page">
