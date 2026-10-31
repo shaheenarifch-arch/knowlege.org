@@ -16,7 +16,7 @@ export default function Page() {
     </ul>
     <h2 id="sources">How we use sources</h2>
     <p>Every verse and hadith we show is fetched from a named source and displayed exactly as published, never written by AI. Qur'an English text uses Marmaduke Pickthall's translation (1930, public domain) via <a href="https://alquran.cloud/api" target="_blank" rel="noopener noreferrer">AlQuran Cloud</a>. Hadith come from the six major collections (Sahih al-Bukhari, Sahih Muslim, Sunan Abi Dawud, Jami' at-Tirmidhi, Sunan an-Nasa'i and Sunan Ibn Majah) via the open <a href="https://github.com/fawazahmed0/hadith-api" target="_blank" rel="noopener noreferrer">hadith-api dataset</a>, with gradings shown as given.</p>
-    <p>Weekly reflections are AI-assisted, written only from the cited texts, and reviewed by a person before publication.</p>
+    <p>Weekly reflections and Knowledge Hub guides are AI-assisted and written only from the cited texts, which are checked against their sources. Spotted a mistake? Please <Link href="/contact">let us know</Link>.</p>
     <h2 id="editorial">Editorial leadership</h2>
     <p><strong>Editor-in-Chief:</strong> Hafiz Faheem Arif, Michigan, USA</p>
     <h2>Not religious rulings</h2>
