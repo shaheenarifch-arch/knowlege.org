@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { posts, getPost, cite, anchor } from "../../../lib/posts";
 
-export const dynamicParams = false;
 export function generateStaticParams() { return posts.map(p => ({ slug: p.slug })); }
 
 type Props = { params: Promise<{ slug: string }> };
