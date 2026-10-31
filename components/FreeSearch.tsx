@@ -23,9 +23,9 @@ interface Verse { ref: string; surah: string; surahNumber: number; ayah: number;
 interface HadithHit { number: number; text: string; grades: Array<{ name: string; grade: string }> }
 interface HadithFile { hadiths: Array<{ hadithnumber: number; text: string; grades?: Array<{ name: string; grade: string }> }> }
 
-export function FreeSearch() {
+export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}) {
   const [q, setQ] = useState("");
-  const [source, setSource] = useState("quran");
+  const [source, setSource] = useState(hadithOnly ? "bukhari" : "quran");
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [verses, setVerses] = useState<Verse[] | null>(null);
@@ -72,7 +72,7 @@ export function FreeSearch() {
     <form onSubmit={run} className="searchbar" role="search" aria-label="Search the Qur'an and hadith">
       <input className="input" value={q} onChange={e => setQ(e.target.value)} placeholder="Search a word or phrase, e.g. patience" aria-label="Search words" />
       <select className="input" value={source} onChange={e => setSource(e.target.value)} aria-label="Source to search">
-        <option value="quran">Qur'an (English)</option>
+        {!hadithOnly && <option value="quran">Qur'an (English)</option>}
         {Object.entries(COLLECTIONS).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
       </select>
       <button className="btn primary" disabled={busy}>{busy ? "Searching…" : "Search"}</button>
