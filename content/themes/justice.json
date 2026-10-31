@@ -1,0 +1,128 @@
+{
+ "slug": "justice",
+ "title": "Justice",
+ "summary": "Justice ('adl) in the Qur'an and Sunnah: verses on standing firm for fairness, and hadith on equality before the law and resisting oppression.",
+ "intro": [
+  "The Qur'an asks believers to stand firm for justice even when it weighs against themselves, their families or people they dislike. Justice here covers courts and leadership, but also everyday dealings such as trade, promises and the care of orphans.",
+  "The hadith show the Prophet insisting that the same standard apply to the powerful and the weak, and describing oppression as darkness on the Day of Resurrection."
+ ],
+ "guides": [
+  "zakah",
+  "marriage"
+ ],
+ "related": [
+  "responsible-citizenship",
+  "human-dignity",
+  "ethics"
+ ],
+ "verses": [
+  {
+   "ref": "4:135",
+   "lines": [
+    {
+     "ayah": 135,
+     "text": "O ye who believe! Be ye staunch in justice, witnesses for Allah, even though it be against yourselves or (your) parents or (your) kindred, whether (the case be of) a rich man or a poor man, for Allah is nearer unto both (them ye are). So follow not passion lest ye lapse (from truth) and if ye lapse or fall away, then lo! Allah is ever Informed of what ye do"
+    }
+   ]
+  },
+  {
+   "ref": "5:8",
+   "lines": [
+    {
+     "ayah": 8,
+     "text": "O ye who believe! Be steadfast witnesses for Allah in equity, and let not hatred of any people seduce you that ye deal not justly. Deal justly, that is nearer to your duty. Observe your duty to Allah. Lo! Allah is Informed of what ye do"
+    }
+   ]
+  },
+  {
+   "ref": "16:90",
+   "lines": [
+    {
+     "ayah": 90,
+     "text": "Lo! Allah enjoineth justice and kindness, and giving to kinsfolk, and forbiddeth lewdness and abomination and wickedness. He exhorteth you in order that ye may take heed"
+    }
+   ]
+  },
+  {
+   "ref": "4:58",
+   "lines": [
+    {
+     "ayah": 58,
+     "text": "Lo! Allah commandeth you that ye restore deposits to their owners, and, if ye judge between mankind, that ye judge justly. Lo! comely is this which Allah admonisheth you. Lo! Allah is ever Hearer, Seer"
+    }
+   ]
+  },
+  {
+   "ref": "49:9",
+   "lines": [
+    {
+     "ayah": 9,
+     "text": "And if two parties of believers fall to fighting, then make peace between them. And if one party of them doeth wrong to the other, fight ye that which doeth wrong till it return unto the ordinance of Allah; then, if it return, make peace between them justly, and act equitably. Lo! Allah loveth the equitable"
+    }
+   ]
+  },
+  {
+   "ref": "57:25",
+   "lines": [
+    {
+     "ayah": 25,
+     "text": "We verily sent Our messengers with clear proofs, and revealed with them the Scripture and the Balance, that mankind may observe right measure; and He revealed iron, wherein is mighty power and (many) uses for mankind, and that Allah may know him who helpeth Him and His messengers, though unseen. Lo! Allah is Strong, Almighty"
+    }
+   ]
+  },
+  {
+   "ref": "6:152",
+   "lines": [
+    {
+     "ayah": 152,
+     "text": "And approach not the wealth of the orphan save with that which is better, till he reach maturity. Give full measure and full weight, in justice. We task not any soul beyond its scope. And if ye give your word, do justice thereunto, even though it be (against) a kinsman; and fulfil the covenant of Allah. This He commandeth you that haply ye may remember"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 6788,
+   "text": "Narrated `Aisha:The Quraish people became very worried about the Makhzumiya lady who had committed theft. They said, \"Nobody can speak (in favor of the lady) to Allah's Messenger (ﷺ) and nobody dares do that except Usama who is the favorite of Allah's Messenger (ﷺ). \" When Usama spoke to Allah's Messenger (ﷺ) about that matter, Allah's Messenger (ﷺ) said, \"Do you intercede (with me) to violate one of the legal punishment of Allah?\" Then he got up and addressed the people, saying, \"O people! The nations before you went astray because if a noble person committed theft, they used to leave him, but if a weak person among them committed theft, they used to inflict the legal punishment on him. By Allah, if Fatima, the daughter of Muhammad committed theft, Muhammad will cut off her hand",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2444,
+   "text": "Narrated Anas:Allah's Messenger (ﷺ) said, \"Help your brother, whether he is an oppressor or he is an oppressed one. People asked, \"O Allah's Messenger (ﷺ)! It is all right to help him if he is oppressed, but how should we help him if he is an oppressor?\" The Prophet (ﷺ) said, \"By preventing him from oppressing others",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2447,
+   "text": "Narrated Ibn `Umar:The Prophet (ﷺ) said, \"Oppression will be a darkness on the Day of Resurrection",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2587,
+   "text": "Narrated 'Amir:I heard An-Nu`man bin Bashir on the pulpit saying, \"My father gave me a gift but `Amra bint Rawaha (my mother) said that she would not agree to it unless he made Allah's Messenger (ﷺ) as a witness to it. So, my father went to Allah's Messenger (ﷺ) and said, 'I have given a gift to my son from `Amra bint Rawaha, but she ordered me to make you as a witness to it, O Allah's Messenger (ﷺ)!' Allah's Messenger (ﷺ) asked, 'Have you given (the like of it) to everyone of your sons?' He replied in the negative. Allah's Messenger (ﷺ) said, 'Be afraid of Allah, and be just to your children.' My father then returned and took back his gift",
+   "grades": []
+  },
+  {
+   "collection": "nasai",
+   "number": 5379,
+   "text": "It was narrated from 'Abdullah bin 'Amr bin Al-'As that:The Prophet [SAW] said: \"Those who are just and fair will be with Allah, Most High, on thrones of light, at the right hand of the Most Merciful, those who are just in their rulings and in their dealings with their families and those of whom they are in charge.\" Muhammad (one of the narrators) said in his Hadith: \"And both of His hands are right hands",
+   "grades": [
+    {
+     "name": "Abu Ghuddah",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Sahih Muslim"
+    }
+   ]
+  }
+ ]
+}

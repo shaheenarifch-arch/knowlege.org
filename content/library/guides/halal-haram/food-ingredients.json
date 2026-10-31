@@ -1,0 +1,131 @@
+{
+  "slug": "food-ingredients",
+  "title": "Halal Food Ingredients: Gelatin, Alcohol, Additives and More",
+  "summary": "How to judge packaged and prepared food: why most plant ingredients are halal, the ingredients to check (gelatin, animal fats, rennet, alcohol, carmine), when contamination matters, vinegar, and how to read labels without falling into needless doubt.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Iftar_for_Ramadhan.jpg/1280px-Iftar_for_Ramadhan.jpg",
+    "alt": "An iftar spread of dates, fruit and drinks laid out to break the Ramadan fast",
+    "width": 1280, "height": 671,
+    "author": "Flickr user raasiel", "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iftar_for_Ramadhan.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Most ingredients are halal",
+      "paragraphs": [
+        "The starting rule for food is permission: what God has not forbidden is allowed [H abudawud 3800], and He tells people to eat what is lawful and good [Q 2:168]. Grains, fruit, vegetables, pulses, nuts, salt, sugar, water and spices are all halal unless something forbidden has been added to them.",
+        "The Qur'an names milk and honey among God's blessings [Q 16:66] [Q 16:69], and the schools agree that milk, dairy and eggs from lawful animals are halal. Fish and their products need no slaughter [Q 5:96]. The questions arise mainly with ingredients that come from animals or contain alcohol."
+      ]
+    },
+    {
+      "heading": "Ingredients to check",
+      "paragraphs": [
+        "These are the ingredients that most often decide whether a product is halal. Their source matters more than their name:"
+      ],
+      "points": [
+        "Gelatin: made from the skin and bones of animals. From fish, or from properly slaughtered halal animals, it is lawful; from pigs it is forbidden [Q 2:173]. The schools differ on gelatin from other sources (see More detail).",
+        "Animal fats, lard and shortening: lard is pork fat and forbidden [Q 6:145]. Other animal fats follow the animal and its slaughter.",
+        "Rennet and enzymes in cheese: microbial and plant rennets are halal; rennet from properly slaughtered animals is halal; the schools differ over rennet from animals not slaughtered properly (see More detail).",
+        "Alcohol: wine, beer and spirits added as a drink or for flavour (in sauces, desserts or chocolates) make the food forbidden [H bukhari 5585].",
+        "Carmine or cochineal (E120): a red colour made from insects. The schools differ on insects other than locusts (see More detail).",
+        "Emulsifiers and other additives (for example mono- and diglycerides, E471) can be made from plant or animal fat. The label or the manufacturer can usually say which."
+      ]
+    },
+    {
+      "heading": "When forbidden matter falls into food",
+      "paragraphs": [
+        "The Prophet ﷺ was asked about ghee into which a mouse had fallen and died. He said to throw away the mouse and the ghee around it and eat the rest [H bukhari 5538] [H bukhari 235]. The schools take from this that when impure matter touches solid food, the affected part is removed and the rest stays lawful.",
+        "Liquids are different, because the impurity spreads through them; most scholars hold that a liquid food into which impurity has fallen becomes impure. Utensils that others use for forbidden food are also a concern: when a companion asked about eating from the vessels of the People of the Book, the Prophet ﷺ told him to use other vessels if he could, and otherwise to wash them first [H bukhari 5496]."
+      ]
+    },
+    {
+      "heading": "Vinegar",
+      "paragraphs": [
+        "Vinegar is halal. The Prophet ﷺ praised it as an excellent condiment [H abudawud 3820]. The schools agree that wine which turns into vinegar on its own becomes pure and lawful.",
+        "Deliberately turning wine into vinegar is a different matter. When asked whether orphans' inherited wine could be made into vinegar, the Prophet ﷺ said no and told the owner to pour it away [H abudawud 3675]. The schools differ on whether vinegar made in this way is lawful (see More detail)."
+      ]
+    },
+    {
+      "heading": "Avoiding needless doubt",
+      "paragraphs": [
+        "Islam asks Muslims to avoid what is truly doubtful [H bukhari 52], not to treat every ingredient as suspect. The Prophet ﷺ told people who were unsure whether God's name had been said over meat from fellow Muslims to say it themselves and eat [H bukhari 5507]. God also says not to forbid the good things He has made lawful [Q 5:87].",
+        "A balanced approach is: check labels for the ingredients above, prefer products with a trusted halal mark when the source is unclear, and do not burden yourself or others by questioning everything. If something forbidden is eaten by mistake, there is no sin in it [Q 33:5]."
+      ]
+    },
+    {
+      "heading": "Necessity and medicine",
+      "paragraphs": [
+        "Forbidden food may be eaten in genuine necessity, without desire for it and without exceeding the need [Q 2:173]. The schools agree on this for real hunger.",
+        "Medicines raise more detailed questions, such as gelatin capsules or alcohol used as a solvent. Halal alternatives are often available; where they are not, scholars apply the rules of necessity and of transformed substances differently, so ask a qualified scholar about your situation."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Gelatin from pigs or animals not slaughtered properly",
+      "hanafi": "If the substance has completely changed into a new one (istihalah), it takes the new ruling; scholars differ on whether gelatin manufacture is a complete change.",
+      "maliki": "Recognises complete transformation (istihalah) as changing the ruling; scholars differ on whether gelatin manufacture is a complete change.",
+      "shafii": "Transformation does not purify, except wine turning into vinegar by itself and hides by tanning; so such gelatin is not lawful.",
+      "hanbali": "In the relied view, transformation does not purify, except wine turning into vinegar by itself; so such gelatin is not lawful."
+    },
+    {
+      "question": "Rennet from an animal not slaughtered properly",
+      "hanafi": "Abu Hanifa held it pure; his two students held it impure.",
+      "maliki": "Follows the general rule on parts of an animal not slaughtered properly; consult a scholar of the school for details.",
+      "shafii": "Impure.",
+      "hanbali": "Follows the general rule on parts of an animal not slaughtered properly; consult a scholar of the school for details."
+    },
+    {
+      "question": "Wine deliberately made into vinegar",
+      "hanafi": "The vinegar is pure and lawful, however it was made.",
+      "maliki": "Making it is disliked, but the vinegar is pure and lawful in the relied view.",
+      "shafii": "Not pure if something was added to make it; pure if it changed by itself [H abudawud 3675].",
+      "hanbali": "Making it is forbidden and it does not become pure [H abudawud 3675]."
+    },
+    {
+      "question": "Insects other than locusts (relevant to carmine, E120)",
+      "hanafi": "Forbidden, as among repugnant things (khaba'ith) [Q 7:157].",
+      "maliki": "Permitted when killed with the intention of making it lawful and with God's name mentioned.",
+      "shafii": "Forbidden, as among repugnant things (khaba'ith) [Q 7:157].",
+      "hanbali": "Forbidden, as among repugnant things (khaba'ith) [Q 7:157]."
+    },
+    {
+      "question": "Traces of alcohol in food",
+      "hanafi": "Follows the general rule above; consult a scholar of the school for flavourings and trace amounts.",
+      "maliki": "Follows the general rule above; consult a scholar of the school for flavourings and trace amounts.",
+      "shafii": "Follows the general rule above; consult a scholar of the school for flavourings and trace amounts.",
+      "hanbali": "Follows the general rule above; consult a scholar of the school for flavourings and trace amounts."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is all cheese halal?",
+      "a": "Cheese made with microbial, plant or halal-slaughtered animal rennet is halal. Cheese with rennet from animals not slaughtered properly is debated (see More detail), so many Muslims choose vegetarian or halal-certified cheese. Beyond that, the general rule applies: what God was silent about is allowed [H abudawud 3800]."
+    },
+    {
+      "q": "Are gummy sweets halal?",
+      "a": "It depends on the gelatin. Sweets made with fish gelatin, halal beef gelatin, or plant gels such as pectin or agar are halal. Those with pork gelatin are not [Q 2:173]. Check the label or look for a halal mark."
+    },
+    {
+      "q": "Is food cooked with wine halal if the alcohol burns off?",
+      "a": "Adding wine to food is itself the use of something forbidden, and cooking does not reliably remove it all, so scholars advise avoiding such food [H bukhari 5585]. Choose recipes without wine or spirits."
+    },
+    {
+      "q": "Is vanilla extract halal?",
+      "a": "Vanilla extract is made with alcohol as a solvent, and the amount in a finished food is usually very small. Scholars differ on such traces (see More detail). Alcohol-free vanilla flavouring or vanilla powder avoids the question."
+    },
+    {
+      "q": "What are E-numbers? Are they haram?",
+      "a": "E-numbers are codes for approved food additives in Europe. Most come from plants, minerals or synthesis and are halal. A few can come from animals or insects, such as E120 (carmine) and some emulsifiers like E471; for these, the source decides."
+    },
+    {
+      "q": "I ate something and later found it had pork gelatin. Have I sinned?",
+      "a": "No. There is no sin in what is done by genuine mistake [Q 33:5]. Avoid the product from now on. You do not need to do anything else."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Food chapters of Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/70" },
+    { "name": "Surah al-Baqarah (2:168-173) on lawful food, Quran.com", "url": "https://quran.com/2/168" }
+  ]
+}

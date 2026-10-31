@@ -1,0 +1,143 @@
+{
+  "slug": "jumuah",
+  "title": "Jumu'ah: The Friday Prayer",
+  "summary": "Who must attend the Friday prayer, its time, the two sermons and the two units, the sunnahs of the day such as the bath and coming early, listening in silence, and what to do if you arrive late or miss it.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Masjid_Istiqlal.jpg/1920px-Masjid_Istiqlal.jpg",
+    "alt": "Istiqlal Mosque in Jakarta with its large white dome",
+    "width": 1920, "height": 1462,
+    "author": "Michael Coghlan", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_Istiqlal.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "The day of gathering",
+      "paragraphs": [
+        "Friday is the weekly day of gathering for Muslims. God commands believers, when the call to the Friday prayer is made, to hurry to the remembrance of God and leave trading, and once the prayer is over to spread out in the land and seek His bounty [Q 62:9-10]. The Prophet ﷺ said that God guided this community to Friday as its day [H bukhari 876].",
+        "Leaving the Friday prayer is serious. The Prophet ﷺ warned that whoever leaves three Fridays out of carelessness will have a seal placed on his heart [H abudawud 1052]."
+      ]
+    },
+    {
+      "heading": "Who must attend",
+      "paragraphs": [
+        "The Prophet ﷺ said the Friday prayer in congregation is a duty on every Muslim except four: a slave, a woman, a child and a sick person [H abudawud 1067]. On this basis the schools agree it is obligatory on every free, adult, sane Muslim man who is resident and has no valid excuse.",
+        "It is not obligatory on women, children, travellers or the sick, though they may attend. A woman, traveller or sick person who prays it with the congregation does not then pray Dhuhr. Anyone not obliged who does not attend prays Dhuhr as normal."
+      ]
+    },
+    {
+      "heading": "Its time and form",
+      "paragraphs": [
+        "Jumu'ah takes the place of Dhuhr on Friday. The Prophet ﷺ prayed it once the sun had passed its height [H bukhari 904]. The schools agree on its core form:"
+      ],
+      "points": [
+        "In the Prophet's time the call to prayer (adhan) was made when the imam sat on the pulpit; 'Uthman later added an earlier call as the city grew [H bukhari 912].",
+        "The imam gives two sermons (khutbahs) standing, sitting briefly between them [H bukhari 920] [H bukhari 928].",
+        "The sermons come before the prayer, unlike the Eid prayer.",
+        "The prayer is two units, led by the imam, with the recitation aloud.",
+        "It must be prayed in congregation; a person praying alone prays Dhuhr instead."
+      ]
+    },
+    {
+      "heading": "Sunnahs of Friday",
+      "paragraphs": [
+        "The Prophet ﷺ said that whoever takes a bath on Friday, purifies himself as well as he can, uses oil or perfume, goes to the prayer without pushing between two people, prays what is written for him and listens quietly to the imam, has his sins forgiven until the next Friday [H bukhari 883]. From this and similar hadith the schools agree on these sunnahs:"
+      ],
+      "points": [
+        "Taking a bath (ghusl) before going [H bukhari 877].",
+        "Using the tooth-stick (siwak) and perfume [H bukhari 880], and wearing one's best clean clothes.",
+        "Going early. The angels at the mosque door record people in the order they arrive, and the earliest is like one who offers a camel [H bukhari 929].",
+        "Making plenty of supplication: there is an hour on Friday when a Muslim's prayer to God is answered [H bukhari 935].",
+        "Praying voluntary prayers after Jumu'ah; the Prophet ﷺ prayed two units at home after it [H bukhari 937]."
+      ]
+    },
+    {
+      "heading": "Listening to the sermon",
+      "paragraphs": [
+        "The schools agree that those present must listen to the sermon and not talk. The Prophet ﷺ said that if you tell your companion \"be quiet\" while the imam is speaking, you have spoken idly yourself [H bukhari 934].",
+        "One should not step over or push between people to reach a place [H bukhari 883]. The schools differ over whether someone arriving during the sermon prays two short units before sitting (see More detail)."
+      ]
+    },
+    {
+      "heading": "Arriving late or missing it",
+      "paragraphs": [
+        "A person who catches one full unit of Jumu'ah with the imam completes it as Jumu'ah [H nasai 557]. In the Maliki, Shafi'i and Hanbali schools, someone who joins after the imam has risen from the bowing of the second unit has missed Jumu'ah and completes four units of Dhuhr (see More detail for the Hanafi view).",
+        "Someone who misses the Friday prayer altogether prays four units of Dhuhr. If it was missed without an excuse, they should also repent."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Minimum number for Jumu'ah",
+      "hanafi": "Three men besides the imam.",
+      "maliki": "Twelve men besides the imam, present for the sermon and prayer, in a settled community.",
+      "shafii": "Forty men who are obliged to attend, including the imam.",
+      "hanbali": "Forty men who are obliged to attend, including the imam."
+    },
+    {
+      "question": "Earliest time for Jumu'ah",
+      "hanafi": "The time of Dhuhr.",
+      "maliki": "The time of Dhuhr.",
+      "shafii": "The time of Dhuhr.",
+      "hanbali": "Valid from before noon (the time of the Eid prayer) in the relied view, though praying after noon is better."
+    },
+    {
+      "question": "Praying two units on arriving during the sermon",
+      "hanafi": "Not prayed; once the imam comes out, prayer and talk stop.",
+      "maliki": "Not prayed; the person sits and listens.",
+      "shafii": "Recommended to pray two short units before sitting [H bukhari 930].",
+      "hanbali": "Recommended to pray two short units before sitting [H bukhari 930]."
+    },
+    {
+      "question": "Ghusl for Friday",
+      "hanafi": "Sunnah, for the sake of the prayer.",
+      "maliki": "Sunnah, and it should be connected to going to the prayer.",
+      "shafii": "Sunnah; its time begins at dawn.",
+      "hanbali": "Sunnah; its time begins at dawn."
+    },
+    {
+      "question": "Joining late: what counts as catching Jumu'ah",
+      "hanafi": "Joining the imam at any point before his final salam, even in the last sitting, counts; the person completes two units.",
+      "maliki": "Catching at least one full unit with the imam; otherwise pray four units of Dhuhr.",
+      "shafii": "Catching at least one full unit with the imam [H nasai 557]; otherwise pray four units of Dhuhr.",
+      "hanbali": "Catching at least one full unit with the imam [H nasai 557]; otherwise pray four units of Dhuhr."
+    },
+    {
+      "question": "When Eid falls on a Friday",
+      "hanafi": "Jumu'ah is still obligatory for those it is normally due on.",
+      "maliki": "Jumu'ah is still obligatory for those it is normally due on.",
+      "shafii": "Obligatory for residents of the town; those who came from outlying villages may leave it.",
+      "hanbali": "Whoever prayed Eid may miss Jumu'ah and pray Dhuhr instead [H abudawud 1070]; the imam still holds it."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do women have to pray Jumu'ah?",
+      "a": "No. The Prophet ﷺ named women among those for whom it is not obligatory [H abudawud 1067]. A woman may attend, and if she prays Jumu'ah with the congregation it replaces her Dhuhr. Otherwise she prays Dhuhr at home."
+    },
+    {
+      "q": "Is Jumu'ah required for travellers?",
+      "a": "No, the schools agree it is not obligatory on a traveller. A traveller who attends and prays it has fulfilled the prayer of that time; otherwise they pray Dhuhr, shortened to two units if the journey allows it."
+    },
+    {
+      "q": "Can I miss Jumu'ah because of work?",
+      "a": "The Qur'an tells believers to leave trading when the call is made [Q 62:9], so ordinary work is not an excuse. Real necessity, such as some emergency or safety-critical roles, can be an excuse. Speak to your employer about a break, and ask a scholar about your circumstances."
+    },
+    {
+      "q": "Can I talk or use my phone during the khutbah?",
+      "a": "No. Even telling someone to be quiet during the sermon is idle speech [H bukhari 934]. Silence your phone and listen. Replying to a greeting or necessary speech has detailed rules in each school."
+    },
+    {
+      "q": "I arrived during the second unit. Did I catch Jumu'ah?",
+      "a": "If you joined before the imam rose from the bowing of the second unit, you caught a unit, so you complete Jumu'ah by adding one more unit after his salam [H nasai 557]. If you joined after that, the Maliki, Shafi'i and Hanbali schools say you pray four units of Dhuhr; the Hanafi school says you complete two units of Jumu'ah."
+    },
+    {
+      "q": "What is the special hour on Friday?",
+      "a": "The Prophet ﷺ said there is a short time on Friday when a Muslim who is praying and asks God for something will be given it [H bukhari 935]. Scholars hold different views on when it falls, commonly the time of the sermon and prayer, or the last hour before sunset, so many make supplication at both."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Friday Prayer chapters of Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/11" },
+    { "name": "Surah al-Jumu'ah (62:9-10), Quran.com", "url": "https://quran.com/62/9" }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "missed-prayers",
+  "title": "Missed Prayers (Qada): How to Make Them Up",
+  "summary": "What to do when an obligatory prayer is missed: the duty to make it up, praying it as soon as you remember, keeping the order of prayers, making up many years of prayers, and who does not have to make up prayers.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg/1920px-Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg",
+    "alt": "Faisal Mosque in Islamabad with its four pencil minarets",
+    "width": 1920, "height": 1208,
+    "author": "Ali Mujtaba", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "A missed prayer is a debt",
+      "paragraphs": [
+        "Each obligatory prayer has its time [Q 4:103]. When a prayer passes its time without being prayed, the obligation does not disappear. The Prophet ﷺ said that whoever forgets a prayer should pray it when he remembers, and that there is no expiation for it except that; then he recited \"Establish prayer for My remembrance\" [H bukhari 597] [Q 20:14].",
+        "Praying a prayer after its time is called qada (making up); praying it within its time is ada'. The four schools agree that every missed obligatory prayer must be made up, whether it was missed through sleep, forgetfulness or deliberate neglect."
+      ]
+    },
+    {
+      "heading": "Sleep and forgetfulness",
+      "paragraphs": [
+        "Someone who sleeps through a prayer or genuinely forgets it is not sinful, but must pray it once they wake or remember [H abudawud 442]. On one journey the Prophet ﷺ and his companions slept through Fajr; when they woke after sunrise, he had the call to prayer made and led them in the prayer [H bukhari 595].",
+        "During the Battle of the Trench, the Prophet ﷺ was kept from Asr until after sunset; he made wudu, prayed Asr and then Maghrib [H bukhari 596]. The schools take from this that missed prayers are made up in the same form as the original, and in their order."
+      ]
+    },
+    {
+      "heading": "Missing a prayer on purpose",
+      "paragraphs": [
+        "Deliberately leaving a prayer until its time ends is a major sin. The Qur'an condemns those who neglect prayer and follow their desires, except those who repent, believe and do good [Q 19:59-60]. The Prophet ﷺ said whoever misses Asr is like one who has lost his family and wealth [H bukhari 552].",
+        "The four schools agree that someone who missed prayers deliberately must both repent sincerely and make the prayers up. Repentance does not remove the debt of the prayers themselves. (A few scholars, such as Ibn Hazm, held otherwise; this guide follows the relied positions of the four schools.)"
+      ]
+    },
+    {
+      "heading": "Order and timing",
+      "paragraphs": [
+        "The schools agree that a missed prayer should be made up promptly, without needless delay. They also agree that keeping the order between missed prayers and the current prayer is important, following the Prophet's example at the Trench [H bukhari 596]; they differ on when this order is required and when it lapses (see More detail).",
+        "Only the obligatory prayers (and, in the Hanafi school, witr) must be made up. The regular sunnah prayers are not a debt, though the Prophet ﷺ prayed the two sunnah units before Fajr when he made Fajr up after sunrise [H abudawud 444]."
+      ]
+    },
+    {
+      "heading": "Making up many prayers",
+      "paragraphs": [
+        "Some people return to prayer after years of not praying. The schools agree that they should estimate the number of prayers missed, taking the higher figure where unsure, and make them up steadily alongside the daily prayers until the debt is cleared. God does not burden a soul beyond its capacity [Q 2:286].",
+        "A practical way is to pray one or more missed prayers with each current prayer, for example a missed Fajr with today's Fajr. Each prayer is made up as it was originally due: a missed four-unit prayer from a time of residence is prayed as four units, even if made up while travelling."
+      ]
+    },
+    {
+      "heading": "Who does not make up prayers",
+      "paragraphs": [
+        "The schools agree on these cases:"
+      ],
+      "points": [
+        "A woman does not make up prayers missed during menstruation or post-natal bleeding. 'A'ishah said the Prophet ﷺ never ordered women to make up those prayers [H bukhari 321].",
+        "A child does not make up prayers from before puberty, as prayer was not yet obligatory.",
+        "A convert does not make up prayers from before Islam. God promises that if those who disbelieved stop, what is past will be forgiven [Q 8:38].",
+        "The schools differ over someone who was unconscious or insane for a long period (see More detail)."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Keeping the order of missed prayers",
+      "hanafi": "Required while the missed prayers are five or fewer, unless one forgot or time is short; once six or more are owed, order lapses.",
+      "maliki": "Required between a few missed prayers (four or five at most) and the current prayer, when remembered; the order among many missed prayers is also kept when remembered.",
+      "shafii": "Recommended, not required.",
+      "hanbali": "Required, however many are owed, unless one forgets or the current prayer's time would run out."
+    },
+    {
+      "question": "Prayers missed during long unconsciousness",
+      "hanafi": "Made up if the unconsciousness covered five prayers or fewer; not if it covered more.",
+      "maliki": "Not made up if the person did not regain consciousness within the prayer's time.",
+      "shafii": "Not made up if the whole time of the prayer passed while unconscious.",
+      "hanbali": "Made up, as with sleep."
+    },
+    {
+      "question": "Making up voluntary prayers",
+      "hanafi": "Not made up, except the sunnah of Fajr when made up with Fajr before noon of that day.",
+      "maliki": "Not made up, except the sunnah of Fajr, which may be prayed after sunrise until noon.",
+      "shafii": "Recommended to make up the regular (rawatib) sunnah prayers.",
+      "hanbali": "Recommended to make up the regular sunnah prayers."
+    },
+    {
+      "question": "Prayers missed deliberately",
+      "hanafi": "Must be made up, with repentance.",
+      "maliki": "Must be made up, with repentance.",
+      "shafii": "Must be made up, with repentance, and promptly.",
+      "hanbali": "Must be made up, with repentance."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a special prayer that makes up for all missed prayers?",
+      "a": "No. The Prophet ﷺ said there is no expiation for a missed prayer except praying it [H bukhari 597]. The four schools agree that each missed obligatory prayer is made up individually."
+    },
+    {
+      "q": "How do I make the intention for a missed prayer?",
+      "a": "Intend in your heart the specific prayer you are making up, such as \"the Dhuhr I owe\". If you owe many of the same prayer, many scholars say you may intend \"the first (or last) Dhuhr I owe\" each time. Intention is in the heart [H bukhari 1]."
+    },
+    {
+      "q": "Can I make up missed prayers after Fajr or Asr?",
+      "a": "In the Maliki, Shafi'i and Hanbali schools, yes: a missed obligatory prayer may be made up at any time. The Hanafi school allows it after Fajr and Asr but not at sunrise, when the sun is at its height, or at sunset (see the Prayer Times guide)."
+    },
+    {
+      "q": "I don't know how many prayers I missed. What do I do?",
+      "a": "Estimate carefully, and where unsure take the larger number so that you are confident the debt is cleared. Then make them up steadily alongside your daily prayers. God does not ask more than you can bear [Q 2:286]."
+    },
+    {
+      "q": "Should I make up prayers missed during my period?",
+      "a": "No. A woman does not make up prayers missed during menstruation or post-natal bleeding. 'A'ishah said the Prophet ﷺ never told women to make them up [H bukhari 321]. Fasts missed during menstruation are made up."
+    },
+    {
+      "q": "Can I pray missed prayers in congregation?",
+      "a": "Yes. The Prophet ﷺ led his companions in the Fajr they had slept through [H bukhari 595], and in Asr and Maghrib after the Trench [H bukhari 596]. Those praying together should be making up the same prayer."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Times of the Prayers in Sahih al-Bukhari, including making up missed prayers, on Sunnah.com", "url": "https://sunnah.com/bukhari/9" },
+    { "name": "Surah Taha (20:14), Quran.com", "url": "https://quran.com/20/14" }
+  ]
+}

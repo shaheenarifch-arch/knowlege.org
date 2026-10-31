@@ -1,0 +1,125 @@
+{
+  "slug": "witr-and-tarawih",
+  "title": "Witr and Tarawih: The Night Prayers",
+  "summary": "The witr prayer that closes the night and the tarawih prayers of Ramadan: their time, how many units are prayed, the qunut supplication, praying them in congregation, and how the schools differ on witr's status.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg/1920px-Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg",
+    "alt": "The Green Dome and minarets of Masjid an-Nabawi, the Prophet's Mosque in Madinah",
+    "width": 1920, "height": 1280,
+    "author": "TheHadiRahim", "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_(Al_Masjid-e-Nabawi).jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Prayer at night",
+      "paragraphs": [
+        "Prayer in the night is among the most praised voluntary acts. God told the Prophet ﷺ to rise for part of the night in prayer as an extra gift [Q 17:79], and praises those who stand in prayer for part of the night while telling them to recite what is easy [Q 73:20].",
+        "The Prophet ﷺ described night prayer as two units at a time, and said that when dawn is near one should pray a single unit to make all that was prayed odd [H bukhari 990]. That closing odd-numbered prayer is witr."
+      ]
+    },
+    {
+      "heading": "Witr: its importance and time",
+      "paragraphs": [
+        "The Prophet ﷺ said God is One (witr) and loves what is odd, so his followers should pray witr [H abudawud 1416]. He told Abu Hurayrah to pray witr before sleeping [H bukhari 1981], and said to make witr the last of one's prayers at night [H bukhari 998]. All four schools treat witr as highly important; they differ on whether it is wajib or sunnah (see More detail).",
+        "Witr is prayed after Isha and before true dawn. 'A'ishah said the Prophet ﷺ prayed it at every part of the night, from early on until the last hours before dawn [H bukhari 996]. Someone who trusts themselves to wake may delay it to the end of the night; otherwise it is prayed before sleeping."
+      ]
+    },
+    {
+      "heading": "How witr is prayed",
+      "paragraphs": [
+        "The schools agree that witr is an odd number of units and that it is not repeated in one night: the Prophet ﷺ said there are no two witrs in one night [H abudawud 1439]. The Prophet ﷺ permitted praying it as five, three or one [H abudawud 1422], and the form differs between the schools (see More detail).",
+        "A short supplication called qunut is said in witr. The Prophet ﷺ taught his grandson al-Hasan words to say in witr, beginning \"O God, guide me among those You have guided\" [H abudawud 1425]. The schools differ on whether it is said all year or only in part of Ramadan, and on whether it comes before or after bowing."
+      ]
+    },
+    {
+      "heading": "Tarawih in Ramadan",
+      "paragraphs": [
+        "Tarawih is the night prayer of Ramadan, prayed after Isha. The Prophet ﷺ said whoever stands in prayer in Ramadan out of faith and hoping for reward has his past sins forgiven [H bukhari 37] [H bukhari 2009]. The four schools agree it is a strongly emphasised sunnah for men and women.",
+        "The Prophet ﷺ led the people in this prayer in the mosque for some nights and then stopped coming out, explaining that he feared it would be made obligatory on them [H bukhari 1129]. Later, 'Umar gathered the people behind one reciter, Ubayy ibn Ka'b, and congregational tarawih has continued since [H bukhari 2010]."
+      ]
+    },
+    {
+      "heading": "How many units",
+      "paragraphs": [
+        "'A'ishah said the Prophet ﷺ did not pray more than eleven units at night, in Ramadan or at other times [H bukhari 1147]. Reports from the time of 'Umar and after describe tarawih prayed with twenty units in congregation, and this became the practice of the schools; in Madinah the people later prayed thirty-six.",
+        "The schools agree that night prayer has no fixed upper limit, as it is two units followed by two [H bukhari 990]. The relied positions are twenty units for the Hanafi, Shafi'i and Hanbali schools, and the Maliki school also records thirty-six from the practice of Madinah. Many mosques today pray eight. Follow the practice of your mosque, and if you leave before the end, you are still rewarded for what you prayed."
+      ]
+    },
+    {
+      "heading": "Witr after tarawih",
+      "paragraphs": [
+        "In Ramadan, witr is usually prayed in congregation straight after tarawih. Someone who plans to pray more at night may leave witr until then, following the instruction to make witr the last prayer [H bukhari 998].",
+        "If a person prays witr with the imam and then wakes later to pray, the schools agree that they pray in twos and do not pray a second witr [H abudawud 1439]."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Status of witr",
+      "hanafi": "Wajib (necessary, just below obligatory), based on hadith such as \"witr is a duty on every Muslim\" [H abudawud 1422]; a missed witr is made up.",
+      "maliki": "Strongly emphasised sunnah.",
+      "shafii": "Strongly emphasised sunnah.",
+      "hanbali": "Strongly emphasised sunnah."
+    },
+    {
+      "question": "Number of units and form of witr",
+      "hanafi": "Three units with one salam, sitting for a tashahhud after the second, like Maghrib.",
+      "maliki": "One unit, preceded by at least two units (the shaf') separated from it by a salam [H bukhari 991].",
+      "shafii": "At least one, at most eleven; three is the lowest complete form, usually two plus one with a salam between.",
+      "hanbali": "At least one, at most eleven; three is the lowest complete form, usually two plus one with a salam between."
+    },
+    {
+      "question": "Qunut in witr",
+      "hanafi": "Said all year, in the third unit before bowing; it is wajib.",
+      "maliki": "Not part of witr in the relied view; the school's qunut is in Fajr.",
+      "shafii": "Recommended in the last unit of witr after bowing, in the second half of Ramadan only.",
+      "hanbali": "Recommended all year in the last unit of witr, after bowing."
+    },
+    {
+      "question": "Number of tarawih units",
+      "hanafi": "Twenty units, in pairs.",
+      "maliki": "Thirty-six units is recorded from the practice of Madinah; twenty is also widely followed.",
+      "shafii": "Twenty units, in pairs, with a salam after every two.",
+      "hanbali": "Twenty units, in pairs."
+    },
+    {
+      "question": "Tarawih in congregation or alone",
+      "hanafi": "Congregation in the mosque is a sunnah on the community (sunnah kifayah).",
+      "maliki": "Praying at home is better for one who will not neglect it, so the mosques are not left empty.",
+      "shafii": "Congregation is better, in the relied view [H bukhari 2010].",
+      "hanbali": "Congregation is better [H bukhari 2010]."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is witr obligatory?",
+      "a": "In the Hanafi school it is wajib, a step below the five obligatory prayers but still required, based on hadith that call it a duty [H abudawud 1422]. In the other three schools it is a strongly emphasised sunnah. All four agree it should not be left (see More detail)."
+    },
+    {
+      "q": "Can I pray witr before sleeping and then pray tahajjud later?",
+      "a": "Yes. If you wake after praying witr, pray voluntary prayers in twos and do not repeat witr, as there are no two witrs in one night [H abudawud 1439]."
+    },
+    {
+      "q": "Is tarawih eight or twenty units?",
+      "a": "'A'ishah reported the Prophet's night prayer as not exceeding eleven units including witr [H bukhari 1147]. The four schools' relied practice, going back to the time of 'Umar, is twenty units of tarawih, and Malik records thirty-six from Madinah. Night prayer has no fixed limit [H bukhari 990], so follow your mosque and do not argue over it."
+    },
+    {
+      "q": "Can women pray tarawih?",
+      "a": "Yes. Tarawih is a sunnah for women as for men. A woman may pray it at home or at the mosque. The reward of standing in Ramadan applies to everyone [H bukhari 37]."
+    },
+    {
+      "q": "What if I missed witr?",
+      "a": "In the Hanafi school a missed witr must be made up, as it is wajib. The Shafi'i and Hanbali schools recommend making it up, while the Maliki school holds that it is not made up once the Fajr prayer has been prayed. Ask your local scholar for your school's details on when and how to make it up."
+    },
+    {
+      "q": "Do I have to know the qunut supplication in Arabic?",
+      "a": "It is best to learn the qunut the Prophet ﷺ taught [H abudawud 1425]. Until you know it, many scholars say you may recite another short supplication or praise of God in its place. Learn it gradually."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Witr Prayer in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/14" },
+    { "name": "Praying at Night in Ramadan (Tarawih) in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/31" },
+    { "name": "Surah al-Muzzammil (73:20) on night prayer, Quran.com", "url": "https://quran.com/73/20" }
+  ]
+}

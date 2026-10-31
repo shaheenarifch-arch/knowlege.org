@@ -1,0 +1,121 @@
+{
+  "slug": "sajdah-al-sahw",
+  "title": "Sajdah al-Sahw: The Prostrations of Forgetfulness",
+  "summary": "What to do when you make a mistake in prayer: when the two prostrations of forgetfulness are needed, how to perform them, what to do if you are unsure how many units you prayed, and how the schools differ on doing them before or after the salam.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Muslims_praying_in_a_Masque_in_Bangladesh.jpg/1280px-Muslims_praying_in_a_Masque_in_Bangladesh.jpg",
+    "alt": "Rows of Muslim men praying together in congregation inside a mosque in Bangladesh",
+    "width": 1280, "height": 812,
+    "author": "Shaeekh Shuvro", "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muslims_praying_in_a_Masque_in_Bangladesh.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Mistakes in prayer are expected",
+      "paragraphs": [
+        "Everyone makes mistakes in prayer, and the Prophet ﷺ himself did so in order to teach. He said that Satan comes to a person in prayer and confuses him until he does not know how much he has prayed, and that whoever finds this should make two prostrations while sitting [H bukhari 1232].",
+        "These two extra prostrations are called sujud al-sahw, the prostrations of forgetfulness. They repair a prayer in which something was added, left out or doubted by mistake. God does not hold people to account for what they forget [Q 2:286]."
+      ]
+    },
+    {
+      "heading": "When they are needed",
+      "paragraphs": [
+        "The schools agree that the prostrations of forgetfulness are made in three kinds of situation, each taken from the Prophet's practice:"
+      ],
+      "points": [
+        "Leaving something out: the Prophet ﷺ once stood up after the second unit of Dhuhr without sitting for the first tashahhud, and made two prostrations before his salam to make up for it [H bukhari 1224] [H bukhari 1230].",
+        "Adding something: he once prayed five units of Dhuhr; when told, he made two prostrations after the salam [H bukhari 1226].",
+        "Ending too early: he once gave salam after two units of a four-unit prayer, completed the remaining two when reminded, and then made two prostrations [H bukhari 1229].",
+        "Doubt: when unsure how many units one has prayed (see below) [H abudawud 1024]."
+      ]
+    },
+    {
+      "heading": "What they cannot replace",
+      "paragraphs": [
+        "The prostrations of forgetfulness repair the lesser parts of prayer. They cannot replace a core act (rukn or fard), such as a bowing, a prostration, or a whole unit. If a core act was missed, it must be done; if the person remembers only after the prayer, they add the missing part or unit if little time has passed, and otherwise repeat the prayer.",
+        "The Prophet ﷺ did exactly this when he ended a prayer after two units: he stood, completed the two missing units, and then made the prostrations of forgetfulness [H bukhari 1229]."
+      ]
+    },
+    {
+      "heading": "When you are unsure how many units you prayed",
+      "paragraphs": [
+        "The Prophet ﷺ said that when someone is unsure about his prayer, he should set aside the doubt and build on what he is certain of, then make two prostrations before the salam. If he had in fact prayed five, the prostrations make the prayer even; if he prayed exactly four, they humiliate Satan [H abudawud 1024] [H nasai 1238].",
+        "The schools agree on building on certainty: if unsure whether you prayed three or four units, count three and pray one more. The Hanafi school adds that someone who has a strong impression either way acts on it (see More detail). Passing doubts after the prayer has ended are ignored."
+      ]
+    },
+    {
+      "heading": "How to perform them",
+      "paragraphs": [
+        "The prostrations of forgetfulness are two prostrations like those of the prayer, with a sitting between them, saying \"Allahu akbar\" going down and rising [H bukhari 1229]. They are made at the end of the prayer while sitting. The schools differ on whether they come before or after the final salam (see More detail); both are found in the Prophet's practice [H bukhari 1224] [H bukhari 1226].",
+        "A follower praying behind an imam does not make these prostrations for his own minor mistakes, but follows the imam when the imam makes them [H bukhari 1230]. When the imam makes a mistake, men alert him by saying \"Subhan Allah\" and women by clapping [H bukhari 1203]."
+      ]
+    },
+    {
+      "heading": "Standing up instead of sitting",
+      "paragraphs": [
+        "A common case is standing up for the third unit and forgetting the first tashahhud. The Prophet ﷺ said that if the person remembers before standing fully upright, he sits back down; if he has already stood up straight, he does not sit, but makes the two prostrations of forgetfulness at the end [H abudawud 1036].",
+        "The schools apply this rule with small differences of detail, but agree on its outline."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Before or after the salam",
+      "hanafi": "After one salam to the right, then the tashahhud is said again and the prayer is ended with salam [H abudawud 1038].",
+      "maliki": "Before the salam for something left out; after the salam for something added [H bukhari 1226].",
+      "shafii": "Before the salam in every case, in the relied view [H bukhari 1224].",
+      "hanbali": "Before the salam, except in the cases where the Prophet ﷺ made them after it, such as ending the prayer early [H bukhari 1229]."
+    },
+    {
+      "question": "Status of the prostrations",
+      "hanafi": "Wajib when a wajib act of prayer is left out by mistake.",
+      "maliki": "Sunnah; but leaving the pre-salam prostrations owed for missing three or more confirmed sunnahs, and not making them up soon, invalidates the prayer.",
+      "shafii": "Sunnah.",
+      "hanbali": "Wajib in the cases that call for it."
+    },
+    {
+      "question": "Doubt about the number of units",
+      "hanafi": "If it is the first time it has happened, repeat the prayer; if it happens often, act on one's strong impression, or else on the lower number.",
+      "maliki": "Build on the lower number and prostrate before the salam [H abudawud 1024].",
+      "shafii": "Build on the lower number and prostrate before the salam [H abudawud 1024].",
+      "hanbali": "Build on the lower number and prostrate before the salam [H abudawud 1024]; the school has further details for an imam."
+    },
+    {
+      "question": "Forgetting the first tashahhud and standing up",
+      "hanafi": "Return to sit if closer to sitting than standing; otherwise continue and prostrate for forgetfulness.",
+      "maliki": "Return if the hands and knees have not yet left the ground; otherwise continue and prostrate before the salam.",
+      "shafii": "Return if not yet fully upright; once upright, returning deliberately breaks the prayer.",
+      "hanbali": "Return if not yet fully upright; once upright, it is disliked to return, and once recitation has begun, returning is not allowed [H abudawud 1036]."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is sajdah al-sahw in short?",
+      "a": "Two extra prostrations at the end of the prayer to repair a mistake made by forgetting: adding something, leaving out a lesser part, or being unsure how much was prayed [H bukhari 1232]."
+    },
+    {
+      "q": "I forgot a whole unit and remembered after the salam. What now?",
+      "a": "If only a short time has passed and you have not done anything that breaks the prayer, stand, pray the missing unit, and then make the prostrations of forgetfulness, as the Prophet ﷺ did [H bukhari 1229]. If a long time has passed, repeat the prayer."
+    },
+    {
+      "q": "Do I make sajdah al-sahw when praying behind an imam?",
+      "a": "Not for your own minor mistakes; the imam carries them. If the imam makes the prostrations of forgetfulness, you make them with him [H bukhari 1230]. If you joined late and are completing what you missed, you make them for a mistake in that part."
+    },
+    {
+      "q": "I'm often unsure in prayer. What should I do?",
+      "a": "Build on what you are sure of and make the two prostrations [H abudawud 1024]. Constant doubt is a whisper of Satan [H bukhari 1232]; scholars advise someone who doubts very often to ignore the doubts and not let them take over the prayer."
+    },
+    {
+      "q": "What if I forgot to make sajdah al-sahw?",
+      "a": "If you remember soon after the prayer, many scholars say you make the two prostrations then, as the Prophet ﷺ did after being reminded [H bukhari 1226]. Whether the prayer must be repeated if a long time passes differs by school and by what was missed, so ask a scholar of your school."
+    },
+    {
+      "q": "Is there a special supplication in these prostrations?",
+      "a": "No specific supplication is established in the sources cited here. The schools say to repeat the usual glorifications of the prostration, such as \"Subhana Rabbiyal-A'la\"."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Forgetfulness in Prayer in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/22" }
+  ]
+}

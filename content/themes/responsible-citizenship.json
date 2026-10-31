@@ -1,0 +1,141 @@
+{
+ "slug": "responsible-citizenship",
+ "title": "Responsible citizenship",
+ "summary": "Responsible citizenship in the Qur'an and Sunnah: cooperation in good, keeping trusts and covenants, and hadith on everyone as a guardian with responsibilities.",
+ "intro": [
+  "The Qur'an asks believers to help one another in goodness, keep their covenants and trusts, and avoid taking other people's property unjustly. It also says a people's condition changes when they change what is within themselves.",
+  "The hadith describe every person as a guardian responsible for those in their care, set out the rights of a public road, and tie faith to how safe one's neighbours feel."
+ ],
+ "guides": [
+  "zakah",
+  "salah"
+ ],
+ "related": [
+  "justice",
+  "stewardship",
+  "ethics"
+ ],
+ "verses": [
+  {
+   "ref": "5:2",
+   "lines": [
+    {
+     "ayah": 2,
+     "text": "O ye who believe! Profane not Allah's monuments nor the Sacred Month nor the offerings nor the garlands, nor those repairing to the Sacred House, seeking the grace and pleasure of their Lord. But when ye have left the sacred territory, then go hunting (if ye will). And let not your hatred of a folk who (once) stopped your going to the inviolable place of worship seduce you to transgress; but help ye one another unto righteousness and pious duty. Help not one another unto sin and transgression, but keep your duty to Allah. Lo! Allah is severe in punishment"
+    }
+   ]
+  },
+  {
+   "ref": "4:59",
+   "lines": [
+    {
+     "ayah": 59,
+     "text": "O ye who believe! Obey Allah, and obey the messenger and those of you who are in authority; and if ye have a dispute concerning any matter, refer it to Allah and the messenger if ye are (in truth) believers in Allah and the Last Day. That is better and more seemly in the end"
+    }
+   ]
+  },
+  {
+   "ref": "3:104",
+   "lines": [
+    {
+     "ayah": 104,
+     "text": "And there may spring from you a nation who invite to goodness, and enjoin right conduct and forbid indecency. Such are they who are successful"
+    }
+   ]
+  },
+  {
+   "ref": "8:27",
+   "lines": [
+    {
+     "ayah": 27,
+     "text": "O ye who believe! Betray not Allah and His messenger, nor knowingly betray your trusts"
+    }
+   ]
+  },
+  {
+   "ref": "17:34",
+   "lines": [
+    {
+     "ayah": 34,
+     "text": "Come not near the wealth of the orphan save with that which is better till he come to strength; and keep the covenant. Lo! of the covenant it will be asked"
+    }
+   ]
+  },
+  {
+   "ref": "2:188",
+   "lines": [
+    {
+     "ayah": 188,
+     "text": "And eat not up your property among yourselves in vanity, nor seek by it to gain the hearing of the judges that ye may knowingly devour a portion of the property of others wrongfully"
+    }
+   ]
+  },
+  {
+   "ref": "13:11",
+   "lines": [
+    {
+     "ayah": 11,
+     "text": "For him are angels ranged before him and behind him, who guard him by Allah's command. Lo! Allah changeth not the condition of a folk until they (first) change that which is in their hearts; and if Allah willeth misfortune for a folk there is none that can repel it, nor have they a defender beside Him"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 7138,
+   "text": "Narrated `Abdullah bin `Umar:Allah's Messenger (ﷺ) said, \"Surely! Everyone of you is a guardian and is responsible for his charges: The Imam (ruler) of the people is a guardian and is responsible for his subjects; a man is the guardian of his family (household) and is responsible for his subjects; a woman is the guardian of her husband's home and of his children and is responsible for them; and the slave of a man is a guardian of his master's property and is responsible for it. Surely, everyone of you is a guardian and responsible for his charges",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2465,
+   "text": "Narrated Abu Sa`id Al-Khudri:The Prophet (ﷺ) said, \"Beware! Avoid sitting on the roads (ways).\" The people said, \"There is no way out of it as these are our sitting places where we have talks.\" The Prophet (ﷺ) said, \"If you must sit there, then observe the rights of the way.\" They asked, \"What are the rights of the way?\" He said, \"They are the lowering of your gazes (on seeing what is illegal to look at), refraining from harming people, returning greetings, advocating good and forbidding evil",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6016,
+   "text": "Narrated Abu Shuraih:The Prophet (ﷺ) said, \"By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe!\" It was said, \"Who is that, O Allah's Messenger (ﷺ)?\" He said, \"That person whose neighbor does not feel safe from his evil",
+   "grades": []
+  },
+  {
+   "collection": "nasai",
+   "number": 4197,
+   "text": "It was narrated that Tamim Ad-Dari said:\"The Messenger of Allah said: 'Religion is sincerity (An-Nasihah).' They said: 'To whom, O Messenger of Allah?' he said: 'To Allah, to His Book, to His Messenger, to the imams of the Muslims, and to their common folk",
+   "grades": [
+    {
+     "name": "Abu Ghuddah",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Sahih Muslim"
+    }
+   ]
+  },
+  {
+   "collection": "ibnmajah",
+   "number": 2443,
+   "text": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah (ﷺ) said:“Give the worker his wages before his sweat dries.”",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Fouad Abd al-Baqi",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Sahih"
+    }
+   ]
+  }
+ ]
+}

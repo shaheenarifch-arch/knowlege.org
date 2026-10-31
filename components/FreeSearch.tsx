@@ -23,6 +23,38 @@ interface Verse { ref: string; surah: string; surahNumber: number; ayah: number;
 interface HadithHit { number: number; text: string; grades: Array<{ name: string; grade: string }> }
 interface HadithFile { hadiths: Array<{ hadithnumber: number; text: string; grades?: Array<{ name: string; grade: string }> }> }
 
+
+// Everyday words people search for, mapped to the wording used in the 1930 translation and the hadith texts.
+const RELATED: Record<string, string[]> = {
+  cleanliness: ["clean", "purify", "pure"], cleaning: ["clean", "purify"], hygiene: ["clean", "purify"],
+  purity: ["pure", "purify"], purification: ["purify", "pure"], taharah: ["purify", "ablution"],
+  wudu: ["ablution"], wudhu: ["ablution"], ghusl: ["bath", "wash"],
+  salah: ["prayer", "worship"], salat: ["prayer", "worship"], namaz: ["prayer"],
+  sawm: ["fast"], roza: ["fast"], ramadan: ["ramadhan", "fast"],
+  zakah: ["poor-due", "alms"], zakat: ["poor-due", "alms"], sadaqah: ["alms", "charity"],
+  hajj: ["pilgrimage"], umrah: ["visit", "pilgrimage"], dua: ["supplication", "invocation"],
+  honesty: ["truth", "honest"], kindness: ["kind", "good"], forgiveness: ["forgive", "pardon"],
+  gratitude: ["thank", "grateful"], humility: ["humble", "meek"], modesty: ["modest", "haya"],
+  parents: ["parent", "mother", "father"], marriage: ["marry", "wife"], nikah: ["marry", "marriage"],
+};
+function alternatives(term: string): string[] {
+  const t = term.toLowerCase().trim();
+  const out = [...(RELATED[t] ?? [])];
+  const rules: Array<[RegExp, string]> = [[/liness$/, ""], [/iness$/, "y"], [/ness$/, ""], [/fully$/, ""], [/ful$/, ""], [/ment$/, ""], [/ing$/, ""], [/ies$/, "y"], [/ed$/, ""], [/ly$/, ""], [/s$/, ""]];
+  const rule = rules.find(([re]) => re.test(t));
+  if (rule) { const s = t.replace(rule[0], rule[1]); if (s.length >= 3) out.push(s); }
+  return [...new Set(out)].filter(w => w !== t);
+}
+// Knowledge Hub guides to suggest alongside results.
+const GUIDES: Array<[RegExp, string, string]> = [
+  [/clean|pur|wud|ablution|ghusl|tahar|hygien|tayammum/i, "purity", "Purity (Taharah)"],
+  [/pray|salah|salat|namaz|jumu|witr|tarawih/i, "salah", "Prayer (Salah)"],
+  [/fast|sawm|roza|ramad/i, "fasting", "Fasting (Sawm)"],
+  [/zak|alms|poor-due/i, "zakah", "Zakah"],
+  [/marr|nikah|wife|husband|mahr/i, "marriage", "Marriage (Nikah)"],
+  [/halal|haram|meat|food|slaughter|pork|alcohol|wine/i, "halal-haram", "Halal and Haram"],
+];
+
 export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}) {
   const [q, setQ] = useState("");
   const [source, setSource] = useState(hadithOnly ? "bukhari" : "quran");
@@ -31,8 +63,27 @@ export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}
   const [verses, setVerses] = useState<Verse[] | null>(null);
   const [hadith, setHadith] = useState<HadithHit[] | null>(null);
   const [total, setTotal] = useState(0);
-  const [searched, setSearched] = useState<{ q: string; source: string } | null>(null);
+  const [searched, setSearched] = useState<{ q: string; used: string; source: string } | null>(null);
   const cache = useRef<Record<string, HadithFile>>({});
+
+  async function searchOnce(term: string, src: string): Promise<{ total: number; verses?: Verse[]; hadith?: HadithHit[] }> {
+    if (src === "quran") {
+      const r = await fetch(`https://api.alquran.cloud/v1/search/${encodeURIComponent(term)}/all/en.pickthall`);
+      const j = await r.json() as { code: number; data?: { count: number; matches: Array<{ text: string; numberInSurah: number; surah: { number: number; englishName: string } }> } | string };
+      if (j.code === 404 || typeof j.data !== "object" || !j.data) return { total: 0, verses: [] };
+      if (j.code !== 200) throw new Error("The Qur'an search service did not respond. Please try again.");
+      return { total: j.data.count, verses: j.data.matches.slice(0, MAX).map(m => ({ ref: `${m.surah.number}:${m.numberInSurah}`, surah: m.surah.englishName, surahNumber: m.surah.number, ayah: m.numberInSurah, text: m.text })) };
+    }
+    let file = cache.current[src];
+    if (!file) {
+      const r = await fetch(`${HADITH_API}/eng-${src}.min.json`);
+      if (!r.ok) throw new Error("The hadith collection could not be loaded. Please try again.");
+      file = await r.json() as HadithFile; cache.current[src] = file;
+    }
+    const words = term.toLowerCase().split(/\s+/).filter(Boolean);
+    const hits = file.hadiths.filter(h => { const t = (h.text || "").toLowerCase(); return t && words.every(w => t.includes(w)); });
+    return { total: hits.length, hadith: hits.slice(0, MAX).map(h => ({ number: h.hadithnumber, text: h.text, grades: h.grades ?? [] })) };
+  }
 
   async function run(e: React.FormEvent) {
     e.preventDefault();
@@ -40,28 +91,17 @@ export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}
     if (term.length < 3) { setError("Please enter at least 3 letters."); return; }
     setBusy(true); setError(null); setVerses(null); setHadith(null); setTotal(0);
     try {
-      if (source === "quran") {
-        const r = await fetch(`https://api.alquran.cloud/v1/search/${encodeURIComponent(term)}/all/en.pickthall`);
-        const j = await r.json() as { code: number; data?: { count: number; matches: Array<{ text: string; numberInSurah: number; surah: { number: number; englishName: string } }> } | string };
-        if (j.code === 404 || typeof j.data !== "object" || !j.data) { setVerses([]); }
-        else if (j.code !== 200) throw new Error("The Qur'an search service did not respond. Please try again.");
-        else {
-          setTotal(j.data.count);
-          setVerses(j.data.matches.slice(0, MAX).map(m => ({ ref: `${m.surah.number}:${m.numberInSurah}`, surah: m.surah.englishName, surahNumber: m.surah.number, ayah: m.numberInSurah, text: m.text })));
+      // Exact words first; if nothing matches, try related words and simpler forms
+      // (the 1930 translation says "clean"/"purify", not "cleanliness").
+      let res = await searchOnce(term, source); let used = term;
+      if (res.total === 0) {
+        for (const alt of alternatives(term).slice(0, 5)) {
+          const r2 = await searchOnce(alt, source);
+          if (r2.total > 0) { res = r2; used = alt; break; }
         }
-      } else {
-        let file = cache.current[source];
-        if (!file) {
-          const r = await fetch(`${HADITH_API}/eng-${source}.min.json`);
-          if (!r.ok) throw new Error("The hadith collection could not be loaded. Please try again.");
-          file = await r.json() as HadithFile; cache.current[source] = file;
-        }
-        const words = term.toLowerCase().split(/\s+/).filter(Boolean);
-        const hits = file.hadiths.filter(h => { const t = (h.text || "").toLowerCase(); return t && words.every(w => t.includes(w)); });
-        setTotal(hits.length);
-        setHadith(hits.slice(0, MAX).map(h => ({ number: h.hadithnumber, text: h.text, grades: h.grades ?? [] })));
       }
-      setSearched({ q: term, source });
+      setTotal(res.total); setVerses(res.verses ?? null); setHadith(res.hadith ?? null);
+      setSearched({ q: term, used, source });
     } catch (err) {
       setError(err instanceof Error ? err.message : "Search failed. Please try again.");
     } finally { setBusy(false); }
@@ -78,7 +118,7 @@ export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}
       <button className="btn primary" disabled={busy}>{busy ? "Searching…" : "Search"}</button>
     </form>
     <p className="help">
-      Search in English. Results contain every word you type. Hadith collections are searched one at a time; the first search
+      Search in English. Results contain every word you type; if nothing matches, related words are tried automatically (e.g. "cleanliness" finds "clean" and "purify"). Hadith collections are searched one at a time; the first search
       in a collection takes a few seconds to load it. Qur'an text: Marmaduke Pickthall's translation (1930) via{" "}
       <a href="https://alquran.cloud/api" target="_blank" rel="noopener noreferrer">AlQuran Cloud</a>. Hadith text and grades: the open{" "}
       <a href="https://github.com/fawazahmed0/hadith-api" target="_blank" rel="noopener noreferrer">hadith-api dataset</a>, shown as given.{" "}
@@ -87,8 +127,10 @@ export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}
     {error && <div className="notice" role="alert">{error}</div>}
     <div className="results" aria-live="polite">
       {searched && !busy && !error && (verses?.length === 0 || hadith?.length === 0) &&
-        <p>No results for "{searched.q}" in {label}. Try a different word, a simpler form (e.g. "patient" instead of "patiently"), or another source.</p>}
-      {searched && total > 0 && <p className="help">Showing {Math.min(total, MAX)} of {total} results for "{searched.q}" in {label}.{total > MAX ? " Add another word to narrow the results." : ""}</p>}
+        <p>No results for "{searched.q}" in {label}, including related words. Try a different word, a simpler form (e.g. "patient" instead of "patiently"), or another source.</p>}
+      {searched && !busy && total > 0 && searched.used !== searched.q && <div className="notice">No exact match for "{searched.q}" in this translation, so these are results for the related word <strong>"{searched.used}"</strong>.</div>}
+      {searched && !busy && total > 0 && <p className="help">Showing {Math.min(total, MAX)} of {total} results for "{searched.used}" in {label}.{total > MAX ? " Add another word to narrow the results." : ""}</p>}
+      {searched && !busy && (() => { const g = GUIDES.find(([re]) => re.test(searched.q) || re.test(searched.used)); return g && <p className="help">Want an explanation? Read the <a href={`/knowledge-hub/${g[1]}`}>{g[2]} guide</a> in the Knowledge Hub.</p>; })()}
       {verses?.map(v => <div className="row" key={v.ref}>
         <h3>Qur'an {v.ref} · {v.surah}</h3>
         <p>{v.text}</p>
