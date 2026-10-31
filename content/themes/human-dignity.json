@@ -1,0 +1,123 @@
+{
+ "slug": "human-dignity",
+ "title": "Human dignity",
+ "summary": "Human dignity in the Qur'an and Sunnah: the honour given to the children of Adam, the sanctity of life, and hadith on the inviolability of blood, property and honour.",
+ "intro": [
+  "The Qur'an states that Allah has honoured the children of Adam and made people into nations and tribes so that they may know one another, with nobility measured by conduct. It treats saving one life as saving all of humanity.",
+  "The hadith declare a person's life, property and honour sacred, record the Prophet standing for the funeral of a Jewish man because he was a human soul, and reject looking down on others."
+ ],
+ "guides": [
+  "marriage",
+  "zakah"
+ ],
+ "related": [
+  "justice",
+  "ethics",
+  "mercy"
+ ],
+ "verses": [
+  {
+   "ref": "17:70",
+   "lines": [
+    {
+     "ayah": 70,
+     "text": "Verily we have honoured the Children of Adam. We carry them on the land and the sea, and have made provision of good things for them, and have preferred them above many of those whom We created with a marked preferment"
+    }
+   ]
+  },
+  {
+   "ref": "95:4",
+   "lines": [
+    {
+     "ayah": 4,
+     "text": "Surely We created man of the best stature"
+    }
+   ]
+  },
+  {
+   "ref": "49:13",
+   "lines": [
+    {
+     "ayah": 13,
+     "text": "O mankind! Lo! We have created you male and female, and have made you nations and tribes that ye may know one another. Lo! the noblest of you, in the sight of Allah, is the best in conduct. Lo! Allah is Knower, Aware"
+    }
+   ]
+  },
+  {
+   "ref": "5:32",
+   "lines": [
+    {
+     "ayah": 32,
+     "text": "For that cause We decreed for the Children of Israel that whosoever killeth a human being for other than manslaughter or corruption in the earth, it shall be as if he had killed all mankind, and whoso saveth the life of one, it shall be as if he had saved the life of all mankind. Our messengers came unto them of old with clear proofs (of Allah's Sovereignty), but afterwards lo! many of them became prodigals in the earth"
+    }
+   ]
+  },
+  {
+   "ref": "2:256",
+   "lines": [
+    {
+     "ayah": 256,
+     "text": "There is no compulsion in religion. The right direction is henceforth distinct from error. And he who rejecteth false deities and believeth in Allah hath grasped a firm handhold which will never break. Allah is Hearer, Knower"
+    }
+   ]
+  },
+  {
+   "ref": "49:11",
+   "lines": [
+    {
+     "ayah": 11,
+     "text": "O ye who believe! Let not a folk deride a folk who may be better than they (are), not let women (deride) women who may be better than they are; neither defame one another, nor insult one another by nicknames. Bad is the name of lewdness after faith. And whoso turneth not in repentance, such are evil-doers"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 1739,
+   "text": "Narrated `Ikrima:Ibn `Abbas said: \"Allah's Messenger (ﷺ) delivered a sermon on the Day of Nahr, and said, 'O people! (Tell me) what is the day today?' The people replied, 'It is the forbidden (sacred) day.' He asked again, 'What town is this?' They replied, 'It is the forbidden (Sacred) town.' He asked, 'Which month is this?' They replied, 'It is the forbidden (Sacred) month.' He said, 'No doubt! Your blood, your properties, and your honor are sacred to one another like the sanctity of this day of yours, in this (sacred) town (Mecca) of yours, in this month of yours.' The Prophet (ﷺ) repeated his statement again and again. After that he raised his head and said, 'O Allah! Haven't conveyed (Your Message) to them'. Haven't I conveyed Your Message to them?' \" Ibn `Abbas added, \"By Him in Whose Hand my soul is, the following was his will (Prophet's will) to his followers:--It is incumbent upon those who are present to convey this information to those who are absent Beware don't renegade (as) disbelievers (turn into infidels) after me, Striking the necks (cutting the throats) of one another",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 4882,
+   "text": "Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :Everything of a Muslim is sacred to a Muslim : his property, honour and blood. It is enough evil for any man to despise his brother Muslim",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Hasan"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Hasan"
+    }
+   ]
+  },
+  {
+   "collection": "bukhari",
+   "number": 1312,
+   "text": "Narrated `Abdur Rahman bin Abi Laila:Sahl bin Hunaif and Qais bin Sa`d were sitting in the city of Al-Qadisiya. A funeral procession passed in front of them and they stood up. They were told that funeral procession was of one of the inhabitants of the land i.e. of a non-believer, under the protection of Muslims. They said, \"A funeral procession passed in front of the Prophet (ﷺ) and he stood up. When he was told that it was the coffin of a Jew, he said, \"Is it not a living being (soul)?",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 30,
+   "text": "Narrated Al-Ma'rur: At Ar-Rabadha I met Abu Dhar who was wearing a cloak, and his slave, too, was wearing a similar one. I asked about the reason for it. He replied, \"I abused a person by calling his mother with bad names.\" The Prophet said to me, 'O Abu Dhar! Did you abuse him by calling his mother with bad names You still have some characteristics of ignorance. Your slaves are your brothers and Allah has put them under your command. So whoever has a brother under his command should feed him of what he eats and dress him of what he wears. Do not ask them (slaves) to do things beyond their capacity (power) and if you do so, then help them",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 13,
+   "text": "Narrated Anas: The Prophet (ﷺ) said, \"None of you will have faith till he wishes for his (Muslim) brother what he likes for himself",
+   "grades": []
+  }
+ ]
+}

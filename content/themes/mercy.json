@@ -1,0 +1,132 @@
+{
+ "slug": "mercy",
+ "title": "Mercy",
+ "summary": "Mercy (rahmah) in the Qur'an and Sunnah: verses on the mercy of Allah and of the Prophet, and hadith on showing mercy to others.",
+ "intro": [
+  "Mercy is one of the most repeated ideas in the Qur'an: almost every surah opens by naming Allah as the Beneficent and the Merciful. The verses below describe divine mercy as wide enough to embrace all things, and present the Prophet Muhammad as sent as a mercy.",
+  "The hadith turn that idea outward, linking the mercy a person hopes to receive with the mercy they show to family, neighbours and every living thing."
+ ],
+ "guides": [
+  "marriage",
+  "fasting"
+ ],
+ "related": [
+  "patience",
+  "family",
+  "stewardship"
+ ],
+ "verses": [
+  {
+   "ref": "1:3",
+   "lines": [
+    {
+     "ayah": 3,
+     "text": "The Beneficent, the Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "7:156",
+   "lines": [
+    {
+     "ayah": 156,
+     "text": "And ordain for us in this world that which is good, and in the Hereafter (that which is good), Lo! We have turned unto Thee. He said: I smite with My punishment whom I will, and My mercy embraceth all things, therefore I shall ordain it for those who ward off (evil) and pay the poor-due, and those who believe Our revelations"
+    }
+   ]
+  },
+  {
+   "ref": "21:107",
+   "lines": [
+    {
+     "ayah": 107,
+     "text": "We sent thee not save as a mercy for the peoples"
+    }
+   ]
+  },
+  {
+   "ref": "39:53",
+   "lines": [
+    {
+     "ayah": 53,
+     "text": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins. Lo! He is the Forgiving, the Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "6:54",
+   "lines": [
+    {
+     "ayah": 54,
+     "text": "And when those who believe in Our revelations come unto thee, say: Peace be unto you! Your Lord hath prescribed for Himself mercy, that whoso of you doeth evil through ignorance and repenteth afterward thereof and doeth right, (for him) lo! He is Forgiving, Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "9:128",
+   "lines": [
+    {
+     "ayah": 128,
+     "text": "There hath come unto you a messenger, (one) of yourselves, unto whom aught that ye are overburdened is grievous, full of concern for you, for the believers full of pity, merciful"
+    }
+   ]
+  },
+  {
+   "ref": "3:159",
+   "lines": [
+    {
+     "ayah": 159,
+     "text": "It was by the mercy of Allah that thou wast lenient with them (O Muhammad), for if thou hadst been stern and fierce of heart they would have dispersed from round about thee. So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs. And when thou art resolved, then put thy trust in Allah. Lo! Allah loveth those who put their trust (in Him)"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 6000,
+   "text": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, Allah divided Mercy into one hundred parts. He kept ninety nine parts with Him and sent down one part to the earth, and because of that, its one single part, His Creations are merciful to each other, so that even the mare lifts up its hoofs away from its baby animal, lest it should trample on it",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 3194,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"When Allah completed the creation, He wrote in His Book which is with Him on His Throne, \"My Mercy overpowers My Anger",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6013,
+   "text": "Narrated Jarir bin `Abdullah:The Prophet (ﷺ) said, \"He who is not merciful to others, will not be treated mercifully",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6011,
+   "text": "Narrated An-Nu`man bin Bashir:Allah's Messenger (ﷺ) said, \"You see the believers as regards their being merciful among themselves and showing love among themselves and being kind, resembling one body, so that, if any part of the body is not well then the whole body shares the sleeplessness (insomnia) and fever with it",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 4943,
+   "text": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Those who do not show mercy to our young ones and do not realise the right of our elders are not from us",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Hasan"
+    }
+   ]
+  }
+ ]
+}

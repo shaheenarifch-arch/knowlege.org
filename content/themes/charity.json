@@ -1,0 +1,124 @@
+{
+ "slug": "charity",
+ "title": "Charity",
+ "summary": "Charity (sadaqah) in the Qur'an and Sunnah: verses on spending for the sake of Allah, and hadith showing that every good act can be charity.",
+ "intro": [
+  "The Qur'an describes spending in Allah's way as a seed that grows many times over, and it names those who should receive help: relatives, orphans, the needy, travellers and those who ask. It also values giving quietly, without reminders or hurt.",
+  "The hadith widen charity far beyond money, so that a kind word, a fair judgment or removing harm from a path all count."
+ ],
+ "guides": [
+  "zakah",
+  "fasting"
+ ],
+ "related": [
+  "mercy",
+  "gratitude",
+  "responsible-citizenship"
+ ],
+ "verses": [
+  {
+   "ref": "2:261",
+   "lines": [
+    {
+     "ayah": 261,
+     "text": "The likeness of those who spend their wealth in Allah's way is as the likeness of a grain which groweth seven ears, in every ear a hundred grains. Allah giveth increase manifold to whom He will. Allah is All-Embracing, All-Knowing"
+    }
+   ]
+  },
+  {
+   "ref": "2:177",
+   "lines": [
+    {
+     "ayah": 177,
+     "text": "It is not righteousness that ye turn your faces to the East and the West; but righteous is he who believeth in Allah and the Last Day and the angels and the Scripture and the prophets; and giveth wealth, for love of Him, to kinsfolk and to orphans and the needy and the wayfarer and to those who ask, and to set slaves free; and observeth proper worship and payeth the poor-due. And those who keep their treaty when they make one, and the patient in tribulation and adversity and time of stress. Such are they who are sincere. Such are the Allah-fearing"
+    }
+   ]
+  },
+  {
+   "ref": "2:274",
+   "lines": [
+    {
+     "ayah": 274,
+     "text": "Those who spend their wealth by night and day, by stealth and openly, verily their reward is with their Lord, and their shall no fear come upon them neither shall they grieve"
+    }
+   ]
+  },
+  {
+   "ref": "2:271",
+   "lines": [
+    {
+     "ayah": 271,
+     "text": "If ye publish your almsgiving, it is well, but if ye hide it and give it to the poor, it will be better for you, and will atone for some of your ill-deeds. Allah is Informed of what ye do"
+    }
+   ]
+  },
+  {
+   "ref": "3:92",
+   "lines": [
+    {
+     "ayah": 92,
+     "text": "Ye will not attain unto piety until ye spend of that which ye love. And whatsoever ye spend, Allah is Aware thereof"
+    }
+   ]
+  },
+  {
+   "ref": "76:8",
+   "lines": [
+    {
+     "ayah": 8,
+     "text": "And feed with food the needy wretch, the orphan and the prisoner, for love of Him"
+    }
+   ]
+  },
+  {
+   "ref": "76:9",
+   "lines": [
+    {
+     "ayah": 9,
+     "text": "(Saying): We feed you, for the sake of Allah only. We wish for no reward nor thanks from you"
+    }
+   ]
+  },
+  {
+   "ref": "2:263",
+   "lines": [
+    {
+     "ayah": 263,
+     "text": "A kind word with forgiveness is better than almsgiving followed by injury. Allah is Absolute, Clement"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 1410,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"If one gives in charity what equals one date-fruit from the honestly earned money and Allah accepts only the honestly earned money --Allah takes it in His right (hand) and then enlarges its reward for that person (who has given it), as anyone of you brings up his baby horse, so much so that it becomes as big as a mountain",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 1417,
+   "text": "Narrated `Adi bin Hatim heard the Prophet (ﷺ) saying:\"Save yourself from Hell-fire even by giving half a date-fruit in charity",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 1442,
+   "text": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Every day two angels come down from Heaven and one of them says, 'O Allah! Compensate every person who spends in Your Cause,' and the other (angel) says, 'O Allah! Destroy every miser",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2989,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"There is a (compulsory) Sadaqa (charity) to be given for every joint of the human body (as a sign of gratitude to Allah) everyday the sun rises. To judge justly between two persons is regarded as Sadaqa, and to help a man concerning his riding animal by helping him to ride it or by lifting his luggage on to it, is also regarded as Sadaqa, and (saying) a good word is also Sadaqa, and every step taken on one's way to offer the compulsory prayer (in the mosque) is also Sadaqa and to remove a harmful thing from the way is also Sadaqa",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6021,
+   "text": "Narrated Jabir bin `Abdullah:The Prophet (ﷺ) said, Enjoining, all that is good is a Sadaqa",
+   "grades": []
+  }
+ ]
+}
