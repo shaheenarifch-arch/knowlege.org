@@ -1,0 +1,173 @@
+{
+  "slug": "purity",
+  "title": "Purity (Taharah): Wudu, Ghusl and Tayammum Explained",
+  "summary": "How ritual purity works in Islam: how to perform wudu, when ghusl is required, what breaks wudu, wiping over socks, and dry ablution (tayammum) when water can't be used.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Blue-Mosque-Ablutions.JPG/1280px-Blue-Mosque-Ablutions.JPG",
+    "alt": "Row of ablution taps and stone seats outside the Blue Mosque in Istanbul",
+    "width": 1280, "height": 960,
+    "author": "Bjørn Christian Tørrissen", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue-Mosque-Ablutions.JPG"
+  },
+  "agreed": [
+    {
+      "heading": "Why purity comes first",
+      "paragraphs": [
+        "Purity (taharah) is the gateway to prayer. The Prophet ﷺ said purity is half of faith [H muslim 223], and that God does not accept the prayer of someone who has broken their wudu until they perform it again [H bukhari 135]. The Qur'an says God loves those who turn to Him often and those who purify themselves [Q 2:222].",
+        "Fiqh speaks of two kinds of impurity. Physical impurity (najasah) is dirt such as urine, faeces or blood on the body, clothes or place, and it is removed by washing. Ritual impurity (hadath) is a state, not a substance: minor ritual impurity is lifted by wudu, and major ritual impurity by ghusl."
+      ]
+    },
+    {
+      "heading": "The essential acts of wudu",
+      "paragraphs": [
+        "The basis of wudu is one verse of the Qur'an [Q 5:6]. All four schools agree that the following four acts named in that verse are obligatory, and wudu is not valid without them:"
+      ],
+      "points": [
+        "Washing the whole face, from the hairline to the chin and from ear to ear.",
+        "Washing both arms up to and including the elbows.",
+        "Wiping the head with wet hands (the schools differ on how much of the head; see More detail).",
+        "Washing both feet up to and including the ankles."
+      ]
+    },
+    {
+      "heading": "How to perform wudu, following the Sunnah",
+      "paragraphs": [
+        "The Prophet's companion 'Uthman demonstrated the Prophet's wudu, washing his hands, rinsing his mouth and nose, then washing the face, arms and feet three times each and wiping the head [H bukhari 159]. All schools recommend this complete order:"
+      ],
+      "points": [
+        "Make the intention in your heart and say \"Bismillah\".",
+        "Wash both hands to the wrists, three times.",
+        "Rinse the mouth and then the nose, three times each.",
+        "Wash the face three times.",
+        "Wash the right arm then the left, up to the elbows, three times each.",
+        "Wipe over the head once, then the ears.",
+        "Wash the right foot then the left, up to the ankles, three times each, cleaning between the toes.",
+        "Use water carefully: the Prophet ﷺ performed wudu with about one mudd of water (roughly two cupped handfuls) [H bukhari 201]."
+      ]
+    },
+    {
+      "heading": "What breaks wudu",
+      "paragraphs": [
+        "The schools agree that these break wudu:"
+      ],
+      "points": [
+        "Anything leaving the front or back private parts, such as urine, faeces or wind [Q 5:6].",
+        "Deep sleep in which a person loses awareness (light dozing while sitting firmly does not break it, according to most).",
+        "Losing consciousness through fainting, intoxication or madness.",
+        "Anything that requires ghusl also breaks wudu.",
+        "If you are unsure whether you broke your wudu, you remain in your original state. The Prophet ﷺ said not to leave the prayer unless you hear a sound or notice a smell [H bukhari 137]."
+      ]
+    },
+    {
+      "heading": "Ghusl: the full ritual bath",
+      "paragraphs": [
+        "Ghusl lifts major ritual impurity, and the Qur'an commands it [Q 5:6]. The schools agree it is required after sexual intercourse or ejaculation, at the end of menstruation and of post-natal bleeding, and for a person who has died (performed by others). It is also recommended before Jumu'ah, the two Eids and entering ihram.",
+        "Its essence, agreed by all, is water reaching the whole body, including the hair and its roots. The recommended way follows the Prophet's practice described by 'A'ishah: wash the hands, perform wudu, work water into the roots of the hair and pour water over the head three times, then wash the rest of the body [H bukhari 248]. Washing the private parts first is also in the Sunnah [H bukhari 249]. Until ghusl is done, a person may not pray, touch the Qur'an, or perform tawaf."
+      ]
+    },
+    {
+      "heading": "Wiping over leather socks (khuffs)",
+      "paragraphs": [
+        "All four schools accept wiping over leather socks (khuffs) instead of washing the feet, as reported in many authentic narrations. The socks must be put on while in a state of wudu and must cover the feet up to the ankles. Wiping is done over the top of the socks with wet fingers.",
+        "The time allowed is one day and night for a resident and three days and nights for a traveller [H muslim 276a]. The Maliki school differs on the time limit, and the schools differ on non-leather socks; see More detail."
+      ]
+    },
+    {
+      "heading": "Tayammum: dry ablution",
+      "paragraphs": [
+        "When water cannot be found, or using it would cause harm through illness or severe cold, the Qur'an permits tayammum with clean earth [Q 5:6] [Q 4:43]. Tayammum replaces both wudu and ghusl.",
+        "The basic method, agreed by all: make the intention, strike clean earth with the palms, and wipe the face and then the hands. The schools differ on details: the Hanafi and Maliki schools accept bare stone while the Shafi'i and Hanbali schools require dust, and they differ on wiping the hands to the wrists or to the elbows. Tayammum ends when water becomes available and usable, and it is broken by anything that breaks wudu."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Obligatory acts of wudu",
+      "hanafi": "The four acts in Qur'an 5:6 only.",
+      "maliki": "The four acts plus intention, continuity (no long gaps) and rubbing the limbs.",
+      "shafii": "The four acts plus intention and following the order [Q 5:6].",
+      "hanbali": "The four acts plus order, continuity, and rinsing the mouth and nose; intention is a condition."
+    },
+    {
+      "question": "How much of the head to wipe",
+      "hanafi": "At least a quarter of the head.",
+      "maliki": "The whole head.",
+      "shafii": "Any part of the head, even a few hairs.",
+      "hanbali": "The whole head, including the ears."
+    },
+    {
+      "question": "Does touching the opposite sex break wudu?",
+      "hanafi": "No.",
+      "maliki": "Only if done with desire or desire is felt.",
+      "shafii": "Yes: any direct skin contact with a non-mahram adult of the opposite sex.",
+      "hanbali": "Only when accompanied by desire (relied view)."
+    },
+    {
+      "question": "Does bleeding break wudu?",
+      "hanafi": "Yes, if blood flows beyond the wound.",
+      "maliki": "No.",
+      "shafii": "No.",
+      "hanbali": "Yes, if the amount is large."
+    },
+    {
+      "question": "Does touching one's private part break wudu?",
+      "hanafi": "No.",
+      "maliki": "Yes, touching with the inner hand or fingers (relied view).",
+      "shafii": "Yes, touching with the palm or inner fingers.",
+      "hanbali": "Yes, touching with the hand."
+    },
+    {
+      "question": "Does eating camel meat break wudu?",
+      "hanafi": "No.",
+      "maliki": "No.",
+      "shafii": "No (relied view).",
+      "hanbali": "Yes [H muslim 360]."
+    },
+    {
+      "question": "Time limit for wiping over khuffs",
+      "hanafi": "1 day for residents, 3 days for travellers.",
+      "maliki": "No fixed limit in the relied view; removing them weekly (before Jumu'ah) is recommended.",
+      "shafii": "1 day for residents, 3 days for travellers.",
+      "hanbali": "1 day for residents, 3 days for travellers."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to say the intention for wudu out loud?",
+      "a": "No. The intention is in the heart; it means knowing that you are performing wudu for the sake of God. Actions are judged by intentions [H bukhari 1]. Saying it aloud is not required by any of the four schools."
+    },
+    {
+      "q": "Does nail polish affect wudu?",
+      "a": "Yes. Because water must reach the nails when the hands and feet are washed, a coating that blocks water, such as ordinary nail polish, must be removed before wudu or ghusl. Henna, which only stains, does not block water and does not affect wudu."
+    },
+    {
+      "q": "Can I perform wudu in the shower?",
+      "a": "Yes. Wudu can be done anywhere water reaches the required parts. Ghusl done with the intention of lifting major impurity also counts for wudu, as long as nothing that breaks wudu happens afterwards."
+    },
+    {
+      "q": "Can I pray with a small amount of blood on my clothes?",
+      "a": "The schools agree that a very small amount of blood that is hard to avoid is excused, though they define \"small\" differently. Larger amounts of physical impurity must be washed out before praying."
+    },
+    {
+      "q": "What if I'm unsure whether my wudu is still valid?",
+      "a": "Certainty is not removed by doubt. If you know you had wudu and only doubt whether it broke, you still have wudu [H bukhari 137]. If you know it broke and doubt whether you renewed it, you renew it."
+    },
+    {
+      "q": "Can I touch the Qur'an without wudu?",
+      "a": "All four schools hold that a person without wudu should not touch the Arabic text of the Qur'an (the mushaf), citing [Q 56:79] and the Prophet's letter to 'Amr ibn Hazm, which said only a pure person should touch the Qur'an. Reciting from memory without touching it is allowed without wudu. Using a phone app is a separate question on which contemporary scholars differ."
+    },
+    {
+      "q": "Do I have to redo wudu after removing my socks?",
+      "a": "If you wiped over khuffs and then take them off, the wiping no longer counts. The schools differ on whether you only wash the feet or redo the whole wudu; Hanafi and Shafi'i scholars generally say washing the feet suffices, while Hanbali scholars require a new wudu."
+    },
+    {
+      "q": "Is a wound dressing a reason to skip washing?",
+      "a": "No. If washing a wounded limb would cause harm, you wash the rest and wipe over the dressing or cast. If even that causes harm, tayammum covers that limb. Islam does not ask you to harm yourself [Q 2:185]."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Book of Ablution (Wudu) in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/4" },
+    { "name": "Qur'an 5:6, the verse of wudu, ghusl and tayammum, on Quran.com", "url": "https://quran.com/5/6" }
+  ]
+}

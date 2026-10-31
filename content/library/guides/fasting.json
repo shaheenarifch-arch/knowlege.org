@@ -1,0 +1,170 @@
+{
+  "slug": "fasting",
+  "title": "Fasting (Sawm): Ramadan Rules, Exemptions and Make-Up Days",
+  "summary": "A clear guide to fasting in Islam: who must fast in Ramadan, what the fast involves, what breaks it, who is exempt, and how missed fasts are made up or compensated.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Iftar_for_Ramadhan.jpg/1280px-Iftar_for_Ramadhan.jpg",
+    "alt": "An iftar spread of dates, fruit and drinks laid out to break the Ramadan fast",
+    "width": 1280, "height": 671,
+    "author": "Flickr user raasiel", "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iftar_for_Ramadhan.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Fasting in Islam",
+      "paragraphs": [
+        "Fasting the month of Ramadan is the fourth pillar of Islam [H muslim 16a]. The Qur'an prescribes it as it was prescribed for earlier communities, so that people may attain God-consciousness (taqwa) [Q 2:183]. Ramadan is the month in which the Qur'an was revealed [Q 2:185].",
+        "The reward is immense: whoever fasts Ramadan out of faith and seeking God's reward has their past sins forgiven [H bukhari 38]. But the fast is more than hunger. The Prophet ﷺ said that whoever does not give up false speech and acting on it, God has no need of them leaving their food and drink [H bukhari 1903]."
+      ]
+    },
+    {
+      "heading": "Who must fast",
+      "paragraphs": [
+        "All four schools agree that fasting Ramadan is obligatory on every Muslim who is adult, sane, able to fast and not travelling. Children are encouraged to practise before puberty so that they grow used to it.",
+        "Women do not fast during menstruation or post-natal bleeding. Unlike prayer, these missed days must be made up later; 'A'ishah reported that women were told to make up missed fasts but not missed prayers [H muslim 335c]."
+      ]
+    },
+    {
+      "heading": "What the fast is",
+      "paragraphs": [
+        "The fast lasts from true dawn (the beginning of Fajr) until sunset (Maghrib) [Q 2:187]. During this time, the fasting person refrains from:"
+      ],
+      "points": [
+        "Eating and drinking anything.",
+        "Sexual intercourse.",
+        "Deliberately vomiting (the Hanafi school counts only a mouthful).",
+        "Anything else deliberately entering the body cavity through a recognised opening, such as the mouth or nose. Smoking breaks the fast.",
+        "The fast also requires an intention for each fast (the schools differ only on its timing; see More detail)."
+      ]
+    },
+    {
+      "heading": "Sunnahs of fasting",
+      "paragraphs": [
+        "The schools agree on these recommended practices:"
+      ],
+      "points": [
+        "Eating the pre-dawn meal (suhur), even a little: the Prophet ﷺ said there is blessing in it [H bukhari 1923]. Delaying it until shortly before dawn is recommended.",
+        "Breaking the fast promptly at sunset: people remain in goodness as long as they hasten to break the fast [H bukhari 1957]. Breaking it with dates, or water if none, follows the Sunnah.",
+        "Guarding the tongue from lying, backbiting and arguing.",
+        "Extra prayer at night (tarawih/qiyam), reading the Qur'an, charity and seeking Laylat al-Qadr in the last ten nights [Q 97:3]."
+      ]
+    },
+    {
+      "heading": "What does not break the fast",
+      "paragraphs": [
+        "The schools agree that the following do not break a fast:"
+      ],
+      "points": [
+        "Eating or drinking by genuine mistake: complete the fast, for it was God who fed you [H bukhari 1933] (the Maliki school requires a make-up day for an obligatory fast; see More detail).",
+        "Vomiting involuntarily.",
+        "Brushing the teeth or using a miswak, without swallowing water or paste.",
+        "Bathing or swimming without water going down the throat.",
+        "Waking up in a state of major impurity (ghusl can be taken after dawn).",
+        "Having blood drawn for a test (most contemporary scholars)."
+      ]
+    },
+    {
+      "heading": "Who is exempt, and what they owe",
+      "paragraphs": [
+        "God wants ease, not hardship [Q 2:185]. The Qur'an allows those who are ill or travelling not to fast, making up the same number of days later [Q 2:184]. The schools agree on these categories:"
+      ],
+      "points": [
+        "The sick, when fasting would harm them or slow recovery: they make up the days once well.",
+        "Travellers on a journey of a recognised distance: they may fast or break it, and make up any missed days.",
+        "Women in menstruation or post-natal bleeding: they must not fast, and make up the days.",
+        "The elderly or chronically ill who cannot fast and are not expected to recover: they pay fidyah, feeding one poor person for each day missed [Q 2:184], and owe no make-up (the Maliki school considers the fidyah recommended rather than obligatory).",
+        "Pregnant and breastfeeding women who fear for themselves or the child may not fast; all agree they make up the days, and differ on whether fidyah is also due (see More detail)."
+      ]
+    },
+    {
+      "heading": "Making up fasts and expiation",
+      "paragraphs": [
+        "Missed Ramadan fasts are made up day for day (qada) before the next Ramadan. 'A'ishah used to make up her missed Ramadan fasts in Sha'ban [H bukhari 1950].",
+        "All schools agree that deliberately having intercourse during a Ramadan fast requires a make-up day and a major expiation (kaffarah). In the hadith it is freeing a slave, or if not possible fasting sixty consecutive days, or if not possible feeding sixty poor people [H bukhari 1936]. Most schools follow this order; the Maliki school allows a free choice and prefers feeding. The schools differ on whether deliberately eating also requires kaffarah."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "When the intention for a Ramadan fast must be made",
+      "hanafi": "Valid from the night before up to before the midpoint of the day, if nothing has been eaten.",
+      "maliki": "One intention at the start of Ramadan covers the whole month (if the fast is unbroken).",
+      "shafii": "Must be made each night before dawn for an obligatory fast.",
+      "hanbali": "Must be made each night before dawn for an obligatory fast."
+    },
+    {
+      "question": "Eating or drinking by mistake",
+      "hanafi": "Fast remains valid; no make-up.",
+      "maliki": "Continue fasting, but an obligatory fast must be made up; no expiation.",
+      "shafii": "Fast remains valid; no make-up.",
+      "hanbali": "Fast remains valid; no make-up."
+    },
+    {
+      "question": "Deliberately eating or drinking in Ramadan",
+      "hanafi": "Make-up and major expiation (kaffarah).",
+      "maliki": "Make-up and major expiation (kaffarah).",
+      "shafii": "Make-up only, plus repentance; no kaffarah.",
+      "hanbali": "Make-up only, plus repentance; no kaffarah."
+    },
+    {
+      "question": "Pregnant or breastfeeding woman who fears for the child",
+      "hanafi": "Make-up only.",
+      "maliki": "Pregnant: make-up only. Breastfeeding: make-up and fidyah.",
+      "shafii": "Make-up and fidyah.",
+      "hanbali": "Make-up and fidyah."
+    },
+    {
+      "question": "Does a moon sighting in one country bind others?",
+      "hanafi": "Relied view: yes, differences in horizon are not considered.",
+      "maliki": "Relied view: yes, a confirmed sighting binds others.",
+      "shafii": "No; each region with a different horizon follows its own sighting.",
+      "hanbali": "Relied view: yes, a confirmed sighting binds others."
+    },
+    {
+      "question": "Delaying make-up days past the next Ramadan without excuse",
+      "hanafi": "Make-up only; no extra fidyah.",
+      "maliki": "Make-up plus fidyah for each day.",
+      "shafii": "Make-up plus fidyah for each day.",
+      "hanbali": "Make-up plus fidyah for each day."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do eye drops, injections or inhalers break the fast?",
+      "a": "Classical scholars of all four schools agreed that what enters the body through a recognised opening breaks the fast. For modern medicine, contemporary scholars and fiqh councils differ: many say non-nourishing injections do not break the fast, while asthma inhalers are disputed. Ask a qualified scholar for your specific treatment, and remember that genuine illness is itself a valid reason not to fast [Q 2:184]."
+    },
+    {
+      "q": "Can I brush my teeth while fasting?",
+      "a": "Yes, as long as you do not swallow water or toothpaste. The Prophet ﷺ encouraged using the miswak, and the schools agree it does not break the fast. Some schools consider brushing after midday disliked but not invalidating."
+    },
+    {
+      "q": "What if I find out I ate after dawn by mistake?",
+      "a": "If you ate believing dawn had not yet come, and then learned it had, the majority of scholars say the fast must be made up, while some scholars say it is valid. Using a reliable local prayer timetable avoids this. Stop eating once the Fajr time begins [Q 2:187]."
+    },
+    {
+      "q": "How much is fidyah?",
+      "a": "Fidyah is feeding one poor person for each day missed [Q 2:184]. The schools measure this as a set amount of staple food per day, and many charities and mosques publish a cash equivalent each year. Check the figure used by your local mosque or a recognised charity."
+    },
+    {
+      "q": "Can I fast if I don't pray?",
+      "a": "The fast and the prayer are separate obligations, and a fast is not cancelled just because a prayer was missed. But prayer is the greater pillar, and leaving it is a grave sin. Ramadan is an ideal time to start praying regularly."
+    },
+    {
+      "q": "Are there other fasts besides Ramadan?",
+      "a": "Yes. Recommended fasts include six days of Shawwal after Ramadan [H muslim 1164a], the Day of Arafah for those not on Hajj, the Day of Ashura (10th of Muharram) with a day before or after, Mondays and Thursdays, and three days each month. Fasting on the two Eids is forbidden."
+    },
+    {
+      "q": "I'm travelling for work during Ramadan. Must I fast?",
+      "a": "A traveller may fast or break the fast and make up the days later [Q 2:184]. If fasting is easy on the journey, many scholars say fasting is better; if it causes hardship, breaking it is better. Whether you count as a traveller depends on the distance and how long you stay."
+    },
+    {
+      "q": "What is zakat al-fitr?",
+      "a": "Zakat al-fitr is a small charity every Muslim who can afford it pays on behalf of themselves and their dependants before the Eid al-Fitr prayer. It purifies the fast and feeds the poor on Eid. It is covered in the Zakah guide."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Book of Fasting in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/30" },
+    { "name": "Qur'an 2:183-187, the verses of fasting, on Quran.com", "url": "https://quran.com/2/183-187" }
+  ]
+}

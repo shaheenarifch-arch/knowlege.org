@@ -1,0 +1,165 @@
+{
+  "slug": "zakah",
+  "title": "Zakah: Who Pays, How Much, and Who Receives It",
+  "summary": "A practical guide to zakah, the obligatory charity: who must pay, the nisab threshold, which wealth is zakatable, the 2.5% rate, the eight groups who may receive it, and zakat al-fitr.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaotaoyuan_Mosque_-_Donation_Box.jpg/1280px-Xiaotaoyuan_Mosque_-_Donation_Box.jpg",
+    "alt": "A wooden charity donation box inside Xiaotaoyuan Mosque in Shanghai",
+    "width": 1280, "height": 960,
+    "author": "Chongkian", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiaotaoyuan_Mosque_-_Donation_Box.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "What zakah is",
+      "paragraphs": [
+        "Zakah is the third pillar of Islam [H bukhari 8]: a fixed share of qualifying wealth that Muslims give each year to set groups of people in need. The word means both purification and growth. The Qur'an joins it with prayer dozens of times, as in \"establish prayer and give zakah\" [Q 2:43], and describes it as charity that cleanses and purifies those who give it [Q 9:103].",
+        "Zakah is a right of the poor over the wealth of the rich, not a favour. When the Prophet ﷺ sent Mu'adh to Yemen, he told him to teach the people that God had made zakah obligatory on their wealth, taken from their rich and returned to their poor [H bukhari 1395]. The Qur'an warns those who hoard gold and silver without spending in God's way [Q 9:34]."
+      ]
+    },
+    {
+      "heading": "Who must pay",
+      "paragraphs": [
+        "All four schools agree that zakah is due from a free Muslim who owns zakatable wealth at or above the nisab (minimum threshold) for one full lunar year (hawl). The wealth must be fully owned and in excess of the person's basic needs. The schools differ on whether zakah is due on a child's wealth (see More detail)."
+      ]
+    },
+    {
+      "heading": "The nisab threshold",
+      "paragraphs": [
+        "Zakah only applies once wealth reaches the nisab, the minimum set in the Sunnah [H bukhari 1405]. The schools agree on the classical measures:"
+      ],
+      "points": [
+        "Gold: 20 mithqal, about 85 grams [H abudawud 1573].",
+        "Silver: 200 dirhams, about 595 grams [H abudawud 1573].",
+        "Cash, savings and trade goods are measured against the gold or silver nisab. Contemporary scholars differ on which to use; the silver nisab is lower, so more people pay, while the gold nisab reflects today's value more closely. Many mosques publish the current figure.",
+        "Livestock and crops have their own thresholds (for example, five camels and five wasq of grain or dates [H bukhari 1405], and forty sheep [H bukhari 1454])."
+      ]
+    },
+    {
+      "heading": "Which wealth is zakatable, and at what rate",
+      "paragraphs": [
+        "The schools agree that zakah is due on the following, once the nisab and a lunar year are met:"
+      ],
+      "points": [
+        "Gold and silver, and cash in any form (savings, current accounts, cash at home): 2.5%.",
+        "Goods held for trade (business stock), valued at their market price on the zakah date: 2.5%.",
+        "Crops and fruits at harvest: 10% if watered by rain or rivers, 5% if irrigated by effort or cost [H bukhari 1483]. No full year is needed for crops.",
+        "Grazing livestock (camels, cattle, sheep and goats) at the rates set in the Sunnah [H bukhari 1454].",
+        "Not zakatable: your home, car, clothes, furniture, tools of your trade and other items for personal use."
+      ]
+    },
+    {
+      "heading": "The eight groups who receive zakah",
+      "paragraphs": [
+        "The Qur'an names exactly who may receive zakah [Q 9:60], and all schools agree it may only go to these eight groups:"
+      ],
+      "points": [
+        "The poor (fuqara').",
+        "The needy (masakin).",
+        "Those employed to collect and distribute zakah.",
+        "Those whose hearts are to be reconciled (such as new Muslims).",
+        "Freeing those in bondage.",
+        "Those in debt who cannot repay.",
+        "In the cause of God (fi sabilillah).",
+        "The stranded traveller.",
+        "Zakah may not be given to your own parents, grandparents, children or grandchildren, nor by a husband to his wife (you already have a duty to support them); several scholars allow a wife to give her zakah to a poor husband, to non-Muslims (other than those whose hearts are to be reconciled, in some views), or to the Prophet's family (Banu Hashim)."
+      ]
+    },
+    {
+      "heading": "Paying zakah well",
+      "paragraphs": [
+        "Zakah requires the intention that the payment is zakah. It should be paid promptly once due, and most schools allow paying it in advance (the Maliki school only shortly before it is due). Give from good wealth, not what you would not accept yourself [Q 2:267]. Giving privately is praised, though giving openly is permitted [Q 2:271].",
+        "Many people choose a fixed date each lunar year, such as in Ramadan, total their zakatable wealth on that date, subtract debts due immediately, and pay 2.5% if the total is above the nisab."
+      ]
+    },
+    {
+      "heading": "Zakat al-fitr",
+      "paragraphs": [
+        "Zakat al-fitr is a separate, small charity due at the end of Ramadan from every Muslim who has more than their needs for the day of Eid (the Hanafi school requires owning the nisab), paid on behalf of themselves and their dependants, young and old. The Prophet ﷺ made it one sa' (a measure of about 2.5 to 3 kg) of dates, barley or another staple food [H bukhari 1503]. It should be given before the Eid prayer so the poor can celebrate too."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Zakah on women's jewellery worn regularly",
+      "hanafi": "Due, if gold or silver jewellery reaches the nisab.",
+      "maliki": "Not due on permissible jewellery for personal use.",
+      "shafii": "Not due on permissible jewellery for personal use (relied view).",
+      "hanbali": "Not due on permissible jewellery for personal use."
+    },
+    {
+      "question": "Zakah on the wealth of a child or someone mentally incapacitated",
+      "hanafi": "Not due on their money (only on crops and zakat al-fitr).",
+      "maliki": "Due; the guardian pays it from their wealth.",
+      "shafii": "Due; the guardian pays it from their wealth.",
+      "hanbali": "Due; the guardian pays it from their wealth."
+    },
+    {
+      "question": "Do debts reduce zakatable wealth?",
+      "hanafi": "Yes, debts are deducted first.",
+      "maliki": "Deducted from cash and gold/silver, not from crops or livestock.",
+      "shafii": "No, in the relied view: debt does not prevent zakah.",
+      "hanbali": "Yes, debts are deducted first."
+    },
+    {
+      "question": "Must zakah be shared across all eight groups?",
+      "hanafi": "No; it may all go to one group or person.",
+      "maliki": "No; give to the neediest groups.",
+      "shafii": "Yes, to every available group, at least three people in each.",
+      "hanbali": "No; it may all go to one group."
+    },
+    {
+      "question": "Paying zakat al-fitr in cash",
+      "hanafi": "Permitted; cash value may be given.",
+      "maliki": "Must be given as staple food.",
+      "shafii": "Must be given as staple food.",
+      "hanbali": "Must be given as staple food (relied view)."
+    },
+    {
+      "question": "Which nisab for cash and savings",
+      "hanafi": "Whichever of gold or silver is more beneficial to the poor (in practice, often silver).",
+      "maliki": "Gold or silver, by value.",
+      "shafii": "Gold or silver, by value.",
+      "hanbali": "Whichever is more beneficial to the poor."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I calculate my zakah?",
+      "a": "Pick your zakah date. Add up cash, bank balances, gold and silver at today's price, business stock and money owed to you that you expect to receive. Subtract debts due now (the schools differ on this; see More detail). If the total is at or above the nisab and you have held at least the nisab for a lunar year, pay 2.5% of the total."
+    },
+    {
+      "q": "Is zakah due on my pension or retirement fund?",
+      "a": "Classical texts do not address modern pensions, and contemporary scholars differ. Many say zakah is due on what you can access, or on the zakatable portion of investments you control, and not on funds you cannot withdraw. Ask a scholar familiar with your type of pension."
+    },
+    {
+      "q": "Is zakah due on shares and investments?",
+      "a": "Shares held to trade are valued at market price and zakah is paid at 2.5%. For long-term holdings, many contemporary scholars say zakah is due on the company's zakatable assets proportional to your shareholding. This is a modern question, so check with a qualified scholar or a reputable zakah calculator."
+    },
+    {
+      "q": "Can I give zakah to my brother or sister?",
+      "a": "Yes, if they qualify as poor or needy and are not among those you are obliged to support. Giving to relatives who qualify carries a double reward, as both charity and keeping family ties. Zakah may not go to your parents or children, and a husband may not give it to his wife."
+    },
+    {
+      "q": "Can zakah be used to build a mosque?",
+      "a": "The majority of classical scholars say no: \"in the cause of God\" [Q 9:60] refers to specific purposes, not general charitable projects, and zakah must be given to eligible people. Mosques are funded through general charity (sadaqah)."
+    },
+    {
+      "q": "What is the difference between zakah and sadaqah?",
+      "a": "Zakah is obligatory, has a fixed rate and threshold, and goes only to the eight groups [Q 9:60]. Sadaqah is voluntary charity of any amount, given to anyone and for any good cause, and it is greatly encouraged at all times."
+    },
+    {
+      "q": "Can I pay zakah through a charity?",
+      "a": "Yes. A charity can act as your agent. Choose one that keeps zakah funds separate and gives them only to eligible recipients, and that explains how it does so."
+    },
+    {
+      "q": "I missed zakah in past years. What should I do?",
+      "a": "Zakah that was due remains a debt owed to the poor and must be paid, even for past years. Estimate your zakatable wealth for each missed year as best you can, pay it, and seek God's forgiveness."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Book of Zakat in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/24" },
+    { "name": "Qur'an 9:60, the eight recipients of zakah, on Quran.com", "url": "https://quran.com/9/60" }
+  ]
+}

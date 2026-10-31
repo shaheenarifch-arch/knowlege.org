@@ -1,0 +1,150 @@
+{
+  "slug": "marriage",
+  "title": "Marriage (Nikah): The Contract, Consent, Witnesses and Mahr",
+  "summary": "What makes an Islamic marriage valid: the offer and acceptance, the bride's consent, the guardian (wali), witnesses and mahr, who may marry whom, and the rights spouses have over each other.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Signing_the_Nikah.jpg/1280px-Signing_the_Nikah.jpg",
+    "alt": "A bride with henna-decorated hands signing the nikah marriage contract",
+    "width": 1280, "height": 1707,
+    "author": "Zainub Razvi", "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Signing_the_Nikah.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Marriage in Islam",
+      "paragraphs": [
+        "Marriage (nikah) is a sacred contract and a Sunnah of the Prophets. The Qur'an describes spouses as created for one another so that they may find tranquillity, with love and mercy placed between them [Q 30:21], and calls the marriage covenant a \"firm pledge\" [Q 4:21].",
+        "The Prophet ﷺ encouraged young people who are able to marry to do so, as it helps lower the gaze and guard chastity [H bukhari 5066]. He advised choosing a spouse above all for their religion and character [H bukhari 5090]."
+      ]
+    },
+    {
+      "heading": "What makes a marriage valid",
+      "paragraphs": [
+        "The schools agree that a marriage contract requires:"
+      ],
+      "points": [
+        "Offer and acceptance (ijab and qabul): clear words of marriage from both sides, in one sitting.",
+        "Two parties who are free to marry each other (see who may not marry, below).",
+        "The consent of the groom, and the agreement of the bride: the Prophet ﷺ said a previously married woman is not married without being consulted, nor a virgin without her permission [H bukhari 5136]. All schools require a previously married woman's consent; for a virgin they differ on the father's role (see More detail).",
+        "Witnesses, or public announcement, so that the marriage is known and not secret. (The schools differ on the details and on the role of the guardian; see More detail.)",
+        "A mahr (dowry) owed by the husband to the wife."
+      ]
+    },
+    {
+      "heading": "The mahr",
+      "paragraphs": [
+        "The mahr is a gift the husband gives to his wife, and it belongs to her alone. The Qur'an commands: \"Give women their mahr as a free gift\" [Q 4:4]. It may be money, property or anything of value, and can be paid immediately or deferred, in full or in part.",
+        "All schools agree that if no mahr was named in the contract, the marriage is still valid and the wife is owed a fair mahr (mahr al-mithl), comparable to that of women like her. The Prophet ﷺ encouraged keeping the mahr modest and easy."
+      ]
+    },
+    {
+      "heading": "Who may not marry each other",
+      "paragraphs": [
+        "The Qur'an lists the women a man may never marry [Q 4:23], and the schools agree on these permanent prohibitions:"
+      ],
+      "points": [
+        "Close blood relatives: mother, daughter, sister, aunts, nieces and grandmothers/granddaughters.",
+        "Relatives by breastfeeding in the same degrees (milk-mother, milk-sister and so on).",
+        "Relatives by marriage: the wife's mother, the father's wife, the son's wife, and a wife's daughter once the marriage with her mother was consummated.",
+        "Temporary prohibitions include marrying two sisters at the same time, a woman during her waiting period ('iddah) from another marriage, or a woman already married.",
+        "A Muslim woman may marry only a Muslim man. A Muslim man may marry a Muslim woman or a chaste woman of the People of the Book (Christian or Jewish) [Q 5:5], though many scholars caution against it today."
+      ]
+    },
+    {
+      "heading": "Rights within marriage",
+      "paragraphs": [
+        "The Qur'an says women have rights similar to those over them, in fairness [Q 2:228], and commands living with one's wife in kindness [Q 4:19]. The Prophet ﷺ said the best of you are those who are best to their wives [H tirmidhi 1162].",
+        "The schools agree on these core rights: the wife is entitled to her mahr, to financial maintenance (nafaqah) — food, clothing and housing according to her husband's means — and to kind treatment. Her own wealth and earnings remain hers. Both spouses are entitled to companionship, intimacy and fidelity, and to be treated with respect. Spouses should consult each other and settle disputes through reconciliation, involving family arbiters if needed [Q 4:35]."
+      ]
+    },
+    {
+      "heading": "The wedding",
+      "paragraphs": [
+        "Announcing the marriage is part of the Sunnah, and a wedding feast (walimah) after the marriage is strongly recommended; the Prophet ﷺ told 'Abd al-Rahman ibn 'Awf to hold one, even with a single sheep [H bukhari 5155]. A short sermon (khutbat al-hajah) is customarily given before the contract. The schools agree that the celebration should be modest and avoid extravagance and anything forbidden."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Can a father marry off a virgin daughter without her consent (ijbar)?",
+      "hanafi": "No; an adult woman's consent is a condition of the marriage.",
+      "maliki": "The father may (ijbar), though seeking her permission is recommended.",
+      "shafii": "The father may, with conditions such as a suitable match; seeking her permission is recommended.",
+      "hanbali": "Relied view: the father may; seeking her permission is recommended."
+    },
+    {
+      "question": "Is a guardian (wali) required for the bride?",
+      "hanafi": "Not for an adult, sane woman; she may contract her own marriage, though the wali can object to an unsuitable match. Involving him is recommended.",
+      "maliki": "Yes; the marriage is not valid without the wali.",
+      "shafii": "Yes; the marriage is not valid without the wali [H abudawud 2085].",
+      "hanbali": "Yes; the marriage is not valid without the wali [H abudawud 2085]."
+    },
+    {
+      "question": "Witnesses at the contract",
+      "hanafi": "Two Muslim witnesses required: two men, or one man and two women.",
+      "maliki": "Witnesses required before consummation; public announcement is essential.",
+      "shafii": "Two upright Muslim men required at the contract.",
+      "hanbali": "Two upright Muslim men required at the contract."
+    },
+    {
+      "question": "Minimum mahr",
+      "hanafi": "10 dirhams (about 30 g of silver).",
+      "maliki": "A quarter dinar of gold or 3 dirhams of silver.",
+      "shafii": "No minimum; anything of value.",
+      "hanbali": "No minimum; anything of value."
+    },
+    {
+      "question": "Compatibility (kafa'ah)",
+      "hanafi": "Given considerable weight (religion, lineage, profession, wealth); the wali may object to an unequal match.",
+      "maliki": "Mainly religion and freedom from defects.",
+      "shafii": "Considered in several respects; a right of the woman and her wali.",
+      "hanbali": "Considered in several respects; a right of the woman and her wali."
+    },
+    {
+      "question": "Can the bride add conditions to the contract (e.g. no second wife)?",
+      "hanafi": "Such conditions are not binding, though the contract is valid.",
+      "maliki": "Disliked, generally not binding.",
+      "shafii": "Generally not binding.",
+      "hanbali": "Valid and binding; if broken, the wife may ask for the marriage to be ended."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a civil or registry marriage enough?",
+      "a": "A civil marriage registers the marriage under the law of the land, but it may not include everything an Islamic contract requires, such as the wali, witnesses or mahr, according to the schools. Many couples do both: an Islamic nikah and civil registration, which also protects the wife's legal rights."
+    },
+    {
+      "q": "Can the nikah be done online or over the phone?",
+      "a": "This is a contemporary question. Classical rules require offer and acceptance in one sitting with witnesses present. Some contemporary scholars accept a live video contract with all parties and witnesses taking part, while others require appointing a representative (wakil) who attends in person. Ask a qualified scholar before relying on it."
+    },
+    {
+      "q": "Can parents force their child to marry?",
+      "a": "The Prophet ﷺ taught that a woman's permission must be sought [H bukhari 5136], and when a woman was married against her will he let her annul the marriage [H bukhari 5138]. The Hanafi school makes an adult woman's consent a condition. The other schools historically allowed a father to contract a virgin daughter's marriage, while recommending her permission and setting conditions to protect her. Forcing anyone into marriage causes harm and is illegal in many countries; if this affects you, speak to a scholar or a support service."
+    },
+    {
+      "q": "Does the bride have to attend the nikah?",
+      "a": "Her consent is required; her presence depends on the school. Where a wali is required, he states the offer on her behalf after obtaining her permission. In all schools, her clear agreement must be obtained beforehand."
+    },
+    {
+      "q": "Is a secret marriage valid?",
+      "a": "The schools agree that a marriage should be known and publicly announced. A marriage without witnesses or announcement, kept hidden on purpose, is invalid or seriously defective according to all four schools."
+    },
+    {
+      "q": "What if the mahr was never paid?",
+      "a": "The mahr is a debt the husband owes his wife until it is paid or she freely gives it up [Q 4:4]. Deferred mahr becomes due at the agreed time, or on divorce or the husband's death, and is paid from his estate before inheritance is divided."
+    },
+    {
+      "q": "Is it allowed to see a prospective spouse before marriage?",
+      "a": "Yes. The Prophet ﷺ advised a man who was going to marry to look at the woman first, as it is more likely to create love between them. This is done respectfully, with family involvement and without being alone together."
+    },
+    {
+      "q": "Does a woman take her husband's family name?",
+      "a": "Islamic law does not require it. Traditionally, Muslims keep the name of their own father, and a wife's lineage remains her own. Changing a surname for legal or social convenience is a matter of custom."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Book of Wedlock (Nikah) in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/67" },
+    { "name": "Qur'an 4:1-4, 4:19-25 on marriage and mahr, on Quran.com", "url": "https://quran.com/4/1-4" }
+  ]
+}

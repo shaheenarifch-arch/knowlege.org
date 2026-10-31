@@ -1,0 +1,174 @@
+{
+  "slug": "salah",
+  "title": "Prayer (Salah): A Guide to the Five Daily Prayers",
+  "summary": "What every Muslim needs to know about salah: who must pray, the five prayer times, the conditions and core acts of prayer, praying in congregation, and the ease given to travellers and the sick.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Muslims_praying_in_a_Masque_in_Bangladesh.jpg/1280px-Muslims_praying_in_a_Masque_in_Bangladesh.jpg",
+    "alt": "Rows of Muslim men praying together in congregation inside a mosque in Bangladesh",
+    "width": 1280, "height": 812,
+    "author": "Shaeekh Shuvro", "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muslims_praying_in_a_Masque_in_Bangladesh.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "What salah is and why it matters",
+      "paragraphs": [
+        "Salah is the ritual prayer Muslims perform five times a day. It is the second of the five pillars of Islam, after the testimony of faith [H bukhari 8]. The Qur'an commands it repeatedly and describes it as a duty fixed at set times [Q 4:103].",
+        "Prayer is meant to keep a person connected to God throughout the day. The Qur'an says prayer restrains from shameful and wrong deeds [Q 29:45], and the Prophet ﷺ compared the five prayers to bathing five times a day in a river at one's door, which leaves no dirt behind [H bukhari 528]. The five prayers also wipe away the minor sins committed between them [H muslim 233a]."
+      ]
+    },
+    {
+      "heading": "Who must pray",
+      "paragraphs": [
+        "All four schools agree that the five daily prayers are obligatory on every Muslim who is sane and has reached puberty. A child is taught to pray from around seven so that the habit is formed before it becomes obligatory.",
+        "Prayer is not dropped because of illness, travel or difficulty; instead it is made easier (see below). The schools agree on one exemption: a woman during menstruation or post-natal bleeding does not pray, and she does not make up those missed prayers afterwards."
+      ]
+    },
+    {
+      "heading": "The five prayers and their times",
+      "paragraphs": [
+        "The Qur'an points to the times of prayer from the decline of the sun until the darkness of night, and the recitation at dawn [Q 17:78]. All schools agree on the five prayers and the order of their times:"
+      ],
+      "points": [
+        "Fajr (dawn): 2 units (rak'ahs), from true dawn until sunrise.",
+        "Dhuhr (midday): 4 units, from just after the sun passes its highest point.",
+        "Asr (afternoon): 4 units, from when shadows lengthen until sunset (praying before the sun yellows is preferred).",
+        "Maghrib (sunset): 3 units, from sunset until the red twilight disappears.",
+        "Isha (night): 4 units, from nightfall; praying before midnight is preferred.",
+        "Each prayer must be prayed within its time. Delaying a prayer past its time without a valid excuse is a serious sin, and a missed prayer must be made up."
+      ]
+    },
+    {
+      "heading": "Conditions before you pray",
+      "paragraphs": [
+        "The schools agree that a prayer is only valid when these conditions are met:"
+      ],
+      "points": [
+        "Purity from minor and major ritual impurity, through wudu or ghusl (or tayammum when water can't be used) [Q 5:6]. The Prophet ﷺ said no prayer is accepted without purification [H muslim 224a].",
+        "A clean body, clothing and place, free from impurities such as urine or blood.",
+        "Covering the 'awrah: for men at least from the navel to the knees; for women the whole body except the face and hands (with some difference over the feet).",
+        "Facing the qiblah, the direction of the Ka'bah in Makkah [Q 2:144].",
+        "The prayer's time having begun, and the intention in the heart to pray that particular prayer [H bukhari 1]."
+      ]
+    },
+    {
+      "heading": "The core acts of every prayer",
+      "paragraphs": [
+        "The Prophet ﷺ said, \"Pray as you have seen me praying\" [H bukhari 631]. From his practice, the schools agree that every prayer contains:"
+      ],
+      "points": [
+        "The opening takbir, saying \"Allahu akbar\" to begin.",
+        "Standing (qiyam), for those able, and reciting from the Qur'an.",
+        "Bowing (ruku') and rising from it.",
+        "Two prostrations (sujud) in each unit, with a sitting between them.",
+        "The final sitting at the end of the prayer, ending with the salam.",
+        "Calmness (tuma'ninah) in each position, not rushing through it. (The Hanafi school classes calmness and the closing salam as wajib, just below obligatory.)",
+        "Recitation of al-Fatihah is central to the prayer; the schools differ only in how they classify it and whether a follower recites it behind the imam (see More detail)."
+      ]
+    },
+    {
+      "heading": "Praying in congregation and Jumu'ah",
+      "paragraphs": [
+        "Praying in congregation is one of the most emphasised acts in Islam. The Prophet ﷺ said congregational prayer is twenty-seven degrees better than praying alone [H bukhari 645]. All schools agree it is strongly encouraged for men at the mosque; they differ on its exact legal level.",
+        "The Friday prayer (Jumu'ah) replaces Dhuhr on Fridays. It is obligatory on adult, resident Muslim men, is prayed in congregation with a sermon (khutbah), and consists of two units [Q 62:9]."
+      ]
+    },
+    {
+      "heading": "Ease for travellers and the sick",
+      "paragraphs": [
+        "Islam makes prayer easier rather than dropping it. A traveller shortens the four-unit prayers (Dhuhr, Asr and Isha) to two units [Q 4:101]. Fajr and Maghrib are never shortened.",
+        "A person who is ill prays standing if able, sitting if not, and lying on their side if they cannot sit [H bukhari 1117]. They perform the movements as far as they can, gesturing with the head when they cannot bow or prostrate. God does not burden a soul beyond what it can bear [Q 2:286]."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Status of Witr",
+      "hanafi": "Wajib (necessary, just below obligatory); 3 units with one salam.",
+      "maliki": "Strongly recommended sunnah (sunnah mu'akkadah).",
+      "shafii": "Strongly recommended sunnah; 1 to 11 units.",
+      "hanbali": "Strongly recommended sunnah; 1 to 11 units."
+    },
+    {
+      "question": "Reciting al-Fatihah behind an imam",
+      "hanafi": "The follower does not recite; the imam's recitation counts for him.",
+      "maliki": "Recommended in silent prayers; disliked in prayers the imam recites aloud.",
+      "shafii": "Obligatory for the follower in every unit, silent or aloud.",
+      "hanbali": "Recommended in silent prayers and in the imam's pauses; not obligatory."
+    },
+    {
+      "question": "Raising the hands besides the opening takbir",
+      "hanafi": "Only at the opening takbir.",
+      "maliki": "Relied position: only at the opening takbir.",
+      "shafii": "Also when going into and rising from ruku', and when standing after the first tashahhud.",
+      "hanbali": "Also when going into and rising from ruku'."
+    },
+    {
+      "question": "Where the hands are placed while standing",
+      "hanafi": "Right over left, below the navel (for men).",
+      "maliki": "Widely practised: arms by the sides (sadl), especially in obligatory prayers.",
+      "shafii": "Right over left, below the chest and above the navel.",
+      "hanbali": "Right over left, below the navel (relied view)."
+    },
+    {
+      "question": "Legal level of congregation for men",
+      "hanafi": "Wajib or strongly emphasised sunnah, according to the school's scholars.",
+      "maliki": "Strongly emphasised sunnah.",
+      "shafii": "Communal obligation (fard kifayah) in the relied view.",
+      "hanbali": "Individual obligation for able men, though a prayer prayed alone is still valid."
+    },
+    {
+      "question": "Shortening prayer when travelling",
+      "hanafi": "Shortening is obligatory (wajib) for the traveller.",
+      "maliki": "Strongly emphasised sunnah.",
+      "shafii": "Permitted; shortening is preferred on long journeys.",
+      "hanbali": "Permitted and preferred."
+    },
+    {
+      "question": "Combining prayers when travelling",
+      "hanafi": "Not permitted, except at Arafah and Muzdalifah during Hajj.",
+      "maliki": "Permitted (Dhuhr with Asr, Maghrib with Isha).",
+      "shafii": "Permitted, earlier or later time.",
+      "hanbali": "Permitted, earlier or later time."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I miss a prayer?",
+      "a": "All four schools agree that a missed obligatory prayer must be made up (qada) as soon as possible, whether it was missed through sleep, forgetfulness or neglect. The Prophet ﷺ said whoever forgets a prayer or sleeps through it should pray it when they remember [H muslim 684]. Missing a prayer deliberately also requires sincere repentance."
+    },
+    {
+      "q": "Can I pray in a language other than Arabic?",
+      "a": "The required recitations of the prayer, including al-Fatihah, are said in Arabic according to all four schools. Personal supplications (du'a) outside the prayer can be made in any language. New Muslims who are still learning should say what they can and keep learning; God does not burden anyone beyond their ability [Q 2:286]."
+    },
+    {
+      "q": "Do women have to pray at the mosque?",
+      "a": "No. The schools agree that women are not obliged to attend congregational prayers or Jumu'ah, and a woman's prayer at home is complete. Women may attend the mosque, and the Prophet ﷺ said not to prevent women from going to the mosques [H bukhari 900]."
+    },
+    {
+      "q": "How far do I need to travel before I can shorten my prayers?",
+      "a": "Shortening is allowed on a journey of a recognised distance [Q 4:101]. The schools measure this differently, but most estimates fall at roughly 77 to 89 km (about 48 to 55 miles). You begin shortening once you leave the built-up area of your town. Check the distance your local scholars use."
+    },
+    {
+      "q": "What breaks a prayer?",
+      "a": "The schools agree that a prayer is broken by losing wudu, deliberately speaking words unrelated to the prayer, eating or drinking, turning the chest away from the qiblah, laughing aloud, or deliberately leaving out one of its core acts. Small, necessary movements do not break it."
+    },
+    {
+      "q": "What should I do if I forget part of the prayer?",
+      "a": "If you forget a recommended or necessary part, or are unsure how many units you have prayed, you make the prostrations of forgetfulness (sujud as-sahw): two extra prostrations near the end of the prayer. The Prophet ﷺ did this when he forgot during prayer [H bukhari 1224]. A forgotten core act must be performed, not just covered by these prostrations."
+    },
+    {
+      "q": "Is it allowed to pray on a plane or train?",
+      "a": "Yes. Obligatory prayers are prayed when their time comes, standing and facing the qiblah if possible. If standing or facing the qiblah isn't possible, you pray as you are able. Voluntary prayers may be prayed while seated in a moving vehicle, as the Prophet ﷺ prayed voluntary prayers on his mount facing the direction it travelled [H bukhari 1093]."
+    },
+    {
+      "q": "Can I combine prayers at work or university?",
+      "a": "The four schools allow combining prayers mainly for travel (and, for some, rain or illness), not for routine work. Most workplaces can accommodate a short break, as each prayer takes only a few minutes. If you face genuine hardship, ask a qualified scholar about your circumstances."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Prayer chapters of Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/8" },
+    { "name": "Surah an-Nisa' (4:101-103) on prayer when travelling and in fear, Quran.com", "url": "https://quran.com/4/101" }
+  ]
+}
