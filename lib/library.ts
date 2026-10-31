@@ -7,6 +7,17 @@ import purity from "../content/library/guides/purity.json";
 import fasting from "../content/library/guides/fasting.json";
 import zakah from "../content/library/guides/zakah.json";
 import marriage from "../content/library/guides/marriage.json";
+import halalHaram from "../content/library/guides/halal-haram.json";
+// Sub-guides: /knowledge-hub/<topic>/<sub>, stored at content/library/guides/<topic>/<sub>.json.
+import salahPrayerTimes from "../content/library/guides/salah/prayer-times.json";
+import salahTravel from "../content/library/guides/salah/travel-prayer.json";
+import salahJumuah from "../content/library/guides/salah/jumuah.json";
+import salahEid from "../content/library/guides/salah/eid-prayer.json";
+import salahWitr from "../content/library/guides/salah/witr-and-tarawih.json";
+import salahMissed from "../content/library/guides/salah/missed-prayers.json";
+import salahSahw from "../content/library/guides/salah/sajdah-al-sahw.json";
+import hhMeat from "../content/library/guides/halal-haram/meat-and-slaughter.json";
+import hhIngredients from "../content/library/guides/halal-haram/food-ingredients.json";
 
 export interface Photo { src: string; alt: string; width: number; height: number; author: string; license: string; licenseUrl: string; sourceUrl: string }
 export interface Section { heading: string; paragraphs: string[]; points?: string[] }
@@ -25,8 +36,16 @@ export const REVIEWER = "Knowlege.org Editorial";
 export const LAST_REVIEWED = "2026-10-31";
 export const DISCLAIMER = "This guide explains what the Qur'an, the Sunnah and the classical schools say. It is for learning, not a personal religious ruling (fatwa). For your own situation, ask a qualified scholar or your local imam.";
 
-export const guides: Guide[] = [salah, purity, fasting, zakah, marriage] as Guide[];
+export const guides: Guide[] = [salah, purity, fasting, zakah, marriage, halalHaram] as Guide[];
 export const getGuide = (slug: string) => guides.find(g => g.slug === slug);
+
+/** Sub-guides of each topic, in display order. Each is a full Guide; its slug is the sub path segment. */
+export const subguides: Record<string, Guide[]> = {
+  salah: [salahPrayerTimes, salahTravel, salahJumuah, salahEid, salahWitr, salahMissed, salahSahw] as Guide[],
+  "halal-haram": [hhMeat, hhIngredients] as Guide[],
+};
+export const getSubs = (topic: string): Guide[] => subguides[topic] ?? [];
+export const getSub = (topic: string, sub: string) => getSubs(topic).find(g => g.slug === sub);
 
 // All Fiqh topics, in the order shown on /fiqh. Topics without a guide yet show "Coming soon".
 export const topics: Array<{ slug: string; title: string; blurb: string }> = [

@@ -1,0 +1,150 @@
+{
+  "slug": "halal-haram",
+  "title": "Halal and Haram: What Is Permitted and What Is Forbidden",
+  "summary": "How Islam decides what is lawful (halal) and unlawful (haram): the rule that good things are permitted, the foods and drinks the Qur'an forbids, intoxicants, doubtful matters, earning a lawful living, and the ease given in real necessity.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Iftar_for_Ramadhan.jpg/1280px-Iftar_for_Ramadhan.jpg",
+    "alt": "An iftar spread of dates, fruit and drinks laid out to break the Ramadan fast",
+    "width": 1280, "height": 671,
+    "author": "Flickr user raasiel", "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iftar_for_Ramadhan.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "What halal and haram mean",
+      "paragraphs": [
+        "Halal means what God has permitted; haram means what He has forbidden. Only God decides which is which. The Qur'an warns people against declaring things lawful or unlawful by their own say-so and so inventing a lie against God [Q 16:116], and it equally forbids banning the good things He has made lawful [Q 5:87].",
+        "Between the clearly permitted and the clearly forbidden, Islamic law recognises further grades: acts that are obligatory, recommended, merely allowed (mubah) and disliked (makruh). The schools use these grades for food, drink, clothing, work and everyday conduct, and this guide uses the same terms."
+      ]
+    },
+    {
+      "heading": "The starting rule: good things are permitted",
+      "paragraphs": [
+        "All four schools agree that, outside acts of worship, the default for food, drink and everyday things is permission until a text forbids them. God says He created everything on earth for people [Q 2:29] and tells them to eat what is lawful and wholesome [Q 2:168]. The Prophet ﷺ was sent to make good things lawful and to forbid only what is foul [Q 7:157].",
+        "Ibn 'Abbas explained that what God made lawful is lawful, what He made unlawful is unlawful, and what He said nothing about is allowed [H abudawud 3800]. So the list of forbidden things is short and specific, while the list of permitted things is open."
+      ]
+    },
+    {
+      "heading": "Foods that are forbidden",
+      "paragraphs": [
+        "The Qur'an names the forbidden meats directly [Q 2:173] [Q 5:3], and the Sunnah adds others. The main forbidden foods are:"
+      ],
+      "points": [
+        "Carrion: an animal that died by itself, or was killed by strangling, a blow, a fall, goring or a wild animal, without being properly slaughtered [Q 5:3].",
+        "Blood that has flowed out [Q 6:145].",
+        "Pork and every part of the pig [Q 2:173].",
+        "Any animal sacrificed or dedicated to other than God [Q 5:3].",
+        "Meat over which God's name was deliberately not mentioned, in the view of three of the four schools (the Shafi'i school differs; see More detail) [Q 6:121].",
+        "Donkey meat, which the Prophet ﷺ forbade at Khaybar [H bukhari 5520], and beasts of prey with fangs [H bukhari 5530] (the Maliki school classes the latter as disliked rather than forbidden)."
+      ]
+    },
+    {
+      "heading": "Intoxicants",
+      "paragraphs": [
+        "Wine and other intoxicants are forbidden. The Qur'an calls strong drink and gambling a filthy work of Satan and commands believers to avoid them [Q 5:90]. The Prophet ﷺ said every drink that intoxicates is unlawful [H bukhari 5585], and that if a large amount of something intoxicates, even a small amount of it is forbidden [H abudawud 3681]. 'Umar explained from the pulpit that khamr is whatever clouds the mind, whatever it is made from [H bukhari 5581].",
+        "The four schools forbid drinking any intoxicating drink, in small or large amounts; in the Hanafi school the fatwa is given on this view, following Imam Muhammad. The Prophet ﷺ also forbade trading in alcohol, carrion, pigs and idols [H bukhari 2236]."
+      ]
+    },
+    {
+      "heading": "Doubtful matters",
+      "paragraphs": [
+        "Not everything is clear-cut. The Prophet ﷺ said the lawful is clear and the unlawful is clear, and between them are doubtful matters that many people do not know; whoever avoids them protects his religion and honour [H bukhari 52]. The schools agree that avoiding real doubt is a mark of piety.",
+        "At the same time, Muslims are not asked to investigate everything they are offered. When people told the Prophet ﷺ they were brought meat and did not know whether God's name had been said over it, he told them to say God's name themselves and eat [H bukhari 5507]. Ordinary food from Muslims is presumed sound unless there is a real reason to think otherwise."
+      ]
+    },
+    {
+      "heading": "A lawful income",
+      "paragraphs": [
+        "Halal is not only about what is on the plate. God permits trade and forbids riba (interest and usury) [Q 2:275], and forbids consuming one another's wealth wrongfully, except through trade by mutual consent [Q 4:29]. The Prophet ﷺ said no one has eaten better food than what he earned with his own hands [H bukhari 2072], and that God accepts charity only from honestly earned wealth [H bukhari 1410].",
+        "The schools agree that money from forbidden sources, such as selling alcohol, theft, fraud or the price of a soothsayer's work, is unlawful [H abudawud 3484]. For details see the Finance and Trade guide when it is published."
+      ]
+    },
+    {
+      "heading": "Necessity and ease",
+      "paragraphs": [
+        "Islam does not ask people to die rather than eat. Each of the verses listing forbidden foods ends by excusing the person driven by necessity, who neither seeks it out nor goes beyond need [Q 2:173] [Q 6:145]. The schools agree that someone facing death or serious harm from hunger may eat forbidden food, taking only what is needed.",
+        "Genuine mistakes are also forgiven: there is no sin in what a person does by error, only in what the heart intends [Q 33:5]. Someone who ate something forbidden without knowing should simply stop once they know."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Horse meat",
+      "hanafi": "Abu Hanifa held it disliked (makruh); his students Abu Yusuf and Muhammad held it permitted.",
+      "maliki": "Not permitted in the relied position; some Maliki scholars held it only disliked.",
+      "shafii": "Permitted [H bukhari 5520].",
+      "hanbali": "Permitted [H bukhari 5520]."
+    },
+    {
+      "question": "Seafood other than fish",
+      "hanafi": "Only fish are lawful; other sea creatures are not. A fish that died by itself and floated up is not eaten.",
+      "maliki": "All sea creatures are lawful [Q 5:96].",
+      "shafii": "In the relied view, animals that live only in the sea are lawful [Q 5:96].",
+      "hanbali": "Sea animals are lawful, except a few such as the frog and the crocodile."
+    },
+    {
+      "question": "Beasts and birds of prey",
+      "hanafi": "Beasts with fangs and birds with talons are forbidden [H abudawud 3803].",
+      "maliki": "Beasts of prey are disliked in the relied view; birds of prey are permitted.",
+      "shafii": "Beasts with fangs and birds with talons are forbidden [H abudawud 3803].",
+      "hanbali": "Beasts with fangs and birds with talons are forbidden [H abudawud 3803]."
+    },
+    {
+      "question": "Saying God's name at slaughter",
+      "hanafi": "Obligatory; meat is unlawful if it is left out deliberately, lawful if forgotten.",
+      "maliki": "Obligatory when remembered; meat is unlawful if it is left out deliberately, lawful if forgotten.",
+      "shafii": "A sunnah; the meat is lawful even if it is left out, though leaving it is disliked.",
+      "hanbali": "Obligatory when slaughtering; meat is unlawful if it is left out deliberately, lawful if forgotten."
+    },
+    {
+      "question": "Hyena",
+      "hanafi": "Forbidden, as a beast of prey with fangs.",
+      "maliki": "Disliked (makruh) in the relied view.",
+      "shafii": "Permitted.",
+      "hanbali": "Permitted."
+    },
+    {
+      "question": "Animals that mostly feed on filth (jallalah)",
+      "hanafi": "Disliked until the animal is kept and fed clean food for a time.",
+      "maliki": "Permitted.",
+      "shafii": "Disliked in the relied view if the smell or taste of the meat has changed.",
+      "hanbali": "Forbidden until the animal is kept and fed clean food for a time [H abudawud 3787]."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is everything not mentioned in the Qur'an halal?",
+      "a": "For food, drink and everyday things, the default is permission unless a text of the Qur'an or Sunnah forbids it or it is harmful or intoxicating. What God said nothing about is allowed [H abudawud 3800]. Acts of worship work the other way: they must come from the Qur'an and Sunnah."
+    },
+    {
+      "q": "Can Muslims eat food prepared by Jews and Christians?",
+      "a": "Yes. The Qur'an says the food of the People of the Book is lawful for Muslims [Q 5:5]. This covers their ordinary food and the meat they slaughter, provided it contains nothing forbidden in itself, such as pork or alcohol. The schools add conditions for meat; see the Meat and Slaughter guide."
+    },
+    {
+      "q": "Is it a sin if I ate something haram without knowing?",
+      "a": "No. There is no sin in a genuine mistake, only in what the heart intends [Q 33:5], and the Qur'an teaches the prayer, \"Our Lord, do not take us to task if we forget or err\" [Q 2:286]. Once you know, avoid it from then on."
+    },
+    {
+      "q": "Is a small amount of alcohol allowed if it doesn't make me drunk?",
+      "a": "No. The Prophet ﷺ said that if a large amount of something intoxicates, a small amount of it is forbidden too [H abudawud 3681]. This is the relied position of all four schools for drinks. Traces in food are covered in the Food Ingredients guide."
+    },
+    {
+      "q": "Is fish halal?",
+      "a": "Yes. All four schools agree that fish are lawful, as God made the catch of the sea lawful [Q 5:96], and fish need no ritual slaughter. The Prophet ﷺ said of the sea that what dies in it is lawful [H abudawud 83]. The schools differ over other sea creatures and over a fish that died by itself and floated up (see More detail)."
+    },
+    {
+      "q": "What if I am offered food and am not sure it is halal?",
+      "a": "If it comes from a Muslim or from ordinary permitted ingredients, you are not required to question it; the Prophet ﷺ told people to say God's name and eat [H bukhari 5507]. If you have a real reason to doubt it, such as possible pork or alcohol, it is better to leave it [H bukhari 52]."
+    },
+    {
+      "q": "Can I work in a job that involves selling haram items?",
+      "a": "The Prophet ﷺ forbade trading in alcohol, pork, carrion and idols [H bukhari 2236], so directly selling these is not allowed. Jobs where contact with such items is minor or indirect raise detailed questions. Ask a qualified scholar about your own situation."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Food chapters of Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/70" },
+    { "name": "Drinks chapters of Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/74" },
+    { "name": "Surah al-Ma'idah (5:3) on forbidden foods, Quran.com", "url": "https://quran.com/5/3" }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "meat-and-slaughter",
+  "title": "Halal Meat and Slaughter (Dhabihah)",
+  "summary": "What makes meat halal: which animals may be eaten, who may slaughter, the cut and the blade, saying God's name, kindness to the animal, meat of the People of the Book, hunting, and what to check when buying meat.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Iftar_for_Ramadhan.jpg/1280px-Iftar_for_Ramadhan.jpg",
+    "alt": "An iftar spread of dates, fruit and drinks laid out to break the Ramadan fast",
+    "width": 1280, "height": 671,
+    "author": "Flickr user raasiel", "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iftar_for_Ramadhan.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Why slaughter matters",
+      "paragraphs": [
+        "God made livestock lawful as food [Q 5:1] [Q 6:142], but forbade carrion: an animal that dies by itself or is killed by strangling, a blow, a fall or goring, unless it is properly slaughtered while still alive [Q 5:3]. Proper slaughter (dhakah) is therefore what makes the meat of land animals lawful.",
+        "Fish and locusts are the exception: they need no slaughter. The Prophet ﷺ said of the sea that what dies in it is lawful [H abudawud 83], and his companions ate locusts with him [H bukhari 5495]."
+      ]
+    },
+    {
+      "heading": "Which animals may be eaten",
+      "paragraphs": [
+        "The schools agree that the following are lawful when properly slaughtered, and the following are forbidden:"
+      ],
+      "points": [
+        "Lawful: cattle, sheep, goats and camels [Q 22:36]; chickens, ducks and other birds without talons; deer, rabbit [H bukhari 5535] and similar wild game.",
+        "Forbidden: pigs [Q 2:173] and domestic donkeys [H bukhari 5521].",
+        "Beasts of prey with fangs and birds of prey with talons are forbidden in three schools [H abudawud 3803] and disliked in the Maliki school (see the main Halal and Haram guide).",
+        "An unborn young found inside a properly slaughtered animal is covered by its mother's slaughter, according to the majority [H abudawud 2828]; the Hanafi school requires it to be slaughtered separately if found alive."
+      ]
+    },
+    {
+      "heading": "How slaughter is done",
+      "paragraphs": [
+        "The Prophet ﷺ said: whatever makes the blood flow, and God's name is mentioned over it, eat it, but not with a tooth or a nail [H bukhari 5503]. The schools agree on these essentials:"
+      ],
+      "points": [
+        "A sharp cutting tool that makes blood flow; a knife is standard, but a sharp stone was also accepted [H bukhari 5502]. Teeth and nails may not be used [H bukhari 5509].",
+        "The cut is made at the throat, severing the vessels, so that the blood flows out. The schools differ on exactly which of the windpipe, gullet and two jugular veins must be cut (see More detail).",
+        "God's name is mentioned at the time of slaughter, as the Qur'an commands [Q 6:118] [Q 6:121]; the schools differ on the ruling when it is left out (see More detail).",
+        "The animal must be alive when slaughtered."
+      ]
+    },
+    {
+      "heading": "Kindness to the animal",
+      "paragraphs": [
+        "The Prophet ﷺ said that God has prescribed excellence in everything, so when you slaughter, slaughter well: sharpen your blade and spare the animal suffering [H nasai 4405] [H abudawud 2815]. The schools agree that it is disliked to sharpen the knife in front of the animal, to slaughter one animal in sight of another, to use a blunt blade, or to begin skinning or cutting before the animal has died.",
+        "Modern stunning raises a further question: whether the animal is still alive when cut and whether the stun itself could kill it. Halal bodies and scholars differ on which methods, if any, are acceptable; ask a scholar or halal authority you trust."
+      ]
+    },
+    {
+      "heading": "Who may slaughter",
+      "paragraphs": [
+        "The schools agree that slaughter by any sane Muslim who knows how is valid, man or woman. A slave girl of Ka'b slaughtered a dying sheep with a stone, and the Prophet ﷺ allowed it to be eaten [H bukhari 5501].",
+        "The Qur'an also makes lawful the food of those given the Scripture before, the Jews and Christians [Q 5:5], and the schools include the animals they slaughter. Meat slaughtered by idol-worshippers, atheists or others outside these groups is not lawful. Meat dedicated to anyone other than God is forbidden whoever slaughters it [Q 5:3]."
+      ]
+    },
+    {
+      "heading": "Hunting",
+      "paragraphs": [
+        "Game that cannot be caught may be hunted with weapons or trained animals. God permits eating what trained hunting animals catch, with His name mentioned over it [Q 5:4]. The Prophet ﷺ said that if you send your trained dog and mention God's name, you may eat what it catches for you, but not if it has eaten from it, and not if other dogs joined in [H bukhari 5483]. (The Maliki school still permits game a trained dog has eaten from.)",
+        "Game killed by the blunt side of a weapon rather than its edge is not eaten, as it counts as beaten to death [H bukhari 5476]. If the hunted animal is reached alive, it must be slaughtered [H bukhari 5496]. Most schools also allow a domestic animal that runs wild and cannot be caught to be brought down like game [H bukhari 5503]; the Maliki school requires it to be slaughtered."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Saying God's name (tasmiyah)",
+      "hanafi": "Obligatory; meat is unlawful if it is left out deliberately, lawful if forgotten [Q 6:121].",
+      "maliki": "Obligatory when remembered; meat is unlawful if it is left out deliberately, lawful if forgotten.",
+      "shafii": "A sunnah; the meat of a Muslim or a person of the Book is lawful even if it is left out, though leaving it is disliked.",
+      "hanbali": "Obligatory; meat is unlawful if it is left out deliberately, lawful if forgotten."
+    },
+    {
+      "question": "What must be cut",
+      "hanafi": "Any three of the four: windpipe, gullet and the two jugular veins.",
+      "maliki": "The windpipe and both jugular veins, in the relied view.",
+      "shafii": "The windpipe and the gullet; cutting the two jugular veins is recommended.",
+      "hanbali": "The windpipe and the gullet, in the relied view."
+    },
+    {
+      "question": "Meat slaughtered by Jews and Christians",
+      "hanafi": "Lawful [Q 5:5], provided another name was not invoked over it and God's name was not deliberately left out.",
+      "maliki": "Lawful [Q 5:5], if not offered to other than God; the school also discusses parts forbidden to them in their own law, so consult a Maliki scholar for details.",
+      "shafii": "Lawful [Q 5:5], if not offered to other than God.",
+      "hanbali": "Lawful [Q 5:5]; follows the general rules of slaughter above."
+    },
+    {
+      "question": "The unborn young of a slaughtered animal",
+      "hanafi": "Not lawful unless taken out alive and slaughtered (Abu Hanifa's view).",
+      "maliki": "Lawful if fully formed and hair has grown on it [H abudawud 2827].",
+      "shafii": "Lawful [H abudawud 2828].",
+      "hanbali": "Lawful [H abudawud 2828]."
+    },
+    {
+      "question": "Machine slaughter and modern stunning",
+      "hanafi": "Not addressed in the classical texts; follows the general rules above. Consult a scholar of the school or a trusted halal authority.",
+      "maliki": "Not addressed in the classical texts; follows the general rules above. Consult a scholar of the school or a trusted halal authority.",
+      "shafii": "Not addressed in the classical texts; follows the general rules above. Consult a scholar of the school or a trusted halal authority.",
+      "hanbali": "Not addressed in the classical texts; follows the general rules above. Consult a scholar of the school or a trusted halal authority."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it enough to say Bismillah over meat when I eat it?",
+      "a": "Saying God's name before eating is a sunnah [H bukhari 5376], and the Prophet ﷺ told people unsure about meat from Muslims to say God's name and eat [H bukhari 5507]. This does not make lawful meat that you know was not properly slaughtered, such as meat from a non-halal source."
+    },
+    {
+      "q": "Can I eat supermarket meat in a Christian-majority country?",
+      "a": "The Qur'an permits the food of the People of the Book [Q 5:5], but scholars differ on whether modern commercial slaughter in such countries meets the conditions, including the method of killing and whether the slaughterers are practising Jews or Christians. Many Muslims choose certified halal meat to be safe. Ask a scholar you trust."
+    },
+    {
+      "q": "Can a woman slaughter an animal?",
+      "a": "Yes. The schools agree a Muslim woman's slaughter is valid, and the Prophet ﷺ allowed a sheep slaughtered by a slave girl to be eaten [H bukhari 5501]."
+    },
+    {
+      "q": "Is seafood halal without slaughter?",
+      "a": "Fish need no slaughter, and the schools agree they are lawful [Q 5:96]. The schools differ over sea creatures other than fish, such as prawns and crabs; see the main Halal and Haram guide."
+    },
+    {
+      "q": "Is kosher meat halal?",
+      "a": "Kosher meat is slaughtered by Jews, whose food the Qur'an permits [Q 5:5], with a cut at the throat. Many scholars therefore accept it; others raise concerns, for example over whether God's name is said on each animal. Ask a scholar of your school."
+    },
+    {
+      "q": "What about meat from a hunted animal that died before I reached it?",
+      "a": "If you mentioned God's name when shooting or releasing a trained animal, and it was killed by the sharp edge of the weapon or caught by your trained animal, you may eat it [H bukhari 5476] [H bukhari 5483]. If you reach it alive, you must slaughter it [H bukhari 5496]."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Hunting and Slaughtering in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/72" },
+    { "name": "Surah al-An'am (6:118-121) on mentioning God's name, Quran.com", "url": "https://quran.com/6/118" }
+  ]
+}
