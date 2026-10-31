@@ -1,0 +1,135 @@
+{
+  "slug": "eid-prayer",
+  "title": "The Eid Prayer: Eid al-Fitr and Eid al-Adha",
+  "summary": "How and when the two Eid prayers are prayed: their time, the two units with extra takbirs, the sermon after the prayer, the sunnahs of the day, Zakat al-Fitr and the Eid sacrifice, and who should attend.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Badshahi_Mosque_front_picture.jpg/1920px-Badshahi_Mosque_front_picture.jpg",
+    "alt": "Front view of the red sandstone Badshahi Mosque in Lahore",
+    "width": 1920, "height": 1280,
+    "author": "Romero Maia", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_front_picture.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "The two festivals",
+      "paragraphs": [
+        "Islam has two annual festivals. Eid al-Fitr marks the end of Ramadan, and Eid al-Adha falls on the 10th of Dhul-Hijjah during the days of Hajj. When Abu Bakr objected to girls singing in the Prophet's house on Eid, the Prophet ﷺ said every people has its festival and this is ours [H bukhari 952].",
+        "Each Eid begins with a special congregational prayer. God says after the fast is completed, people should glorify Him for having guided them [Q 2:185], and He links prayer and sacrifice: \"So pray to your Lord and sacrifice\" [Q 108:2]."
+      ]
+    },
+    {
+      "heading": "Time and place",
+      "paragraphs": [
+        "The schools agree that the Eid prayer's time begins once the sun has risen a little above the horizon (about the height of a spear) and lasts until just before the sun reaches its height. A companion disliked an imam's delay and said they used to have finished by the forenoon [H abudawud 1135].",
+        "The Prophet ﷺ prayed the Eid prayer in the open prayer ground (musalla) outside the mosque [H bukhari 956]. Praying in a mosque is also valid, especially when the weather or space requires it."
+      ]
+    },
+    {
+      "heading": "How it is prayed",
+      "paragraphs": [
+        "The Eid prayer is two units, led by an imam, with the recitation aloud. There is no adhan or iqamah for it [H bukhari 960], and the Prophet ﷺ prayed nothing before or after it at the prayer ground [H bukhari 964]. The schools agree on these features:"
+      ],
+      "points": [
+        "Extra takbirs (saying \"Allahu akbar\") are added: in the first unit after the opening takbir, and in the second unit. Their number differs between the schools (see More detail) [H abudawud 1149].",
+        "The hands may be raised with each extra takbir, according to most schools.",
+        "After the prayer the imam gives the sermon. The Prophet ﷺ, Abu Bakr, 'Umar and 'Uthman all prayed first and then gave the sermon [H bukhari 962].",
+        "The sermon is followed by supplication and greeting one another."
+      ]
+    },
+    {
+      "heading": "Sunnahs of the day",
+      "paragraphs": [
+        "The schools agree on these practices of the Prophet ﷺ on Eid:"
+      ],
+      "points": [
+        "Taking a bath, wearing one's best clothes and using perfume.",
+        "On Eid al-Fitr, eating before going out, preferably an odd number of dates [H bukhari 953].",
+        "On Eid al-Adha, delaying food until after the prayer, so that one can eat from one's sacrifice.",
+        "Saying the takbirs of Eid on the way to the prayer [Q 2:185].",
+        "Going by one route and returning by another [H bukhari 986]."
+      ]
+    },
+    {
+      "heading": "Zakat al-Fitr and the sacrifice",
+      "paragraphs": [
+        "Zakat al-Fitr, the charity of breaking the fast, is due on every Muslim, young or old, and the Prophet ﷺ ordered it to be paid before people went out to the Eid prayer [H bukhari 1503]. See the Zakah guide for details.",
+        "On Eid al-Adha, the sacrifice (udhiyah or qurbani) is made after the prayer. The Prophet ﷺ said the first thing done on that day is to pray, then to return and sacrifice; an animal slaughtered before the prayer is just meat for the family and not the sacrifice [H bukhari 5545]."
+      ]
+    },
+    {
+      "heading": "Women, children and everyone",
+      "paragraphs": [
+        "The Prophet ﷺ encouraged everyone to come out for Eid. Umm 'Atiyyah said they were commanded to bring out even young women and those in seclusion, and that menstruating women came to join in the takbir and supplication while keeping away from the prayer area itself [H bukhari 971] [H bukhari 974].",
+        "The schools agree that women may attend with modesty, and that the day is one of joy, family visits and generosity."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Legal status of the Eid prayer",
+      "hanafi": "Wajib (necessary) on those for whom Jumu'ah is obligatory.",
+      "maliki": "Strongly emphasised sunnah.",
+      "shafii": "Strongly emphasised sunnah.",
+      "hanbali": "Communal obligation (fard kifayah)."
+    },
+    {
+      "question": "Number of extra takbirs",
+      "hanafi": "Three in each unit: in the first after the opening takbir and opening supplication, in the second after the recitation, before bowing.",
+      "maliki": "Seven in the first unit counting the opening takbir (so six extra), and five extra in the second besides the takbir of rising.",
+      "shafii": "Seven in the first unit after the opening supplication, five in the second besides the takbir of rising [H abudawud 1149].",
+      "hanbali": "Seven in the first unit counting the opening takbir (so six extra), and five extra in the second besides the takbir of rising [H abudawud 1151]."
+    },
+    {
+      "question": "Raising the hands with the extra takbirs",
+      "hanafi": "Raised with each extra takbir.",
+      "maliki": "Raised only with the opening takbir.",
+      "shafii": "Raised with each extra takbir.",
+      "hanbali": "Raised with each extra takbir."
+    },
+    {
+      "question": "Making up a missed Eid prayer",
+      "hanafi": "Not made up individually. If the whole community missed it for an excuse, Eid al-Fitr may be prayed the next day [H abudawud 1157] and Eid al-Adha within its three days.",
+      "maliki": "Not made up once its time has passed.",
+      "shafii": "Recommended to make it up, alone or in congregation.",
+      "hanbali": "Recommended to make it up in the same form."
+    },
+    {
+      "question": "Takbirs of the days of Eid al-Adha after prayers",
+      "hanafi": "Said after each obligatory prayer from Fajr on the Day of Arafah (9th) to Asr on the 13th, in the view the fatwa follows.",
+      "maliki": "Said after the obligatory prayers from Dhuhr on the 10th to Fajr on the 13th.",
+      "shafii": "For non-pilgrims, from Fajr on the 9th to Asr on the 13th, in the view acted upon.",
+      "hanbali": "For non-pilgrims, from Fajr on the 9th to Asr on the 13th, after obligatory prayers in congregation."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there an adhan for Eid prayer?",
+      "a": "No. Ibn 'Abbas reported that no adhan was given for the Eid prayer in the Prophet's time [H bukhari 960]. There is no iqamah either; the imam simply begins the prayer."
+    },
+    {
+      "q": "I joined the Eid prayer late. What do I do?",
+      "a": "Join the imam where he is. If you missed some of the extra takbirs, the schools give detailed rules on whether to say them; if you missed a whole unit, you complete it after the imam's salam with its takbirs. Ask your local imam for your school's method."
+    },
+    {
+      "q": "Should I pray voluntary prayers at the Eid ground?",
+      "a": "The Prophet ﷺ prayed the two units of Eid and nothing before or after them at the prayer ground [H bukhari 964]. Praying at home after returning is fine. If Eid is held in a mosque, the schools differ on the greeting prayer of the mosque."
+    },
+    {
+      "q": "Can women attend the Eid prayer?",
+      "a": "Yes. The Prophet ﷺ commanded women, including young women and those who normally stayed at home, to come out on Eid; women on their period attended the gathering but kept away from the prayer itself [H bukhari 974]."
+    },
+    {
+      "q": "When should Zakat al-Fitr be paid?",
+      "a": "Before the Eid prayer, as the Prophet ﷺ ordered [H bukhari 1509]. Many scholars allow paying it a day or two earlier, and some schools allow it from the start of Ramadan. Paying it after the prayer without an excuse misses its proper time."
+    },
+    {
+      "q": "What if Eid falls on a Friday?",
+      "a": "The Prophet ﷺ once prayed Eid on a Friday and then allowed people to leave Jumu'ah, saying whoever wished could pray it [H abudawud 1070]. The schools differ on who this concession applies to (see the Jumu'ah guide); the imam still holds Jumu'ah."
+    }
+  ],
+  "furtherReading": [
+    { "name": "The Two Festivals in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/13" },
+    { "name": "Surah al-Kawthar (108), Quran.com", "url": "https://quran.com/108" }
+  ]
+}

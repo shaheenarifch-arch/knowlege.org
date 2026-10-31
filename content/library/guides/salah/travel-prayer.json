@@ -1,0 +1,130 @@
+{
+  "slug": "travel-prayer",
+  "title": "Prayer When Travelling: Shortening and Combining",
+  "summary": "How a traveller prays: which prayers are shortened, when the journey begins and ends, how long a stay still counts as travel, combining prayers, praying behind a resident imam, and praying on planes and trains.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jabl_e_Thawr.jpg/1920px-Jabl_e_Thawr.jpg",
+    "alt": "The great rock of the cave of Thawr on the summit of Jabal Thawr",
+    "width": 1920, "height": 1440,
+    "author": "King Eliot", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jabl_e_Thawr.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "A concession from God",
+      "paragraphs": [
+        "Travel does not cancel prayer, but God has made it lighter. The Qur'an says there is no blame on believers for shortening the prayer when they travel through the land [Q 4:101]. God wants ease for people, not hardship [Q 2:185], and has not placed hardship on them in religion [Q 22:78].",
+        "'A'ishah said the prayers were first made obligatory as two units each; the prayer of travel was kept that way, while the prayer at home was completed to four [H bukhari 1090]. The Prophet ﷺ, Abu Bakr, 'Umar and 'Uthman did not pray more than two units on their journeys [H bukhari 1102]."
+      ]
+    },
+    {
+      "heading": "Which prayers are shortened",
+      "paragraphs": [
+        "The schools agree that only the four-unit prayers are shortened, from four units to two:"
+      ],
+      "points": [
+        "Dhuhr: 4 units become 2.",
+        "Asr: 4 units become 2. Anas prayed four units of Dhuhr with the Prophet ﷺ in Madinah and two of Asr at Dhul-Hulayfah once the journey had begun [H bukhari 1089].",
+        "Isha: 4 units become 2.",
+        "Fajr (2 units) and Maghrib (3 units) are never shortened.",
+        "Witr and the other voluntary prayers are not shortened; the schools differ only on how much a traveller should keep up the regular sunnah prayers [H bukhari 1101]."
+      ]
+    },
+    {
+      "heading": "When the concession starts and ends",
+      "paragraphs": [
+        "The schools agree that shortening applies only to a journey of a recognised minimum distance, and that a traveller begins to shorten once they have left the built-up area of their town, not while still at home. They differ on the exact distance; most estimates fall at about 77 to 89 km (roughly 48 to 55 miles).",
+        "The concession ends when the traveller returns home, or when they settle somewhere with the intention of staying long enough to count as a resident. The schools set this period differently (see More detail). The Prophet ﷺ stayed in Makkah for ten days and shortened throughout [H bukhari 1081], and Ibn 'Abbas reported a stay of nineteen days in which he shortened [H bukhari 1080]."
+      ]
+    },
+    {
+      "heading": "Combining prayers",
+      "paragraphs": [
+        "On some journeys the Prophet ﷺ combined Dhuhr with Asr, and Maghrib with Isha [H bukhari 1107]. If he set off before noon he would delay Dhuhr and pray it with Asr, and if the sun had passed noon before he set off he would pray Dhuhr and then ride [H bukhari 1111]. When in a hurry on a journey he joined Maghrib and Isha [H bukhari 1106].",
+        "All four schools agree that combining is done at Arafah and Muzdalifah during Hajj. For ordinary travel, three schools allow combining, while the Hanafi school does not (see More detail). Fajr is never combined with any prayer, and Asr is never combined with Maghrib."
+      ]
+    },
+    {
+      "heading": "Praying behind a resident imam",
+      "paragraphs": [
+        "The schools agree that a traveller who prays behind an imam who is not travelling follows the imam and prays the full four units. 'Abdullah ibn Mas'ud prayed four units behind 'Uthman at Mina, even though he had prayed two there with the Prophet ﷺ, Abu Bakr and 'Umar [H bukhari 1084].",
+        "When a traveller leads residents, he prays two units and the residents stand up after his salam to complete their own prayer."
+      ]
+    },
+    {
+      "heading": "Praying in a vehicle",
+      "paragraphs": [
+        "The Prophet ﷺ prayed voluntary prayers on his mount, facing whatever direction it was going and indicating the movements with his head, but he dismounted for the obligatory prayers [H bukhari 1000] [H bukhari 1098]. The schools agree that voluntary prayers may be prayed seated in a moving car, train or plane.",
+        "For obligatory prayers, the traveller stands and faces the qiblah if the vehicle allows it. If it does not, they pray within the prayer's time as well as they can and, depending on the school and the circumstances, may need to repeat it later. God does not burden a soul beyond its capacity [Q 2:286]."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "Status of shortening",
+      "hanafi": "Obligatory (wajib); a traveller who prays four units has done wrong, and the extra two count as voluntary only if he sat for the first tashahhud.",
+      "maliki": "Strongly emphasised sunnah.",
+      "shafii": "Permitted; shortening is better on a journey of three days or more.",
+      "hanbali": "Permitted, and shortening is better."
+    },
+    {
+      "question": "Minimum distance",
+      "hanafi": "Three days' travel at a normal pace; commonly estimated at about 77 to 89 km in modern terms.",
+      "maliki": "Four barids (48 miles), about 80 to 89 km.",
+      "shafii": "Four barids (48 Hashimi miles), commonly estimated at about 81 to 89 km.",
+      "hanbali": "Four barids (48 miles), commonly estimated at about 81 to 89 km."
+    },
+    {
+      "question": "Length of stay that ends travel status",
+      "hanafi": "Intending to stay 15 days or more in one place.",
+      "maliki": "Intending to stay 4 full days or more (20 obligatory prayers).",
+      "shafii": "Intending to stay 4 full days or more, not counting the days of arrival and departure.",
+      "hanbali": "Intending to stay more than 4 days (more than 20 obligatory prayers)."
+    },
+    {
+      "question": "Combining prayers on a journey",
+      "hanafi": "Not permitted, except at Arafah and Muzdalifah during Hajj. A traveller may pray Dhuhr at the end of its time and Asr at the start of its own (apparent combining).",
+      "maliki": "Permitted, especially when on the move; earlier or later time [H bukhari 1111].",
+      "shafii": "Permitted, earlier or later time [H bukhari 1107].",
+      "hanbali": "Permitted, earlier or later time [H bukhari 1107]."
+    },
+    {
+      "question": "Combining for rain",
+      "hanafi": "Not permitted.",
+      "maliki": "Maghrib and Isha may be combined in the mosque because of rain or heavy mud.",
+      "shafii": "Permitted at the earlier time for those praying in congregation at a mosque that is some distance away.",
+      "hanbali": "Maghrib and Isha may be combined for rain, mud or strong cold wind."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I shorten prayers on a short daily commute?",
+      "a": "No. Shortening is for a journey that reaches the minimum distance of your school (see More detail). A daily journey below that distance, or within your own town, does not count as travel."
+    },
+    {
+      "q": "I am staying with family in another city for a week. Do I shorten?",
+      "a": "It depends on your school. In the Hanafi school you keep shortening if you intend to stay under 15 days; in the other three schools an intention to stay more than about four days makes you a resident from arrival (see More detail). Some scholars also discuss whether your family home still counts as home."
+    },
+    {
+      "q": "Should I pray the sunnah prayers when travelling?",
+      "a": "Ibn 'Umar reported that he did not see the Prophet ﷺ pray the regular voluntary prayers on his journeys [H bukhari 1101], yet the Prophet ﷺ prayed voluntary prayers and witr on his mount [H bukhari 1000]. Many scholars say the traveller may leave the regular sunnah prayers, keeps the two before Fajr and witr, and may pray other voluntary prayers freely."
+    },
+    {
+      "q": "Can I combine prayers at the airport before boarding?",
+      "a": "In the Maliki, Shafi'i and Hanbali schools, a traveller may combine Dhuhr with Asr or Maghrib with Isha, at the earlier or later time [H bukhari 1111]. The Hanafi school does not allow this outside Hajj, so a Hanafi traveller prays each prayer in its own time. Shortening applies once you have left your town."
+    },
+    {
+      "q": "What if I pray behind a local imam while travelling?",
+      "a": "You follow the imam and pray the full four units, as Ibn Mas'ud did behind 'Uthman at Mina [H bukhari 1084]. You only shorten when praying alone or behind another traveller."
+    },
+    {
+      "q": "How do I pray an obligatory prayer on a long flight?",
+      "a": "If the prayer's time falls during the flight and you cannot combine it before or after, pray it on board within its time. Stand and face the qiblah if there is space; if not, pray seated, indicating bowing and prostration with your head, doing what you can [Q 2:286]. Some schools then require the prayer to be repeated after landing, so ask a scholar of your school."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Shortening the Prayers in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/18" },
+    { "name": "Surah an-Nisa' (4:101) on shortening prayer, Quran.com", "url": "https://quran.com/4/101" }
+  ]
+}

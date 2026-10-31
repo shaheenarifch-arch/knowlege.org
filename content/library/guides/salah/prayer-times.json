@@ -1,0 +1,130 @@
+{
+  "slug": "prayer-times",
+  "title": "Prayer Times: When Each of the Five Prayers Begins and Ends",
+  "summary": "How the times of Fajr, Dhuhr, Asr, Maghrib and Isha are set by the sun, the best and latest time for each, the times when voluntary prayer is not allowed, and what to do where the days are very long or short.",
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Whispers_of_Gold_-_Hassan_II_Mosque_at_Dusk.jpg/1920px-Whispers_of_Gold_-_Hassan_II_Mosque_at_Dusk.jpg",
+    "alt": "Hassan II Mosque in Casablanca glowing gold at dusk",
+    "width": 1920, "height": 1280,
+    "author": "OussamaHamama", "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whispers_of_Gold_-_Hassan_II_Mosque_at_Dusk.jpg"
+  },
+  "agreed": [
+    {
+      "heading": "Prayer at fixed times",
+      "paragraphs": [
+        "God made prayer a duty at set times [Q 4:103], and the Qur'an tells believers to guard the prayers carefully [Q 2:238]. When asked which deed God loves most, the Prophet ﷺ said prayer offered at its proper time [H bukhari 527].",
+        "The times follow the movement of the sun, not the clock. The Qur'an points to prayer from the decline of the sun to the darkness of night, and the recitation at dawn [Q 17:78], and to prayer at the two ends of the day and in part of the night [Q 11:114]. The angel Jibril led the Prophet ﷺ in each prayer at the start of its time on one day and near its end on the next, then said the time lies between the two [H abudawud 393]."
+      ]
+    },
+    {
+      "heading": "The time of each prayer",
+      "paragraphs": [
+        "The Prophet ﷺ described the times in one hadith [H abudawud 396]. The schools agree on this outline; they differ on a few boundaries (see More detail):"
+      ],
+      "points": [
+        "Fajr: from true dawn, when light spreads across the horizon, until sunrise.",
+        "Dhuhr: from just after the sun passes its highest point (zawal) until Asr begins [H bukhari 541].",
+        "Asr: from when an object's shadow reaches a set length until sunset. Delaying it until the sun turns yellow without need is disliked.",
+        "Maghrib: from sunset, the moment a fasting person breaks the fast [H abudawud 393].",
+        "Isha: from when the twilight has gone. Praying before midnight is preferred, and the Prophet ﷺ sometimes delayed it to a third of the night or later [H bukhari 572]."
+      ]
+    },
+    {
+      "heading": "Praying early in the time",
+      "paragraphs": [
+        "As a general rule it is better to pray early in the time, as the Prophet ﷺ usually did [H bukhari 547]. There are agreed exceptions: in intense heat he told people to wait for Dhuhr until it is cooler [H bukhari 536], and on some nights he delayed Isha and praised those who waited for it [H bukhari 569].",
+        "Leaving a prayer until its time has ended without an excuse is a grave sin. The Prophet ﷺ said that whoever misses Asr is like someone who has lost his family and wealth [H bukhari 552]."
+      ]
+    },
+    {
+      "heading": "Catching the prayer before its time ends",
+      "paragraphs": [
+        "The Prophet ﷺ said that whoever manages one unit (rak'ah) of Fajr before sunrise, or one unit of Asr before sunset, has caught that prayer [H bukhari 579]. The schools use this to show that a prayer begun in its time is not lost, though deliberately leaving it so late is still wrong.",
+        "A person who sleeps through or forgets a prayer prays it as soon as they remember (see the Missed Prayers guide) [H bukhari 597]."
+      ]
+    },
+    {
+      "heading": "Times when voluntary prayer is not allowed",
+      "paragraphs": [
+        "The Prophet ﷺ said there is no prayer after the Fajr prayer until the sun has risen, and none after the Asr prayer until it has set [H bukhari 586] [H bukhari 581]. The schools agree that general voluntary prayers are not offered in these periods, nor at the moments of sunrise and sunset themselves.",
+        "This applies to extra, voluntary prayer. The schools differ on making up missed obligatory prayers and on prayers with a specific cause during these times (see More detail)."
+      ]
+    },
+    {
+      "heading": "Timetables, calculation and high latitudes",
+      "paragraphs": [
+        "Printed and app timetables calculate the times from the sun's position. They differ mainly in the angle used for dawn and nightfall and in the method used for Asr, so two timetables for the same city can differ by several minutes. Following the timetable of your local mosque keeps a community praying together.",
+        "In places far from the equator, twilight may last all night in summer, so Isha and Fajr cannot be fixed by the sky. The Prophet ﷺ once told his companions that on days as long as a year they must estimate the prayer times rather than pray one day's prayers [H abudawud 4321]. Scholars and councils use methods such as following the nearest normal latitude or dividing the night; follow the method your local scholars use."
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "question": "When Asr begins",
+      "hanafi": "Abu Hanifa: when an object's shadow is twice its length (plus its shadow at noon). His students Abu Yusuf and Muhammad held: once its length.",
+      "maliki": "When an object's shadow equals its length (plus its shadow at noon).",
+      "shafii": "When an object's shadow equals its length (plus its shadow at noon).",
+      "hanbali": "When an object's shadow equals its length (plus its shadow at noon)."
+    },
+    {
+      "question": "When Maghrib ends and Isha begins",
+      "hanafi": "Abu Hanifa: when the white twilight disappears. His two students: when the red twilight disappears.",
+      "maliki": "Maghrib's chosen time is short, just long enough to make wudu and pray after sunset. Isha begins when the red twilight disappears.",
+      "shafii": "The school's 'new' view gives Maghrib a short time; al-Nawawi preferred the view that it lasts until the red twilight disappears. Isha begins when the red twilight disappears.",
+      "hanbali": "Maghrib lasts until the red twilight disappears, when Isha begins."
+    },
+    {
+      "question": "Best time for Fajr",
+      "hanafi": "Preferred when the light has spread (isfar), but well before sunrise.",
+      "maliki": "Preferred early, while it is still dark (taghlis).",
+      "shafii": "Preferred early, while it is still dark (taghlis).",
+      "hanbali": "Preferred early, while it is still dark (taghlis)."
+    },
+    {
+      "question": "Latest time for Isha",
+      "hanafi": "Lasts until true dawn; delaying it past midnight without need is disliked.",
+      "maliki": "Chosen time until the end of the first third of the night; after that, a time of necessity until dawn.",
+      "shafii": "Chosen time until a third (or half) of the night; it remains valid until dawn.",
+      "hanbali": "Chosen time until a third of the night; after that, a time of necessity until dawn."
+    },
+    {
+      "question": "Making up missed prayers in the restricted times",
+      "hanafi": "Not allowed at sunrise, when the sun is at its height, or at sunset (except that day's own Asr); allowed after Fajr and after Asr.",
+      "maliki": "A missed obligatory prayer may be made up at any time.",
+      "shafii": "Prayers with a cause, including missed prayers, may be prayed at any time.",
+      "hanbali": "A missed obligatory prayer may be made up at any time."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do prayer timetables for my city differ?",
+      "a": "They use different calculation settings: the sun's angle below the horizon for Fajr and Isha, and the method for Asr. The Hanafi Asr time is later than the time used by the other three schools (see More detail). Most people follow the timetable of their local mosque."
+    },
+    {
+      "q": "Can I pray Fajr after sunrise if I overslept?",
+      "a": "Yes, you must pray it as soon as you wake. The Prophet ﷺ and his companions once slept through Fajr on a journey and prayed it after the sun had risen [H bukhari 595]. Whoever sleeps through or forgets a prayer prays it when they remember [H bukhari 597]."
+    },
+    {
+      "q": "When exactly does Dhuhr begin?",
+      "a": "Just after the sun passes its highest point in the sky (zawal) and shadows begin to lengthen again [H bukhari 541]. Timetables list this as Dhuhr; a few minutes' margin after the listed noon time is a common precaution."
+    },
+    {
+      "q": "Is it allowed to pray just before sunset?",
+      "a": "The obligatory Asr should be prayed before the sun yellows, and delaying it that late without need is disliked. If you have not yet prayed Asr, pray it even if sunset is near; whoever catches one unit before sunset has caught it [H bukhari 579]. Voluntary prayers are not offered at this time [H bukhari 586]."
+    },
+    {
+      "q": "What if I live where it never gets fully dark in summer?",
+      "a": "Then Isha and Fajr have to be estimated, as the Prophet ﷺ taught for days that are abnormally long [H abudawud 4321]. Local scholars and mosques choose a method, such as taking the times of the nearest place where night is normal. Follow the method your community uses."
+    },
+    {
+      "q": "Can I pray before the time has started?",
+      "a": "No. A prayer offered before its time begins is not valid, and it must be prayed again once the time has started [Q 4:103]. The only exception is combining prayers where this is allowed, mainly on journeys (see the Travel Prayer guide)."
+    }
+  ],
+  "furtherReading": [
+    { "name": "Times of the Prayers in Sahih al-Bukhari on Sunnah.com", "url": "https://sunnah.com/bukhari/9" },
+    { "name": "Surah al-Isra' (17:78) on the times of prayer, Quran.com", "url": "https://quran.com/17/78" }
+  ]
+}
