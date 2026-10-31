@@ -2,7 +2,6 @@ import { notFound } from "next/navigation";
 import { guides, getGuide, getSubs, topics } from "../../../lib/library";
 import { GuideView } from "../../../components/GuideView";
 
-export const dynamicParams = false;
 export function generateStaticParams() { return guides.map(g => ({ topic: g.slug })); }
 
 type Props = { params: Promise<{ topic: string }> };

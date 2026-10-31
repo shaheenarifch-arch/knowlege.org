@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { scholars, getScholar } from "../../../lib/scholars";
 
-export const dynamicParams = false;
 export function generateStaticParams() { return scholars.map(s => ({ slug: s.slug })); }
 
 type Props = { params: Promise<{ slug: string }> };

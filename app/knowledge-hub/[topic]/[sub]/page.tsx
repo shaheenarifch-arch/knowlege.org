@@ -2,7 +2,6 @@ import { notFound } from "next/navigation";
 import { getGuide, getSub, getSubs, subguides, topics } from "../../../../lib/library";
 import { GuideView } from "../../../../components/GuideView";
 
-export const dynamicParams = false;
 export function generateStaticParams() {
   return Object.entries(subguides).filter(([topic]) => getGuide(topic))
     .flatMap(([topic, list]) => list.map(s => ({ topic, sub: s.slug })));

@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { surahs, getSurah, ATTRIBUTION } from "../../../lib/surahs";
 import { SurahReader } from "../../../components/SurahReader";
 
-export const dynamicParams = false;
 export function generateStaticParams() { return surahs.map(s => ({ surah: String(s.n) })); }
 
 type Props = { params: Promise<{ surah: string }> };

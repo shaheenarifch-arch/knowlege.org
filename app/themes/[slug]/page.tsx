@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { themeList, getTheme, collectionName, verseUrl, hadithUrl, gradeLine, THEME_REVIEWED, THEME_DISCLAIMER } from "../../../lib/themes";
 import { topics, getGuide, AUTHOR } from "../../../lib/library";
 
-export const dynamicParams = false;
 export function generateStaticParams() { return themeList.map(t => ({ slug: t.slug })); }
 
 type Props = { params: Promise<{ slug: string }> };
