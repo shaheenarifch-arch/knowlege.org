@@ -1,0 +1,130 @@
+{
+ "slug": "patience",
+ "title": "Patience",
+ "summary": "Patience (sabr) in the Qur'an and Sunnah: verses on steadfastness in hardship, and hadith on patience at the first shock, self-control and reward in trials.",
+ "intro": [
+  "The Qur'an pairs patience with prayer as a source of help and promises the steadfast a reward \"without stint\". It speaks of trials of fear, hunger and loss, and of the words believers say when misfortune comes.",
+  "The hadith describe patience as the greatest gift, place it at the first moment of a calamity, and define real strength as control over oneself in anger."
+ ],
+ "guides": [
+  "fasting",
+  "salah"
+ ],
+ "related": [
+  "gratitude",
+  "mercy",
+  "ethics"
+ ],
+ "verses": [
+  {
+   "ref": "2:153",
+   "lines": [
+    {
+     "ayah": 153,
+     "text": "O ye who believe! Seek help in steadfastness and prayer. Lo! Allah is with the steadfast"
+    }
+   ]
+  },
+  {
+   "ref": "2:155",
+   "lines": [
+    {
+     "ayah": 155,
+     "text": "And surely We shall try you with something of fear and hunger, and loss of wealth and lives and crops; but give glad tidings to the steadfast"
+    }
+   ]
+  },
+  {
+   "ref": "2:156",
+   "lines": [
+    {
+     "ayah": 156,
+     "text": "Who say, when a misfortune striketh them: Lo! we are Allah's and lo! unto Him we are returning"
+    }
+   ]
+  },
+  {
+   "ref": "2:157",
+   "lines": [
+    {
+     "ayah": 157,
+     "text": "Such are they on whom are blessings from their Lord, and mercy. Such are the rightly guided"
+    }
+   ]
+  },
+  {
+   "ref": "39:10",
+   "lines": [
+    {
+     "ayah": 10,
+     "text": "Say: O My bondmen who believe! Observe your duty to your Lord. For those who do good in this world there is good, and Allah's earth is spacious. Verily the steadfast will be paid their wages without stint"
+    }
+   ]
+  },
+  {
+   "ref": "103:1-3",
+   "lines": [
+    {
+     "ayah": 1,
+     "text": "By the declining day"
+    },
+    {
+     "ayah": 2,
+     "text": "Lo! man is a state of loss"
+    },
+    {
+     "ayah": 3,
+     "text": "Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance"
+    }
+   ]
+  },
+  {
+   "ref": "94:5-6",
+   "lines": [
+    {
+     "ayah": 5,
+     "text": "But lo! with hardship goeth ease"
+    },
+    {
+     "ayah": 6,
+     "text": "Lo! with hardship goeth ease"
+    }
+   ]
+  },
+  {
+   "ref": "12:18",
+   "lines": [
+    {
+     "ayah": 18,
+     "text": "And they came with false blood on his shirt. He said: Nay, but your minds have beguiled you into something. (My course is) comely patience. And Allah it is Whose help is to be sought in that (predicament) which ye describe"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 1469,
+   "text": "Narrated Abu Sa`id Al-Khudri:Some Ansari persons asked for (something) from Allah's Messenger (ﷺ) and he gave them. They again asked him for (something) and he again gave them. And then they asked him and he gave them again till all that was with him finished. And then he said \"If I had anything. I would not keep it away from you. (Remember) Whoever abstains from asking others, Allah will make him contented, and whoever tries to make himself self-sufficient, Allah will make him self-sufficient. And whoever remains patient, Allah will make him patient. Nobody can be given a blessing better and greater than patience",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 1283,
+   "text": "Narrated Anas bin Malik:The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. She said to him, \"Go away, for you have not been afflicted with a calamity like mine.\" And she did not recognize him. Then she was informed that he was the Prophet (ﷺ) . so she went to the house of the Prophet (ﷺ) and there she did not find any guard. Then she said to him, \"I did not recognize you.\" He said, \"Verily, the patience is at the first stroke of a calamity",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 5641,
+   "text": "Narrated Abu Sa`id Al-Khudri and Abu Huraira:The Prophet (ﷺ) said, \"No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6114,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger",
+   "grades": []
+  }
+ ]
+}

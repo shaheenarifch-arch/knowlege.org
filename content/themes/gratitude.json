@@ -1,0 +1,156 @@
+{
+ "slug": "gratitude",
+ "title": "Gratitude",
+ "summary": "Gratitude (shukr) in the Qur'an and Sunnah: verses promising increase for the thankful, and hadith on thanking Allah and thanking people.",
+ "intro": [
+  "The Qur'an links gratitude with increase and reminds readers that the favours of Allah are too many to count. It also notes that few people are truly thankful, and that thanks benefits the one who gives it.",
+  "The hadith show the Prophet praying at length as \"a thankful slave\", teach a short supplication for help in giving thanks, and tie thanking Allah to thanking people."
+ ],
+ "guides": [
+  "salah",
+  "fasting"
+ ],
+ "related": [
+  "patience",
+  "charity",
+  "knowledge"
+ ],
+ "verses": [
+  {
+   "ref": "14:7",
+   "lines": [
+    {
+     "ayah": 7,
+     "text": "And when your Lord proclaimed: If ye give thanks, I will give you more; but if ye are thankless, lo! My punishment is dire"
+    }
+   ]
+  },
+  {
+   "ref": "2:152",
+   "lines": [
+    {
+     "ayah": 152,
+     "text": "Therefore remember Me, I will remember you. Give thanks to Me, and reject not Me"
+    }
+   ]
+  },
+  {
+   "ref": "31:12",
+   "lines": [
+    {
+     "ayah": 12,
+     "text": "And verily We gave Luqman wisdom, saying: Give thanks unto Allah; and whosoever giveth thanks, he giveth thanks for (the good of) his soul. And whosoever refuseth - Lo! Allah is Absolute, Owner of Praise"
+    }
+   ]
+  },
+  {
+   "ref": "16:18",
+   "lines": [
+    {
+     "ayah": 18,
+     "text": "And if ye would count the favour of Allah ye cannot reckon it. Lo! Allah is indeed Forgiving, Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "27:40",
+   "lines": [
+    {
+     "ayah": 40,
+     "text": "One with whom was knowledge of the Scripture said: I will bring it thee before thy gaze returneth unto thee. And when he saw it set in his presence, (Solomon) said: This is of the bounty of my Lord, that He may try me whether I give thanks or am ungrateful. Whosoever giveth thanks he only giveth thanks for (the good of) his own soul; and whosoever is ungrateful (is ungrateful only to his own soul's hurt). For lo! my Lord is Absolute in independence, Bountiful"
+    }
+   ]
+  },
+  {
+   "ref": "34:13",
+   "lines": [
+    {
+     "ayah": 13,
+     "text": "They made for him what he willed: synagogues and statues, basins like wells and boilers built into the ground. Give thanks, O House of David! Few of My bondmen are thankful"
+    }
+   ]
+  },
+  {
+   "ref": "2:172",
+   "lines": [
+    {
+     "ayah": 172,
+     "text": "O ye who believe! Eat of the good things wherewith We have provided you, and render thanks to Allah if it is (indeed) He Whom ye worship"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 1130,
+   "text": "Narrated Al-Mughira:The Prophet (ﷺ) used to stand (in the prayer) or pray till both his feet or legs swelled. He was asked why (he offered such an unbearable prayer) and he said, \"Should I not be a thankful slave?",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 4811,
+   "text": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: He who does not thank the people is not thankful to Allah",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Sahih"
+    }
+   ]
+  },
+  {
+   "collection": "abudawud",
+   "number": 1522,
+   "text": "Mu'adh b. Jabal reported that the Messenger of Allah (ﷺ) caught his hand and said:By Allah, I love you, Mu'adh. I give some instruction to you. Never leave to recite this supplication after every (prescribed) prayer: \"O Allah, help me in remembering You, in giving You thanks, and worshipping You well.\" Mu'adh willed this supplication to the narrator al-Sunabihi and al-Sunabihi to 'Abu Abd al-Rahman",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Sahih"
+    }
+   ]
+  },
+  {
+   "collection": "ibnmajah",
+   "number": 1764,
+   "text": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:“A grateful eater is equal to a patient fasting person.”",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Fouad Abd al-Baqi",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Hasan"
+    }
+   ]
+  }
+ ]
+}

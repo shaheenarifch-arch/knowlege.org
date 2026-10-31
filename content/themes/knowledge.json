@@ -1,0 +1,153 @@
+{
+ "slug": "knowledge",
+ "title": "Knowledge",
+ "summary": "Knowledge ('ilm) in the Qur'an and Sunnah: the first revelation to read, verses praising people of understanding, and hadith on learning and teaching.",
+ "intro": [
+  "The first words revealed to the Prophet were a command to read, and the Qur'an repeatedly contrasts those who know with those who do not. It invites reflection on creation and teaches a short prayer for more knowledge.",
+  "The hadith present understanding of the religion as a sign of good, compare guidance to rain falling on different kinds of soil, and warn about what happens when learned people are lost."
+ ],
+ "guides": [
+  "salah",
+  "purity"
+ ],
+ "related": [
+  "ethics",
+  "gratitude",
+  "stewardship"
+ ],
+ "verses": [
+  {
+   "ref": "96:1-5",
+   "lines": [
+    {
+     "ayah": 1,
+     "text": "Read: In the name of thy Lord Who createth"
+    },
+    {
+     "ayah": 2,
+     "text": "Createth man from a clot"
+    },
+    {
+     "ayah": 3,
+     "text": "Read: And thy Lord is the Most Bounteous"
+    },
+    {
+     "ayah": 4,
+     "text": "Who teacheth by the pen"
+    },
+    {
+     "ayah": 5,
+     "text": "Teacheth man that which he knew not"
+    }
+   ]
+  },
+  {
+   "ref": "20:114",
+   "lines": [
+    {
+     "ayah": 114,
+     "text": "Then exalted be Allah, the True King! And hasten not (O Muhammad) with the Qur'an ere its revelation hath been perfected unto thee, and say: My Lord! Increase me in knowledge"
+    }
+   ]
+  },
+  {
+   "ref": "39:9",
+   "lines": [
+    {
+     "ayah": 9,
+     "text": "Is he who payeth adoration in the watches of the night, prostrate and standing, bewaring of the Hereafter and hoping for the mercy of his Lord, (to be accounted equal with a disbeliever)? Say (unto them, O Muhammad): Are those who know equal with those who know not? But only men of understanding will pay heed"
+    }
+   ]
+  },
+  {
+   "ref": "58:11",
+   "lines": [
+    {
+     "ayah": 11,
+     "text": "O ye who believe! when it is said unto you, Make room! in assemblies, then make room; Allah will make way for you (hereafter). And when it is said, Come up higher! go up higher; Allah will exalt those who believe among you, and those who have knowledge, to high ranks. Allah is Informed of what ye do"
+    }
+   ]
+  },
+  {
+   "ref": "35:28",
+   "lines": [
+    {
+     "ayah": 28,
+     "text": "And of men and beasts and cattle, in like manner, divers hues? The erudite among His bondmen fear Allah alone. Lo! Allah is Mighty, Forgiving"
+    }
+   ]
+  },
+  {
+   "ref": "2:269",
+   "lines": [
+    {
+     "ayah": 269,
+     "text": "He giveth wisdom unto whom He will, and he unto whom wisdom is given, he truly hath received abundant good. But none remember except men of understanding"
+    }
+   ]
+  },
+  {
+   "ref": "3:190",
+   "lines": [
+    {
+     "ayah": 190,
+     "text": "Lo! In the creation of the heavens and the earth and (in) the difference of night and day are tokens (of His Sovereignty) for men of understanding"
+    }
+   ]
+  },
+  {
+   "ref": "17:36",
+   "lines": [
+    {
+     "ayah": 36,
+     "text": "(O man), follow not that whereof thou hast no knowledge. Lo! the hearing and the sight and the heart - of each of these it will be asked"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 71,
+   "text": "Narrated Muawiya:I heard Allah's Messenger (ﷺ) saying, \"If Allah wants to do good to a person, He makes him comprehend the religion. I am just a distributor, but the grant is from Allah. (And remember) that this nation (true Muslims) will keep on following Allah's teachings strictly and they will not be harmed by any one going on a different path till Allah's order (Day of Judgment) is established",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 79,
+   "text": "Narrated Abu Musa:The Prophet (ﷺ) said, \"The example of guidance and knowledge with which Allah has sent me is like abundant rain falling on the earth, some of which was fertile soil that absorbed rain water and brought forth vegetation and grass in abundance. (And) another portion of it was hard and held the rain water and Allah benefited the people with it and they utilized it for drinking, making their animals drink from it and for irrigation of the land for cultivation. (And) a portion of it was barren which could neither hold the water nor bring forth vegetation (then that land gave no benefits). The first is the example of the person who comprehends Allah's religion and gets benefit (from the knowledge) which Allah has revealed through me (the Prophet) and learns and then teaches others. The last example is that of a person who does not care for it and does not take Allah's guidance revealed through me (He is like that barren land)",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 3461,
+   "text": "Narrated `Abdullah bin `Amr:The Prophet (ﷺ) said, \"Convey (my teachings) to the people even if it were a single sentence, and tell others the stories of Bani Israel (which have been taught to you), for it is not sinful to do so. And whoever tells a lie on me intentionally, will surely take his place in the (Hell) Fire",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 100,
+   "text": "Narrated `Abdullah bin `Amr bin Al-`As:I heard Allah's Messenger (ﷺ) saying, \"Allah does not take away the knowledge, by taking it away from (the hearts of) the people, but takes it away by the death of the religious learned men till when none of the (religious learned men) remains, people will take as their leaders ignorant persons who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 3658,
+   "text": "Narrated AbuHurayrah: The Prophet (ﷺ) said: He who is asked something he knows and conceals it will have a bridle of fire put on him on the Day of Resurrection",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Hasan"
+    }
+   ]
+  }
+ ]
+}

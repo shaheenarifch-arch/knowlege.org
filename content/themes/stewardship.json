@@ -1,0 +1,166 @@
+{
+ "slug": "stewardship",
+ "title": "Stewardship",
+ "summary": "Stewardship of the earth in the Qur'an and Sunnah: humans as trustees (khalifah), avoiding waste and corruption, and hadith on plants, water and animals.",
+ "intro": [
+  "The Qur'an describes human beings as placed on the earth as viceroys or trustees, tested by what they have been given. It warns against waste and against spreading corruption on land and sea, and describes a balance that should not be upset.",
+  "The hadith turn this into daily practice: planting something that feeds others is charity, animals must be fed and treated well, and water, grass and fire are shared resources."
+ ],
+ "guides": [
+  "zakah",
+  "purity"
+ ],
+ "related": [
+  "mercy",
+  "responsible-citizenship",
+  "gratitude"
+ ],
+ "verses": [
+  {
+   "ref": "2:30",
+   "lines": [
+    {
+     "ayah": 30,
+     "text": "And when thy Lord said unto the angels: Lo! I am about to place a viceroy in the earth, they said: Wilt thou place therein one who will do harm therein and will shed blood, while we, we hymn Thy praise and sanctify Thee? He said: Surely I know that which ye know not"
+    }
+   ]
+  },
+  {
+   "ref": "6:165",
+   "lines": [
+    {
+     "ayah": 165,
+     "text": "He it is Who hath placed you as viceroys of the earth and hath exalted some of you in rank above others, that He may try you by (the test of) that which He hath given you. Lo! Thy Lord is swift in prosecution, and Lo! He verily is Forgiving, Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "55:7-9",
+   "lines": [
+    {
+     "ayah": 7,
+     "text": "And the sky He hath uplifted; and He hath set the measure"
+    },
+    {
+     "ayah": 8,
+     "text": "That ye exceed not the measure"
+    },
+    {
+     "ayah": 9,
+     "text": "But observe the measure strictly, nor fall short thereof"
+    }
+   ]
+  },
+  {
+   "ref": "7:56",
+   "lines": [
+    {
+     "ayah": 56,
+     "text": "Work not confusion in the earth after the fair ordering (thereof). and call on Him in fear and hope. Lo! the mercy of Allah is nigh unto the good"
+    }
+   ]
+  },
+  {
+   "ref": "30:41",
+   "lines": [
+    {
+     "ayah": 41,
+     "text": "Corruption doth appear on land and sea because of (the evil) which men's hands have done, that He may make them taste a part of that which they have done, in order that they may return"
+    }
+   ]
+  },
+  {
+   "ref": "7:31",
+   "lines": [
+    {
+     "ayah": 31,
+     "text": "O Children of Adam! Look to your adornment at every place of worship, and eat and drink, but be not prodigal. Lo! He loveth not the prodigals"
+    }
+   ]
+  },
+  {
+   "ref": "6:141",
+   "lines": [
+    {
+     "ayah": 141,
+     "text": "He it is Who produceth gardens trellised and untrellised, and the date-palm, and crops of divers flavour, and the olive and the pomegranate, like and unlike. Eat ye of the fruit thereof when it fruiteth, and pay the due thereof upon the harvest day, and be not prodigal. Lo! Allah loveth not the prodigals"
+    }
+   ]
+  },
+  {
+   "ref": "6:38",
+   "lines": [
+    {
+     "ayah": 38,
+     "text": "There is not an animal in the earth, nor a flying creature flying on two wings, but they are peoples like unto you. We have neglected nothing in the Book (of Our decrees). Then unto their Lord they will be gathered"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 2320,
+   "text": "Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, \"There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6009,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"While a man was walking on a road. he became very thirsty. Then he came across a well, got down into it, drank (of its water) and then came out. Meanwhile he saw a dog panting and licking mud because of excessive thirst. The man said to himself \"This dog is suffering from the same state of thirst as I did.\" So he went down the well (again) and filled his shoe (with water) and held it in his mouth and watered the dog. Allah thanked him for that deed and forgave him.\" The people asked, \"O Allah's Messenger (ﷺ)! Is there a reward for us in serving the animals?\" He said, \"(Yes) There is a reward for serving any animate (living being)",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 2365,
+   "text": "Narrated `Abdullah bin `Umar:Allah's Messenger (ﷺ) said, \"A woman was tortured and was put in Hell because of a cat which she had kept locked till it died of hunger.\" Allah's Messenger (ﷺ) further said, (Allah knows better) Allah said (to the woman), 'You neither fed it nor watered when you locked it up, nor did you set it free to eat the vermin of the earth",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 2548,
+   "text": "Narrated Sahl ibn al-Hanzaliyyah: The Messenger of Allah (ﷺ) came upon an emaciated camel and said: Fear Allah regarding these dumb animals. Ride them when they are in good condition and feed them when they are in good condition",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Sahih"
+    }
+   ]
+  },
+  {
+   "collection": "abudawud",
+   "number": 3477,
+   "text": "Narrated A man: A man from the immigrants of the Companions of the Prophet (ﷺ) said: I participated in battle three times along with the Prophet (ﷺ). I heard him say: Muslims have common share in three (things). grass, water and fire",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Sahih"
+    }
+   ]
+  }
+ ]
+}

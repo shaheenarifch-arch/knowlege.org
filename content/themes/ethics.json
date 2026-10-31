@@ -1,0 +1,141 @@
+{
+ "slug": "ethics",
+ "title": "Ethics",
+ "summary": "Ethics and good character (akhlaq) in the Qur'an and Sunnah: humility, kind speech and avoiding suspicion, and hadith on truthfulness and the best in character.",
+ "intro": [
+  "The Qur'an praises the Prophet's character and presents him as a good example. It asks for kind speech, humility in how one walks and speaks, and answering harm with something better, while warning against mockery, suspicion, spying and backbiting.",
+  "The hadith place good character at the centre of faith: truthfulness leads to righteousness, the best people are the best in manners, and a believer speaks well or stays silent."
+ ],
+ "guides": [
+  "fasting",
+  "marriage"
+ ],
+ "related": [
+  "human-dignity",
+  "patience",
+  "knowledge"
+ ],
+ "verses": [
+  {
+   "ref": "68:4",
+   "lines": [
+    {
+     "ayah": 4,
+     "text": "And lo! thou art of a tremendous nature"
+    }
+   ]
+  },
+  {
+   "ref": "33:21",
+   "lines": [
+    {
+     "ayah": 21,
+     "text": "Verily in the messenger of Allah ye have a good example for him who looketh unto Allah and the Last Day, and remembereth Allah much"
+    }
+   ]
+  },
+  {
+   "ref": "2:83",
+   "lines": [
+    {
+     "ayah": 83,
+     "text": "And (remember) when We made a covenant with the Children of Israel, (saying): Worship none save Allah (only), and be good to parents and to kindred and to orphans and the needy, and speak kindly to mankind; and establish worship and pay the poor-due. Then, after that, ye slid back, save a few of you, being averse"
+    }
+   ]
+  },
+  {
+   "ref": "25:63",
+   "lines": [
+    {
+     "ayah": 63,
+     "text": "The (faithful) slaves of the Beneficent are they who walk upon the earth modestly, and when the foolish ones address them answer: Peace"
+    }
+   ]
+  },
+  {
+   "ref": "31:18",
+   "lines": [
+    {
+     "ayah": 18,
+     "text": "Turn not thy cheek in scorn toward folk, nor walk with pertness in the land. Lo! Allah loveth not each braggart boaster"
+    }
+   ]
+  },
+  {
+   "ref": "31:19",
+   "lines": [
+    {
+     "ayah": 19,
+     "text": "Be modest in thy bearing and subdue thy voice. Lo! the harshest of all voices is the voice of the ass"
+    }
+   ]
+  },
+  {
+   "ref": "49:12",
+   "lines": [
+    {
+     "ayah": 12,
+     "text": "O ye who believe! Shun much suspicion; for lo! some suspicion is a crime. And spy not, neither backbite one another. Would one of you love to eat the flesh of his dead brother? Ye abhor that (so abhor the other)! And keep your duty (to Allah). Lo! Allah is Relenting, Merciful"
+    }
+   ]
+  },
+  {
+   "ref": "41:34",
+   "lines": [
+    {
+     "ayah": 34,
+     "text": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 6035,
+   "text": "Narrated Masruq:We were sitting with `Abdullah bin `Amr who was narrating to us (Hadith): He said, \"Allah's Messenger (ﷺ) was neither a Fahish nor a Mutafahhish, and he used to say, 'The best among you are the best in character (having good manners)",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6094,
+   "text": "Narrated `Abdullah:The Prophet (ﷺ) said, \"Truthfulness leads to righteousness, and righteousness leads to Paradise. And a man keeps on telling the truth until he becomes a truthful person. Falsehood leads to Al-Fajur (i.e. wickedness, evil-doing), and Al-Fajur (wickedness) leads to the (Hell) Fire, and a man may keep on telling lies till he is written before Allah, a liar",
+   "grades": []
+  },
+  {
+   "collection": "bukhari",
+   "number": 6018,
+   "text": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"Anybody who believes in Allah and the Last Day should not harm his neighbor, and anybody who believes in Allah and the Last Day should entertain his guest generously and anybody who believes in Allah and the Last Day should talk what is good or keep quiet. (i.e. abstain from all kinds of evil and dirty talk)",
+   "grades": []
+  },
+  {
+   "collection": "abudawud",
+   "number": 4682,
+   "text": "Narrated AbuHurayrah: The Prophet (ﷺ) said: The most perfect believer in respect of faith is he who is best of them in manners",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Hasan"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Hasan"
+    }
+   ]
+  },
+  {
+   "collection": "bukhari",
+   "number": 33,
+   "text": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it)",
+   "grades": []
+  }
+ ]
+}

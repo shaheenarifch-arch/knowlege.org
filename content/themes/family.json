@@ -1,0 +1,162 @@
+{
+ "slug": "family",
+ "title": "Family",
+ "summary": "Family in the Qur'an and Sunnah: kindness to parents, love and mercy between spouses, and hadith on mothers, kinship and caring for dependants.",
+ "intro": [
+  "The Qur'an places kindness to parents directly after the worship of Allah and describes marriage as a bond of love and mercy. It also reminds people of the rights they owe one another, including ties of the womb.",
+  "The hadith give the mother a special place, connect keeping family ties with blessing in life, and describe the best of people as the one who is best to his wife."
+ ],
+ "guides": [
+  "marriage",
+  "zakah"
+ ],
+ "related": [
+  "mercy",
+  "responsible-citizenship",
+  "gratitude"
+ ],
+ "verses": [
+  {
+   "ref": "17:23",
+   "lines": [
+    {
+     "ayah": 23,
+     "text": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents. If one of them or both of them attain old age with thee, say not \"Fie\" unto them nor repulse them, but speak unto them a gracious word"
+    }
+   ]
+  },
+  {
+   "ref": "17:24",
+   "lines": [
+    {
+     "ayah": 24,
+     "text": "And lower unto them the wing of submission through mercy, and say: My Lord! Have mercy on them both as they did care for me when I was little"
+    }
+   ]
+  },
+  {
+   "ref": "46:15",
+   "lines": [
+    {
+     "ayah": 15,
+     "text": "And We have commended unto man kindness toward parents. His mother beareth him with reluctance, and bringeth him forth with reluctance, and the bearing of him and the weaning of him is thirty months, till, when he attaineth full strength and reacheth forty years, he saith: My Lord! Arouse me that I may give thanks for the favour wherewith Thou hast favoured me and my parents, and that I may do right acceptable unto Thee. And be gracious unto me in the matter of my seed. Lo! I have turned unto Thee repentant, and lo! I am of those who surrender (unto Thee)"
+    }
+   ]
+  },
+  {
+   "ref": "30:21",
+   "lines": [
+    {
+     "ayah": 21,
+     "text": "And of His signs is this: He created for you helpmeets from yourselves that ye might find rest in them, and He ordained between you love and mercy. Lo! herein indeed are portents for folk who reflect"
+    }
+   ]
+  },
+  {
+   "ref": "4:1",
+   "lines": [
+    {
+     "ayah": 1,
+     "text": "O mankind! Be careful of your duty to your Lord Who created you from a single soul and from it created its mate and from them twain hath spread abroad a multitude of men and women. Be careful of your duty toward Allah in Whom ye claim (your rights) of one another, and toward the wombs (that bare you). Lo! Allah hath been a watcher over you"
+    }
+   ]
+  },
+  {
+   "ref": "25:74",
+   "lines": [
+    {
+     "ayah": 74,
+     "text": "And who say: Our Lord! Vouchsafe us comfort of our wives and of our offspring, and make us patterns for (all) those who ward off (evil)"
+    }
+   ]
+  },
+  {
+   "ref": "66:6",
+   "lines": [
+    {
+     "ayah": 6,
+     "text": "O ye who believe! Ward off from yourselves and your families a Fire whereof the fuel is men and stones, over which are set angels strong, severe, who resist not Allah in that which He commandeth them, but do that which they are commanded"
+    }
+   ]
+  }
+ ],
+ "hadith": [
+  {
+   "collection": "bukhari",
+   "number": 5971,
+   "text": "Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! Who is more entitled to be treated with the best companionship by me?\" The Prophet (ﷺ) said, \"Your mother.\" The man said. \"Who is next?\" The Prophet said, \"Your mother.\" The man further said, \"Who is next?\" The Prophet (ﷺ) said, \"Your mother.\" The man asked for the fourth time, \"Who is next?\" The Prophet (ﷺ) said, \"Your father",
+   "grades": []
+  },
+  {
+   "collection": "nasai",
+   "number": 3104,
+   "text": "It was narrated from Mu'awiyah bin Jahimah As-Sulami, that Jahimah came to the Prophet (ﷺ) and said:\"O Messenger of Allah! I want to go out and fight (in Jihad) and I have come to ask your advice.\" He said: \"Do you have a mother?\" He said: \"Yes.\" He said: \"Then stay with her, for Paradise is beneath her feet",
+   "grades": [
+    {
+     "name": "Abu Ghuddah",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Al-Albani",
+     "grade": "Hasan Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Isnaad Sahih"
+    }
+   ]
+  },
+  {
+   "collection": "bukhari",
+   "number": 5986,
+   "text": "Narrated Anas bin Malik:Allah's Apostle said, \"Whoever loves that he be granted more wealth and that his lease of life be prolonged then he should keep good relations with his Kith and kin",
+   "grades": []
+  },
+  {
+   "collection": "ibnmajah",
+   "number": 1977,
+   "text": "It was narrated from Ibn 'Abbas that:the Prophet said: \"The best of you is the one who is best to his wife, and I am the best of you to my wives",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Muhammad Fouad Abd al-Baqi",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih Lighairihi"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Hasan"
+    }
+   ]
+  },
+  {
+   "collection": "abudawud",
+   "number": 1692,
+   "text": "Abd Allah bin ‘Amr reported the Messenger of Allah (ﷺ) as saying :It is sufficient sin for a man that he neglects him whom he maintains",
+   "grades": [
+    {
+     "name": "Al-Albani",
+     "grade": "Hasan"
+    },
+    {
+     "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+     "grade": "Hasan"
+    },
+    {
+     "name": "Shuaib Al Arnaut",
+     "grade": "Sahih"
+    },
+    {
+     "name": "Zubair Ali Zai",
+     "grade": "Sahih"
+    }
+   ]
+  }
+ ]
+}
