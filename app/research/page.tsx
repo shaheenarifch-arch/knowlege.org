@@ -7,13 +7,13 @@ export const metadata = {
   alternates: { canonical: "/research" },
 };
 
-// Real, licensed photo (CC BY 2.0): reading room of the al-Qarawiyyin library, Fez.
+// Real photo (CC0, public domain): book stacks in the Qatar National Library, Doha.
 const HERO = {
-  src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Qarawiyine_library_reading_room_%28589089843%29_%28edited%29.jpg/1920px-Qarawiyine_library_reading_room_%28589089843%29_%28edited%29.jpg",
-  alt: "Carved wooden reading tables and arched lattice bookcases in the reading room of the al-Qarawiyyin library in Fez, Morocco",
-  author: "Maureen from Buffalo, USA (retouched by Robert Prazeres)",
-  license: "CC BY 2.0", licenseUrl: "https://creativecommons.org/licenses/by/2.0",
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Qarawiyine_library_reading_room_(589089843)_(edited).jpg",
+  src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Qatar_National_Library.jpg/1920px-Qatar_National_Library.jpg",
+  alt: "Rows of book stacks and reading tables inside the Qatar National Library in Doha, seen from above",
+  author: "En Merker",
+  license: "CC0 1.0", licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Qatar_National_Library.jpg",
 };
 
 const SHELF: Array<[string, string, string, string, string]> = [
@@ -31,14 +31,14 @@ export default function Page() {
   return <main className="rroom">
     <header className="rhero">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={HERO.src} alt={HERO.alt} width={1920} height={1405} fetchPriority="high" referrerPolicy="no-referrer" />
+      <img src={HERO.src} alt={HERO.alt} width={1920} height={1440} fetchPriority="high" referrerPolicy="no-referrer" />
       <div className="shell rhero-in">
         <span className="eyebrow">The Reading Room · Free · Citation-first</span>
         <h1>Research Desk</h1>
         <p>Sit down with the sources. Search the Qur'an and the six major hadith collections, see every text with its exact reference, and check it at the source.</p>
         <div className="actions"><a className="btn primary" href="#desk">Start researching</a><a className="btn" href="#tools">Prayer times &amp; tools</a></div>
       </div>
-      <p className="credit shell">Photo: the reading room of the al-Qarawiyyin library, Fez. {HERO.author}, <a href={HERO.licenseUrl} target="_blank" rel="noopener noreferrer">{HERO.license}</a>, via <a href={HERO.sourceUrl} target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>.</p>
+      <p className="credit shell">Photo: the Qatar National Library, Doha. {HERO.author}, <a href={HERO.licenseUrl} target="_blank" rel="noopener noreferrer">{HERO.license}</a>, via <a href={HERO.sourceUrl} target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>.</p>
     </header>
 
     <div className="shell">
