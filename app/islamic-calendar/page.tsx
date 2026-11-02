@@ -24,9 +24,27 @@ const MONTHS: Array<[string, string]> = [
   ["Dhu al-Hijjah", "Twelfth month; a sacred month of Hajj, the Day of Arafah and Eid al-Adha."],
 ];
 
+
+// Real, licensed photos for the tall side columns (minarets of the Prophet's Mosque, Madinah).
+const W = "https://upload.wikimedia.org/wikipedia/commons/thumb/";
+const MINARETS = [
+  { src: `${W}8/89/Prophet%E2%80%99s_Mosque_Minaret_2021.jpg/960px-Prophet%E2%80%99s_Mosque_Minaret_2021.jpg`,
+    alt: "Ornate minaret of the Prophet's Mosque in Madinah against a blue sky with white clouds",
+    author: "Saleh Al Hussain", license: "CC BY 4.0", licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Prophet%E2%80%99s_Mosque_Minaret_2021.jpg" },
+  { src: `${W}7/77/Minaret_on_Haram_in_Madinah.JPG/960px-Minaret_on_Haram_in_Madinah.JPG`,
+    alt: "Minaret of the Prophet's Mosque in Madinah with the sun glowing behind it",
+    author: "Ammar777", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Minaret_on_Haram_in_Madinah.JPG" },
+];
+
 export default function Page() {
   const haram = mosques[0];
-  return <main className="shell page">
+  const minaret = (m: typeof MINARETS[number], side: string) => <aside className={`minaret ${side}`} aria-hidden="true">
+    {/* eslint-disable-next-line @next/next/no-img-element */}
+    <img src={m.src} alt="" width={960} height={1280} loading="lazy" referrerPolicy="no-referrer" />
+  </aside>;
+  return <div className="calframe">{minaret(MINARETS[0], "left")}<main className="shell page">
     <span className="tag">Calendar</span>
     <h1>Islamic Calendar</h1>
     <p className="lead">The Hijri calendar is lunar: each month begins with the new crescent moon, so the Islamic year is about 11 days shorter than the Gregorian year and its dates move through the seasons. It counts from the Prophet's ﷺ migration (Hijrah) to Madinah in 622 CE.</p>
@@ -37,5 +55,6 @@ export default function Page() {
       <p className="meta">Sources: <a href="https://quran.com/9/36" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Qur'an 9:36</a> (twelve months, four sacred), <a href="https://quran.com/2/185" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Qur'an 2:185</a> (Ramadan), <a href="https://quran.com/2/189" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Qur'an 2:189</a> (new moons as markers of time). <Link href="/knowledge-hub" style={{ textDecoration: "underline" }}>Knowledge Hub</Link></p>
     </section>
     <Photo photo={haram.photo} />
-  </main>;
+    <p className="meta mcredit">Minaret photos (side columns), both of the Prophet's Mosque in Madinah: {MINARETS.map((m, i) => <span key={m.sourceUrl}>{i > 0 && "; "}{m.author}, <a href={m.licenseUrl} target="_blank" rel="noopener noreferrer">{m.license}</a>, via <a href={m.sourceUrl} target="_blank" rel="noopener noreferrer">Wikimedia Commons</a></span>)}.</p>
+  </main>{minaret(MINARETS[1], "right")}</div>;
 }
