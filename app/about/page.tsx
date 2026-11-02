@@ -4,7 +4,7 @@ export default function Page() {
   return <main className="shell page legal">
     <span className="tag">About</span>
     <h1>About Knowlege.org</h1>
-    <p className="lead">Knowledge for Humanity. Read. Learn. Research. Serve.</p>
+    <p className="lead">Knowledge for Mankind. Read. Learn. Research. Serve.</p>
     <p>Knowlege.org is a free platform for Qur'anic learning, research, ethical reflection, charity and practical service. Core scripture, source search and learning stay free.</p>
     <h2>What you can do here</h2>
     <ul>
