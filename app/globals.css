@@ -203,7 +203,6 @@
 .falahlink{grid-area:link;justify-self:start;display:inline-block;margin-top:10px;color:var(--gold);text-decoration:underline;font-weight:650}
 .adhannote{max-width:760px;margin:22px auto 0}
 @media(max-width:640px){.block{padding:18px}.newctain{padding:20px}.newctain .btn{width:100%;text-align:center}.trail,.checkpoint,.askbox{padding:18px}.keyverse{font-size:18px;padding:18px}.pager .btn{flex:1 1 100%;text-align:center}}
-@media(max-width:640px){.adhanlines li{grid-template-columns:40px 1fr;grid-template-areas:"t ar" "tr tr" "en en" "link link";column-gap:12px;padding:14px 16px}.times{width:36px;height:36px;font-size:12px}}
 .stepbarrow{align-items:center;flex-wrap:nowrap}
 .sbmid{flex:1;text-align:center}
 .arrowbtn{flex:none;display:grid;place-items:center;width:36px;height:36px;border-radius:50%;border:1px solid var(--gold);color:var(--gold)!important;font-size:18px;font-weight:700;transition:background .15s}
@@ -212,3 +211,49 @@
 .sidearrow:hover{background:var(--gold);color:#122015;transform:scale(1.06)}
 .sidearrow.left{left:18px}.sidearrow.right{right:18px}
 @media(min-width:1040px){.sidearrow{display:grid}}
+/* Prayer times, Qibla and Adhan */
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.ptsec{padding:40px 0}
+.pt{padding:24px;border:1px solid #39634d;border-radius:24px;background:linear-gradient(160deg,#0f2619,#0a1d14 70%);text-align:left}
+.pt.compact{max-width:900px;margin:0 auto}
+.pthead{display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap}
+.pthead h2{margin:0;font-size:28px;color:var(--gold)}
+.ptloc{margin:4px 0 0;color:var(--muted)}
+.ptsearch{display:flex;gap:10px;margin:16px 0 0}
+.ptsearch input{flex:1;min-width:0;padding:12px 14px;border-radius:999px;border:1px solid #39634d;background:#0d2117;color:var(--text);font:inherit}
+.ptresults{list-style:none;padding:0;margin:8px 0 0;border:1px solid #2b503d;border-radius:14px;overflow:hidden}
+.ptresults button{display:block;width:100%;text-align:left;padding:11px 14px;background:#0d2117;border:0;border-bottom:1px solid #2b503d;color:var(--text);font:inherit;cursor:pointer}
+.ptresults button:hover{background:#173c28}
+.ptstatus{margin-top:8px}
+.ptnext{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;margin:20px 0 12px;padding:14px 18px;border-radius:16px;background:linear-gradient(90deg,rgba(242,201,76,.2),rgba(111,207,151,.12));border:1px solid var(--gold);font-size:17px}
+.ptcount{color:var(--gold);font-weight:750}
+.ptlist{list-style:none;padding:0;margin:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(min(130px,100%),1fr))}
+.ptlist li{display:grid;justify-items:center;gap:2px;padding:14px 8px;border:1px solid #2b503d;border-radius:16px;background:#0d2117;text-align:center}
+.ptlist .ar{font-size:20px;line-height:1.5;text-align:center;color:var(--gold)}
+.ptlist time{font-size:20px;font-weight:700;color:var(--text)}
+.ptlist li.next{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold) inset;background:#132b1d}
+.ptlist li.sun{opacity:.7}
+.ptrow{display:grid;gap:16px;margin-top:20px;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr))}
+.qibla,.adhanopt{padding:18px;border:1px solid #2b503d;border-radius:18px;background:#0b1e15;display:grid;gap:10px;align-content:start}
+.qibla h3,.adhanopt h3{margin:0;color:var(--text)}
+.qibla p{margin:0}
+.dial{position:relative;width:150px;height:150px;margin:4px auto;border-radius:50%;border:2px solid #39634d;background:radial-gradient(circle,#173c28,#0a1d14 70%)}
+.dial>span{position:absolute;font-size:12px;color:var(--muted);font-weight:700}
+.dial .n{top:4px;left:50%;transform:translateX(-50%);color:var(--gold)}.dial .s{bottom:4px;left:50%;transform:translateX(-50%)}
+.dial .e{right:6px;top:50%;transform:translateY(-50%)}.dial .w{left:6px;top:50%;transform:translateY(-50%)}
+.needle{position:absolute;inset:14px;transition:transform .3s}
+.needle::before{content:"";position:absolute;left:50%;top:8px;bottom:50%;width:4px;transform:translateX(-50%);border-radius:4px;background:linear-gradient(var(--gold),#f2994a)}
+.needle span{position:absolute;left:50%;top:-6px;transform:translateX(-50%);font-size:20px}
+.switch{display:flex;gap:10px;align-items:center;cursor:pointer}
+.switch input{width:20px;height:20px;accent-color:#f2c94c}
+.qibla .btn,.adhanopt .btn{justify-self:start}
+.ptsettings{margin-top:16px;padding:14px 16px;border:1px dashed #39634d;border-radius:14px;display:block}
+.ptsettings summary{cursor:pointer;color:var(--gold);font-weight:650}
+.ptsettings label{display:grid;gap:6px;margin:12px 0 0;font-size:14px;color:var(--muted)}
+.ptsettings select{padding:10px 12px;border-radius:10px;border:1px solid #39634d;background:#0d2117;color:var(--text);font:inherit;max-width:100%}
+.pt a{text-decoration:underline}
+.ptmore{margin:16px 0 6px;font-weight:650}
+.ptpage{max-width:960px}
+.ptpage h1{font-size:clamp(32px,5vw,50px);line-height:1.1;margin:12px 0}
+.ptinfo{margin-top:34px}
+@media(max-width:640px){.adhanlines li{grid-template-columns:40px 1fr;grid-template-areas:"t ar" "tr tr" "en en" "link link";column-gap:12px;padding:14px 16px}.adhanlines .ar{text-align:right}.times{width:36px;height:36px;font-size:12px}.pt{padding:16px}.ptsearch{flex-wrap:wrap}.ptsearch .btn{flex:1 1 100%}.pthead .btn{width:100%}.ptlocate{flex:1 1 100%}}
