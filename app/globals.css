@@ -214,3 +214,11 @@
 .sidearrow:hover{background:var(--gold);color:#122015;transform:scale(1.06)}
 .sidearrow.left{left:18px}.sidearrow.right{right:18px}
 @media(min-width:1040px){.sidearrow{display:grid}}
+/* Ramadan 2027 page */
+.rcount{margin:0 0 14px;font-size:17px;color:var(--muted)}.rcount strong{font-size:30px;color:var(--gold);margin-right:4px}
+.rchips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.rchips button{padding:8px 14px;border-radius:999px;border:1px solid #39634d;background:transparent;color:var(--text);cursor:pointer;font:inherit;font-size:14px}
+.rchips button.on{background:var(--gold);border-color:var(--gold);color:#122015;font-weight:700}
+.rtable td.se{color:var(--mint);font-weight:700}.rtable td.if{color:var(--gold);font-weight:700}.rtable tr.fri td{background:rgba(168,231,200,.06)}
+.ramadan .rdua .ar{font-family:"Amiri","Scheherazade New","Noto Naskh Arabic",serif;font-size:26px;line-height:1.9;color:var(--text);text-align:right}
+.ramadan .help a{color:var(--mint);text-decoration:underline}
