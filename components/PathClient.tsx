@@ -75,12 +75,41 @@ export function TrailMap({ items }: { items: TrailItem[] }) {
 /* ---------- milestone page: sticky progress bar ---------- */
 export function StepBar({ items, current }: { items: TrailItem[]; current: number }) {
   const [done] = useDone();
+  const router = useRouter();
   const pct = Math.round((items.filter(i => done.includes(i.slug)).length / items.length) * 100);
-  return <div className="stepbar">
+  const prev = current > 0 ? { href: `/new-to-islam/${items[current - 1].slug}`, title: items[current - 1].title } : { href: "/new-to-islam", title: "Path overview" };
+  const next = items[current + 1] ? { href: `/new-to-islam/${items[current + 1].slug}`, title: items[current + 1].title } : { href: "/new-to-islam/finish", title: "Finish Line" };
+
+  // Keyboard ← → and a horizontal swipe on phones also move between milestones.
+  useEffect(() => {
+    const typing = (t: EventTarget | null) => t instanceof HTMLElement && (t.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName));
+    const onKey = (e: KeyboardEvent) => {
+      if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey || typing(e.target)) return;
+      if (e.key === "ArrowRight") router.push(next.href);
+      if (e.key === "ArrowLeft") router.push(prev.href);
+    };
+    let x = 0, y = 0;
+    const start = (e: TouchEvent) => { x = e.touches[0].clientX; y = e.touches[0].clientY; };
+    const end = (e: TouchEvent) => {
+      if (typing(e.target)) return;
+      const dx = e.changedTouches[0].clientX - x, dy = e.changedTouches[0].clientY - y;
+      if (Math.abs(dx) > 90 && Math.abs(dx) > Math.abs(dy) * 2) router.push(dx < 0 ? next.href : prev.href);
+    };
+    window.addEventListener("keydown", onKey);
+    window.addEventListener("touchstart", start, { passive: true });
+    window.addEventListener("touchend", end, { passive: true });
+    return () => { window.removeEventListener("keydown", onKey); window.removeEventListener("touchstart", start); window.removeEventListener("touchend", end); };
+  }, [router, prev.href, next.href]);
+
+  return <>
+    <Link className="sidearrow left" href={prev.href} aria-label={`Previous: ${prev.title}`} title={`← ${prev.title}`}>‹</Link>
+    <Link className="sidearrow right" href={next.href} aria-label={`Next: ${next.title}`} title={`${next.title} →`}>›</Link>
+    <div className="stepbar">
     <div className="shell">
       <div className="stepbarrow">
-        <Link href="/new-to-islam">Path to Success</Link>
-        <span>Milestone {current} of {items.length - 1} · {pct}% complete</span>
+        <Link className="arrowbtn" href={prev.href} aria-label={`Previous: ${prev.title}`} title={prev.title}>←</Link>
+        <span className="sbmid"><Link href="/new-to-islam">Path to Success</Link> · Milestone {current} of {items.length - 1} · {pct}% complete</span>
+        <Link className="arrowbtn" href={next.href} aria-label={`Next: ${next.title}`} title={next.title}>→</Link>
       </div>
       <Bar pct={pct} label="Your progress on the Path to Success" />
       <nav className="sdots" aria-label="Milestones">
@@ -88,7 +117,8 @@ export function StepBar({ items, current }: { items: TrailItem[]; current: numbe
           className={`${done.includes(m.slug) ? "done" : ""} ${i === current ? "cur" : ""}`} aria-current={i === current ? "step" : undefined}>{done.includes(m.slug) ? "✓" : i}</Link>)}
       </nav>
     </div>
-  </div>;
+  </div>
+  </>;
 }
 
 /* ---------- checkpoint quiz + mark complete ---------- */
