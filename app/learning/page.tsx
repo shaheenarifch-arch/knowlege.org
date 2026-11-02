@@ -46,7 +46,7 @@ export default function Page() {
           const g = p.slug ? getGuide(p.slug) : undefined;
           return <div className="card" key={p.name}>
             <span className="tag">Pillar {i + 1}</span>
-            <h3>{p.name}</h3>
+            <h3><Link className="stretch" href={g ? `/knowledge-hub/${g.slug}` : p.fallback.href}>{p.name}</Link></h3>
             <p>{p.text}</p>
             <p className="help">{g
               ? <Link href={`/knowledge-hub/${g.slug}`}>Read the guide: {g.title}</Link>
