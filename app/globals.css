@@ -97,3 +97,110 @@
 .minaret img{width:100%;height:100%;object-fit:cover;object-position:50% 20%;filter:saturate(.95) brightness(.9)}
 .minaret::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 60%,rgba(6,19,13,.75));pointer-events:none}
 }
+/* New to Islam: Path to Success */
+.hint{display:block;color:var(--muted);font-size:13px;line-height:1.5}
+.hint.small{margin-top:28px}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.pathtitle{font-size:clamp(40px,7vw,72px);line-height:1.05;margin:14px 0;background:linear-gradient(90deg,#f2c94c,#f2994a 40%,#6fcf97);-webkit-background-clip:text;background-clip:text;color:transparent}
+.falahcall{margin:30px 0;padding:28px;text-align:center;border:1px solid #39634d;border-radius:22px;background:radial-gradient(circle at 50% 0,rgba(242,201,76,.16),transparent 65%),#0b1e15}
+.falahcall .ar,.adhan .ar{text-align:center}
+.falahcall .ar{font-size:clamp(34px,6vw,52px);color:var(--gold);margin:0}
+.falahcall h2{margin:6px 0 10px}
+.falahcall p{max-width:760px;margin:0 auto;color:var(--muted)}
+.falahcall a,.golinks a,.askbox a,.notice a{text-decoration:underline}
+.pbar{height:12px;border-radius:999px;background:#13291d;border:1px solid #2b503d;overflow:hidden;margin:8px 0 6px}
+.pbar span{display:block;height:100%;background:linear-gradient(90deg,#f2c94c,#f2994a,#6fcf97);border-radius:999px;transition:width .4s}
+.trail{margin:34px 0;padding:24px;border:1px solid #2b503d;border-radius:22px;background:#0a1d14}
+.trailtop{display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.trailtop>div:first-child{flex:1 1 280px}
+.trailtop .actions{margin:0}
+.steps{list-style:none;padding:0;margin:24px 0 0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(min(280px,100%),1fr))}
+.steps a{display:flex;gap:14px;align-items:flex-start;padding:14px;border:1px solid #2b503d;border-radius:16px;background:#0d2117;height:100%;transition:border-color .15s,transform .15s}
+.steps a:hover{border-color:var(--gold);transform:translateY(-2px)}
+.steps b{display:block;color:var(--text);font-weight:650}
+.steps small{display:block;color:var(--muted);margin-top:3px}
+.dot{flex:none;display:grid;place-items:center;width:34px;height:34px;border-radius:50%;border:2px solid #39634d;color:var(--muted);font-weight:700;font-size:14px}
+.steps .done .dot{background:#6fcf97;border-color:#6fcf97;color:#06130d}
+.steps .now a{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold) inset}
+.steps .now .dot{border-color:var(--gold);color:var(--gold)}
+.howitworks{margin:34px 0}
+.five{list-style:none;counter-reset:f;padding:0;display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+.five li{counter-increment:f;padding:16px;border:1px solid #2b503d;border-radius:16px;background:#0d2117;color:var(--muted);font-size:14px}
+.five li::before{content:counter(f);display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--gold);color:#122015;font-weight:800;margin-bottom:8px}
+.five b{display:block;color:var(--text);font-size:16px;margin-bottom:4px}
+.stepbar{position:sticky;top:72px;z-index:15;background:rgba(6,19,13,.94);backdrop-filter:blur(12px);border-bottom:1px solid #274636;padding:10px 0 8px}
+.stepbarrow{display:flex;justify-content:space-between;gap:12px;font-size:13px;color:var(--muted);flex-wrap:wrap}
+.stepbarrow a{color:var(--gold);font-weight:650}
+.stepbar .pbar{height:8px;margin:6px 0}
+.sdots{display:flex;gap:6px;flex-wrap:wrap}
+.sdots a{display:grid;place-items:center;width:24px;height:24px;border-radius:50%;border:1px solid #39634d;font-size:11px;color:var(--muted)}
+.sdots a.done{background:#6fcf97;border-color:#6fcf97;color:#06130d}
+.sdots a.cur{border:2px solid var(--gold);color:var(--gold);font-weight:800}
+.pathstep{max-width:860px}
+.pathstep h1{font-size:clamp(32px,5vw,50px);line-height:1.1;margin:12px 0}
+.falahline{color:var(--gold);font-size:18px;font-style:italic}
+.pathstep .heroimg{max-width:none;margin:22px 0}
+.pathstep .heroimg img{aspect-ratio:16/8}
+.block{margin:22px 0;padding:22px 24px;border-radius:18px;border:1px solid #2b503d;border-left:5px solid var(--a,#6fcf97);background:#0b1e15}
+.block h2{font-size:24px;margin:0 0 10px;color:var(--text);display:flex;align-items:center;gap:10px}
+.block h2 span{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--a);color:#06130d;font-size:15px;font-weight:800}
+.block p,.block li{line-height:1.7}
+.block ul{padding-left:20px}
+.b1{--a:#f2c94c}.b2{--a:#6fcf97}.b3{--a:#56ccf2}.b4{--a:#bb6bd9}
+.keyverse{margin:28px 0;padding:22px 26px;border-radius:18px;font-family:Georgia,serif;font-size:21px;line-height:1.6;text-align:center;background:radial-gradient(circle at 50% 0,rgba(242,201,76,.14),transparent 70%),#0d2117;border:1px solid #39634d}
+.more{margin:18px 0;padding:14px 18px;border:1px dashed #39634d;border-radius:14px}
+.more summary{cursor:pointer;color:var(--gold);font-weight:650}
+.golinks ul{padding-left:20px}
+.golinks li{margin:6px 0}
+.checkpoint,.askbox{margin:30px 0;padding:24px;border:1px solid #39634d;border-radius:20px;background:#0b1e15}
+.checkpoint h2,.askbox h2{margin:0 0 6px;font-size:26px}
+.qitem{border:0;padding:0;margin:20px 0}
+.qitem legend{font-weight:650;margin-bottom:10px;color:var(--text)}
+.opt{display:block;width:100%;text-align:left;margin:8px 0;padding:12px 16px;border-radius:12px;border:1px solid #39634d;background:#0d2117;color:var(--text);font:inherit;cursor:pointer}
+.opt:hover:not(:disabled){border-color:var(--gold)}
+.opt:disabled{cursor:default;opacity:.75}
+.opt.right{border-color:#6fcf97;background:#123522;opacity:1}
+.opt.wrong{border-color:#eb5757;background:#3a1717;opacity:1}
+.why{margin:6px 0 0;color:var(--mint);font-size:15px}
+.cpactions{justify-content:flex-start;align-items:center}
+.score{margin:0;color:var(--gold);font-weight:650;flex-basis:100%}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.fform{display:grid;gap:14px;margin-top:14px}
+.fform label{display:grid;gap:6px;font-size:14px;color:var(--muted)}
+.fform textarea,.fform input:not([type=radio]):not([type=checkbox]){width:100%;padding:12px 14px;border-radius:12px;border:1px solid #39634d;background:#0d2117;color:var(--text);font:inherit}
+.fform .check{display:flex;gap:10px;align-items:center;color:var(--text)}
+.fform button{justify-self:start}
+.stars{border:0;padding:0;margin:0;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.stars legend{color:var(--text);font-weight:650;margin-bottom:8px}
+.stars label{display:block}
+.stars input{position:absolute;opacity:0}
+.stars span{display:grid;place-items:center;width:44px;height:44px;border-radius:12px;border:1px solid #39634d;color:var(--text);cursor:pointer;font-weight:700}
+.stars input:checked+span{background:var(--gold);color:#122015;border-color:var(--gold)}
+.stars input:focus-visible+span{outline:2px solid var(--mint)}
+.stars .hint{flex-basis:100%}
+.finishok h2{margin-top:0}
+.pager{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:28px}
+/* Home: New to Islam call to action */
+.newcta{padding:34px 0}
+.newctain{display:flex;gap:24px;align-items:center;justify-content:space-between;flex-wrap:wrap;padding:28px;border-radius:24px;border:1px solid #f2994a;background:linear-gradient(120deg,rgba(242,201,76,.16),rgba(111,207,151,.10) 60%,#0a1d14)}
+.newctain h2{margin:8px 0 6px;color:var(--text)}
+.newctain p{margin:0;color:var(--muted);max-width:640px}
+/* Home: the Adhan */
+.adhan{padding:56px 0;text-align:center;background:radial-gradient(circle at 50% 0,rgba(242,201,76,.12),transparent 55%);border-top:1px solid #274636;border-bottom:1px solid #274636}
+.adhanhead .ar{font-size:clamp(40px,7vw,64px);color:var(--gold);display:block;line-height:1.4}
+.adhanhead h2{margin:4px 0 10px}
+.adhanhead p{max-width:700px;margin:0 auto;color:var(--muted)}
+.adhanhead a,.adhannote a{text-decoration:underline}
+.adhanlines{list-style:none;padding:0;margin:34px auto 0;max-width:900px;display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(min(260px,100%),1fr))}
+.adhanlines li{position:relative;padding:22px 18px 18px;border:1px solid #2b503d;border-radius:20px;background:linear-gradient(180deg,#0f2619,#0a1d14)}
+.adhanlines .ar{font-size:clamp(24px,3.4vw,32px);color:var(--text);margin:4px 0;line-height:1.8}
+.adhanlines .tr{margin:0;color:var(--gold);font-style:italic}
+.adhanlines .en{margin:6px 0 0;color:var(--muted)}
+.adhanlines .en small{color:var(--mint)}
+.times{position:absolute;top:10px;right:12px;font-size:12px;padding:2px 8px;border-radius:999px;background:#173c28;color:var(--mint)}
+.adhanlines li.falah{grid-column:1/-1;border-color:var(--gold);background:radial-gradient(circle at 50% 0,rgba(242,201,76,.22),transparent 70%),#0f2619}
+.adhanlines li.falah .ar{font-size:clamp(32px,5vw,46px);color:var(--gold)}
+.adhanlines li.falah .en{font-size:20px;color:var(--text)}
+.falahlink{display:inline-block;margin-top:10px;color:var(--gold);text-decoration:underline;font-weight:650}
+.adhannote{max-width:760px;margin:22px auto 0}
+@media(max-width:640px){.block{padding:18px}.newctain{padding:20px}.newctain .btn{width:100%;text-align:center}.trail,.checkpoint,.askbox{padding:18px}.keyverse{font-size:18px;padding:18px}.pager .btn{flex:1 1 100%;text-align:center}}
