@@ -23,5 +23,12 @@ export default function Page() {
     <p>Nothing on this site is a religious ruling (fatwa). For rulings, please ask a qualified scholar.</p>
     <h2>Get in touch</h2>
     <p>Spotted an error in a reference, or want to suggest a source? <Link href="/contact">Contact us</Link>.</p>
+    <section className="dedication" id="dedication" aria-labelledby="dedication-h">
+      <h2 id="dedication-h">In loving memory</h2>
+      <p>This knowledge platform is dedicated, as ongoing charity (sadaqah jariyah), to the late <strong>Mr and Mrs Ch Muhammad Arif</strong>, rahimahumallah.</p>
+      <p>Please remember them in your prayers: may Allah forgive them, have mercy on them, grant them peace in their graves and admit them to Jannat al-Firdaws. Ameen.</p>
+      <p className="ar" lang="ar" dir="rtl">اللَّهُمَّ اغْفِرْ لَهُمَا وَارْحَمْهُمَا</p>
+      <p className="help">"O Allah, forgive them both and have mercy on them both."</p>
+    </section>
   </main>;
 }
