@@ -4,7 +4,7 @@
 //   Hadith: the six books from the open hadith-api dataset (fawazahmed0) on jsDelivr,
 //           one collection at a time (2.6–4.8 MB each, cached by the browser after the first search).
 // Texts are shown exactly as the source returns them, with a reference and a link for each result.
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const COLLECTIONS: Record<string, string> = {
   bukhari: "Sahih al-Bukhari", muslim: "Sahih Muslim", abudawud: "Sunan Abi Dawud",
@@ -65,6 +65,13 @@ export function FreeSearch({ hadithOnly = false }: { hadithOnly?: boolean } = {}
   const [total, setTotal] = useState(0);
   const [searched, setSearched] = useState<{ q: string; used: string; source: string } | null>(null);
   const cache = useRef<Record<string, HadithFile>>({});
+  // Research Desk shelves and example searches link here with ?source=<collection>&q=<word>.
+  useEffect(() => {
+    const p = new URLSearchParams(window.location.search);
+    const s = p.get("source"); const w = p.get("q");
+    if (s && (s === "quran" ? !hadithOnly : s in COLLECTIONS)) setSource(s);
+    if (w) setQ(w.slice(0, 80));
+  }, [hadithOnly]);
 
   async function searchOnce(term: string, src: string): Promise<{ total: number; verses?: Verse[]; hadith?: HadithHit[] }> {
     if (src === "quran") {
