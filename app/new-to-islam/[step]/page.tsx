@@ -40,6 +40,8 @@ export default async function Page({ params }: Props) {
       { "@type": "ListItem", position: 1, name: "Home", item: SITE },
       { "@type": "ListItem", position: 2, name: "New to Islam", item: `${SITE}/new-to-islam` },
       { "@type": "ListItem", position: 3, name: m.title, item: url }] },
+    { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: m.quiz.map(q => ({ "@type": "Question", name: q.q,
+      acceptedAnswer: { "@type": "Answer", text: `${q.options[q.answer]}. ${plain(q.why)}` } })) },
   ];
   return <>
     <StepBar items={items} current={i} />
