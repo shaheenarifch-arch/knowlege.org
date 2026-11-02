@@ -13,7 +13,7 @@ export default function Page() {
       {posts.length === 0 ? <p>The first reflection is on its way.</p> :
         <div className="grid">{posts.map(p => <div className="card" key={p.slug}>
           <span className="tag">{p.theme}</span>
-          <h3><Link href={`/blog/${p.slug}`}>{p.title}</Link></h3>
+          <h3><Link className="stretch" href={`/blog/${p.slug}`}>{p.title}</Link></h3>
           <p>{p.summary}</p>
           <p><small>{new Date(p.date).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}</small></p>
         </div>)}</div>}

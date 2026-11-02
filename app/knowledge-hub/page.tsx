@@ -36,16 +36,16 @@ export default function Page() {
       <div className="grid">
         {topics.map(t => getGuide(t.slug)
           ? <Link className="card" key={t.slug} href={`/knowledge-hub/${t.slug}`}><span className="tag">Guide</span><h3>{t.title}</h3><p>{t.blurb}</p></Link>
-          : <div className="card soon" key={t.slug} aria-disabled="true"><span className="tag">Coming soon</span><h3>{t.title}</h3><p>{t.blurb}</p></div>)}
+          : <div className="card soon" key={t.slug}><span className="tag">Coming soon</span><h3><Link className="stretch" href="/research" title="Guide coming soon — search the sources on this topic meanwhile">{t.title}</Link></h3><p>{t.blurb}</p></div>)}
       </div>
     </section>
 
     <section className="section">
       <h2>How to read these guides</h2>
       <div className="grid">
-        <div className="card"><h3>Agreed first</h3><p>The main text covers what all four Sunni schools hold — the points you can rely on whichever school you follow.</p></div>
-        <div className="card"><h3>Differences in detail</h3><p>Where the schools differ, a side-by-side table under "More detail and references" shows each position.</p></div>
-        <div className="card"><h3>Check every source</h3><p>Each reference opens the verse on <a href="https://quran.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Quran.com</a> or the hadith on <a href="https://sunnah.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Sunnah.com</a>, with the Arabic.</p></div>
+        <div className="card"><h3><Link className="stretch" href="#topics">Agreed first</Link></h3><p>The main text covers what all four Sunni schools hold — the points you can rely on whichever school you follow.</p></div>
+        <div className="card"><h3><Link className="stretch" href="#topics">Differences in detail</Link></h3><p>Where the schools differ, a side-by-side table under "More detail and references" shows each position.</p></div>
+        <div className="card"><h3><Link className="stretch" href="/about#sources">Check every source</Link></h3><p>Each reference opens the verse on <a href="https://quran.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Quran.com</a> or the hadith on <a href="https://sunnah.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Sunnah.com</a>, with the Arabic.</p></div>
       </div>
     </section>
 

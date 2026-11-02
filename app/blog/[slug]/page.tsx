@@ -32,7 +32,7 @@ export default async function Page({ params }: Props) {
         <h3>Surah {a.surah} ({a.surahNumber}:{a.ayah})</h3>
         <p dir="rtl" lang="ar" style={{ fontSize: "1.4em", lineHeight: 1.9 }}>{a.arabic}</p>
         <p>{a.english}</p>
-        <p><small>Translation: {p.translation}. <a href={a.url} target="_blank" rel="noopener noreferrer">Read on quran.com</a></small></p>
+        <p><small>Translation: {p.translation}. <a className="stretch" href={a.url} target="_blank" rel="noopener noreferrer">Read on quran.com</a></small></p>
       </div>)}</div>
     </section>
     {p.hadiths.length > 0 && <section className="section">
@@ -43,7 +43,7 @@ export default async function Page({ params }: Props) {
         {h.arabic && <p dir="rtl" lang="ar" style={{ fontSize: "1.25em", lineHeight: 1.9 }}>{h.arabic}</p>}
         <p>{h.english}</p>
         {h.grades.length > 0 && <p><small>Grading: {h.grades.map(g => `${g.grade} (${g.name})`).join("; ")}</small></p>}
-        <p><small><a href={h.source} target="_blank" rel="noopener noreferrer">Source record</a> · {p.hadithSource}</small></p>
+        <p><small><a className="stretch" href={h.source} target="_blank" rel="noopener noreferrer">Source record</a> · {p.hadithSource}</small></p>
       </div>)}</div>
     </section>}
     <div className="notice">{p.disclaimer}</div>
