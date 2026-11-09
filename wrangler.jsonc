@@ -8,5 +8,9 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
-  "observability": { "enabled": true }
+  "observability": { "enabled": true },
+  // Newsletter subscribers (Cloudflare D1). Help: https://developers.cloudflare.com/d1/get-started/
+  "d1_databases": [
+    { "binding": "NEWSLETTER_DB", "database_name": "newsletter", "database_id": "16418146-7d95-4afb-a07e-e162b47cdc2e" }
+  ]
 }
