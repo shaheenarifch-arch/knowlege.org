@@ -9,6 +9,12 @@
     "binding": "ASSETS"
   },
   "observability": { "enabled": true },
+  // Guest posts (/write-for-us). Secrets (RESEND_API_KEY, GUEST_POST_CRON_SECRET, TURNSTILE_SECRET_KEY)
+  // are set with `npx wrangler secret put NAME`. Help: https://developers.cloudflare.com/workers/configuration/secrets/
+  "vars": {
+    "GUEST_POST_EDITOR_EMAIL": "shaheenarifch@gmail.com",
+    "GUEST_POST_FROM_EMAIL": "Knowlege.org <editors@knowlege.org>"
+  },
   // Newsletter subscribers (Cloudflare D1). Help: https://developers.cloudflare.com/d1/get-started/
   "d1_databases": [
     { "binding": "NEWSLETTER_DB", "database_name": "newsletter", "database_id": "16418146-7d95-4afb-a07e-e162b47cdc2e" }
