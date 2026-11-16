@@ -1,0 +1,20 @@
+name: Guest post reminders
+
+# Daily 13:00 UTC (8 am Boston). Emails the editor about guest posts waiting more than 3 days.
+# Needs repo secret GUEST_POST_CRON_SECRET (same value as the Cloudflare secret).
+# Help: https://docs.github.com/actions/security-guides/using-secrets-in-github-actions
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask knowlege.org to send reminders
+        env:
+          SECRET: ${{ secrets.GUEST_POST_CRON_SECRET }}
+        run: |
+          if [ -z "$SECRET" ]; then echo "GUEST_POST_CRON_SECRET is not set; skipping."; exit 0; fi
+          curl -fsS -X POST -H "x-cron-secret: $SECRET" https://knowlege.org/api/guest-posts/reminders
