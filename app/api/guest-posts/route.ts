@@ -8,11 +8,12 @@ export async function POST(req: Request) {
   if (!data) return NextResponse.json({ error: "Please fill in the form and try again." }, { status: 400 });
   if (data.website) return NextResponse.json({ ok: true, code: "KG-THANKS" }); // honeypot: bots fill the hidden field
 
-  if (!(await turnstileOk(String(data.turnstile ?? ""), req)))
-    return NextResponse.json({ error: "Please complete the \"I'm not a robot\" check and try again." }, { status: 400 });
-
+  // Check the fields first: a Turnstile token works only once, so a form mistake must not use it up.
   const parsed = ArticleSchema.safeParse(data);
   if (!parsed.success) return NextResponse.json({ error: parsed.error.issues[0]?.message ?? "Please check the form." }, { status: 400 });
+
+  if (!(await turnstileOk(String(data.turnstile ?? ""), req)))
+    return NextResponse.json({ error: "Please complete the \"I'm not a robot\" check and try again." }, { status: 400 });
   const a = parsed.data;
 
   try {
