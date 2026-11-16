@@ -32,7 +32,11 @@ export function GuestPostForm({ initial = EMPTY, edit }: { initial?: Initial; ed
       .then(async x => ({ ok: x.ok, ...(await x.json().catch(() => ({}))) }) as { ok: boolean; code?: string; error?: string })
       .catch((): Res => ({ ok: false, error: "Network problem. Please check your connection and try again." }));
     if (r.ok && r.code) { setState({ code: r.code }); window.scrollTo({ top: 0, behavior: "smooth" }); }
-    else setState({ error: r.error ?? "Something went wrong. Please try again." });
+    else {
+      setState({ error: r.error ?? "Something went wrong. Please try again." });
+      // Each Turnstile token works once; get a fresh one for the next try.
+      (window as unknown as { turnstile?: { reset(): void } }).turnstile?.reset();
+    }
   }
 
   if (state.code) return <div className="gp-done" role="status">
