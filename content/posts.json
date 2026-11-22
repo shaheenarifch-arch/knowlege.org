@@ -1,5 +1,487 @@
 [
   {
+    "slug": "knowlege-org-guide-quran-knowledge-hub-prayer-times-research",
+    "date": "2026-11-22",
+    "theme": "Guide",
+    "title": "Knowlege.org: Your Free Guide to the Qur'an, Hadith, Prayer Times and Islamic Learning",
+    "summary": "What Knowlege.org offers and how to use it: the full Qur'an with translation, a hadith library, Knowledge Hub guides across the four Sunni schools, prayer times with Qibla and Adhan, a Research Desk, the Islamic calendar, holy sites and a guided path for people new to Islam. All free.",
+    "byline": "Knowlege.org Editorial",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg/1920px-Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg",
+      "alt": "The Green Dome and minarets of Masjid an-Nabawi, the Prophet's Mosque in Madinah",
+      "width": 1920,
+      "height": 1280,
+      "author": "TheHadiRahim",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_(Al_Masjid-e-Nabawi).jpg"
+    },
+    "sections": [
+      {
+        "heading": "What is Knowlege.org?",
+        "paragraphs": [
+          "Knowlege.org is a free Islamic learning platform. In one place you can read the whole Qur'an with an English translation, search the six major hadith collections, follow clear guides to Islamic practice, find today's prayer times and the Qibla, check the Hijri date and learn about the holy sites of Makkah, Madinah and Jerusalem. There is no subscription and no paywall.",
+          "Our tagline is Knowledge for Mankind, and the home page sums up the mission in four words: Read, Learn, Research, Serve. The site is non-commercial. It carries no product sales and no affiliate links, and every point of religious teaching is tied to a source you can check for yourself.",
+          "This guide walks through each part of the site, explains who it is for and shows how to get the most from it. If you only have a minute, the short version is this: start with the Qur'an reader if you want scripture, the Knowledge Hub if you want practical rulings explained simply, and Prayer Times if you need today's salah times and the Qibla."
+        ],
+        "points": [
+          "Read: the full Qur'an, 114 surahs and 6,236 verses, in Arabic with an English translation.",
+          "Learn: Knowledge Hub guides, Qur'anic themes, weekly reflections and scholar profiles.",
+          "Research: a free Research Desk to search the Qur'an and hadith, with practical tools.",
+          "Serve: a help directory, a reviewed charity directory and guest posts from readers."
+        ]
+      },
+      {
+        "heading": "Why knowledge matters in Islam",
+        "paragraphs": [
+          "Seeking knowledge is not a hobby in Islam; it is part of faith. The Qur'an teaches a short prayer that every learner can make: say, My Lord, increase me in knowledge [Q 20:114]. It asks a question that answers itself: are those who know equal with those who know not? [Q 39:9]. And when people do not know, it tells them where to turn: ask those who have knowledge [Q 16:43].",
+          "The Prophet (peace be upon him) said that when Allah wants good for a person, He gives them understanding of the religion [H bukhari 71]. He also said that the best among you are those who learn the Qur'an and teach it [H bukhari 5027].",
+          "Knowlege.org was built around those teachings. Every page tries to do two things at once: help you learn something real, and show you exactly where it comes from so that your learning rests on the Qur'an and Sunnah rather than on our say-so."
+        ]
+      },
+      {
+        "heading": "Read the Qur'an online, verse by verse",
+        "paragraphs": [
+          "The Qur'an reader lets you open any of the 114 surahs and read it verse by verse. Each verse shows the Uthmani Arabic text with Marmaduke Pickthall's English translation from 1930, which is in the public domain. Every verse links to Quran.com, so you can check the text at an independent source in one tap.",
+          "Each surah card shows its number in Arabic numerals and whether it is Meccan or Medinan, meaning revealed in Makkah before the Hijrah or in Madinah after it. Those labels follow the common Tanzil listing, and we note that scholars differ on a few surahs.",
+          "A translation conveys meaning only; it is not the Qur'an itself. We say that on the page, and we load the text from its source each time so it is shown exactly as published. You can share a link to a single verse, which makes the reader useful for study circles, sermons and family discussion."
+        ],
+        "links": [
+          {
+            "href": "/quran",
+            "label": "Open the Qur'an reader"
+          },
+          {
+            "href": "/research",
+            "label": "Search the Qur'an for a word or theme"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hira_Cave.jpg/1920px-Hira_Cave.jpg",
+          "alt": "Visitors at the narrow entrance of the Cave of Hira on Jabal al-Nour",
+          "width": 1920,
+          "height": 1282,
+          "author": "saudipics",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hira_Cave.jpg"
+        }
+      },
+      {
+        "heading": "Search the hadith library",
+        "paragraphs": [
+          "The Hadith Library lets you search hadith from the six major Sunni collections: Sahih al-Bukhari, Sahih Muslim, Sunan Abi Dawud, Jami' at-Tirmidhi, Sunan an-Nasa'i and Sunan Ibn Majah. You can look up a hadith by collection, book, chapter and reference number, and see its grading where the source provides one.",
+          "Hadith on Knowlege.org are always shown with their collection and number, so you can find the same narration in a printed edition or on another site. That matters, because a saying passed around without a reference is hard to verify, and some sayings attributed to the Prophet (peace be upon him) are weak or fabricated.",
+          "If you are new to hadith, a good habit is to note three things whenever you read one: the collection, the number and the grading. The library is designed so that all three are visible at a glance."
+        ],
+        "links": [
+          {
+            "href": "/hadith",
+            "label": "Search the Hadith Library"
+          },
+          {
+            "href": "/scholars",
+            "label": "Meet the six hadith compilers"
+          }
+        ]
+      },
+      {
+        "heading": "The Knowledge Hub: Islamic practice explained, across all four schools",
+        "paragraphs": [
+          "The Knowledge Hub is the heart of the site. It is a set of clear, sourced guides to everyday Islamic practice. Each guide opens with what the Hanafi, Maliki, Shafi'i and Hanbali schools agree on, and only then sets out where they differ, in a section called More detail and references.",
+          "We lead with agreement on purpose. Most of what a Muslim needs for daily worship is shared by all four schools, and beginning there keeps learning calm and unifying. Where the schools differ, the guide shows each school's relied-upon position side by side in a table, with the evidence behind it, and reminds you to follow your teacher or local scholar.",
+          "Every guide links each point to the Qur'an or hadith, ends with common questions, and shows who wrote and reviewed it and when it was last reviewed. The Knowledge Hub is written and reviewed by Knowlege.org Editorial.",
+          "The main guides today cover the topics below, with more detailed sub-guides inside several of them."
+        ],
+        "points": [
+          "Prayer (Salah): the five daily prayers, with sub-guides on prayer times, prayer when travelling, Jumu'ah, the Eid prayer, Witr and Tarawih, missed prayers and the prostrations of forgetfulness.",
+          "Purity (Taharah): wudu, ghusl and tayammum explained step by step.",
+          "Fasting (Sawm): Ramadan rules, who is exempt and how to make up missed days.",
+          "Zakah: who pays, how much, and who receives it.",
+          "Marriage (Nikah): the contract, consent, witnesses and mahr.",
+          "Halal and Haram: what is permitted and forbidden, with sub-guides on halal meat and slaughter and on food ingredients such as gelatin and alcohol."
+        ],
+        "links": [
+          {
+            "href": "/knowledge-hub",
+            "label": "Browse the Knowledge Hub"
+          },
+          {
+            "href": "/knowledge-hub/salah",
+            "label": "Start with the prayer guide"
+          },
+          {
+            "href": "/knowledge-hub/zakah",
+            "label": "Read the zakah guide"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Badshahi_Mosque_front_picture.jpg/1920px-Badshahi_Mosque_front_picture.jpg",
+          "alt": "Front view of the red sandstone Badshahi Mosque in Lahore",
+          "width": 1920,
+          "height": 1280,
+          "author": "Romero Maia",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_front_picture.jpg"
+        }
+      },
+      {
+        "heading": "Prayer times near you, the Qibla and the Adhan",
+        "paragraphs": [
+          "The Prayer Times page shows today's Fajr, Dhuhr, Asr, Maghrib and Isha times for where you are. Tap Use my location, or search for a city such as Boston, Lahore or London. The times are calculated in your browser, and your location stays in your browser; it is never sent to Knowlege.org.",
+          "Prayer times follow the position of the sun, and calculation methods differ mainly in the angles used for Fajr and Isha. The page picks the most common method for your country automatically: ISNA in the US and Canada, Umm al-Qura in Saudi Arabia, Karachi in Pakistan and South Asia, the Moonsighting Committee in the UK and the Muslim World League elsewhere. You can change it to match your local mosque, and you can choose the later Hanafi time for Asr.",
+          "The same page shows the Qibla, the direction of the Ka'bah in Makkah that every Muslim faces in prayer [Q 2:144]. It gives the direction in degrees from true north, and on a phone you can turn on the compass so the arrow points toward the Ka'bah as you turn.",
+          "You can also switch on the Adhan, so the call to prayer plays at each of the five prayer times while Knowlege.org is open in a browser tab, even a background tab. Browsers do not let a closed website play sound, so keep the tab open. The full words of the Adhan, in Arabic with transliteration and meaning, are on our home page.",
+          "Calculated times are a close guide, not the final word. Your local mosque's timetable comes first, especially for Fajr and Isha and in far northern or southern places."
+        ],
+        "links": [
+          {
+            "href": "/prayer-times",
+            "label": "See today's prayer times and the Qibla"
+          },
+          {
+            "href": "/knowledge-hub/salah/prayer-times",
+            "label": "Learn when each prayer begins and ends"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Kaaba_during_Hajj_-_edited.jpg/1920px-The_Kaaba_during_Hajj_-_edited.jpg",
+          "alt": "The Ka'bah in Masjid al-Haram, Makkah, surrounded by pilgrims performing tawaf during Hajj",
+          "width": 1920,
+          "height": 1346,
+          "author": "Adli Wahid (edited by Basile Morin)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Kaaba_during_Hajj_-_edited.jpg"
+        }
+      },
+      {
+        "heading": "The Research Desk: free tools for students of knowledge",
+        "paragraphs": [
+          "The Research Desk is a free research room. Its core is a search across the Qur'an and the six major hadith collections, with a reference on every result, so you can go from a word or idea to the verses and narrations about it in seconds.",
+          "Alongside search, the Research Desk gathers the practical tools people ask for most. All of them run in your browser, need no account and cost nothing."
+        ],
+        "points": [
+          "Prayer timetable download: save a timetable for your location as a spreadsheet (.csv) to print or share with your mosque or family.",
+          "Qibla direction: find the direction of the Ka'bah from anywhere.",
+          "Zakah calculator: work through your zakatable wealth and see what is due, then read the zakah guide to understand the rules behind it.",
+          "Surah downloads: save any surah as a text file to read offline."
+        ],
+        "links": [
+          {
+            "href": "/research",
+            "label": "Open the Research Desk"
+          },
+          {
+            "href": "/themes",
+            "label": "Explore Qur'anic themes"
+          },
+          {
+            "href": "/knowledge-graph",
+            "label": "See the Knowledge Graph"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Istanbul_%2834223582516%29_%28cropped%29.jpg/1920px-Istanbul_%2834223582516%29_%28cropped%29.jpg",
+          "alt": "The Sultan Ahmed Blue Mosque in Istanbul with its cascading domes",
+          "width": 1920,
+          "height": 1618,
+          "author": "Pedro Szekely",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istanbul_(34223582516)_(cropped).jpg"
+        }
+      },
+      {
+        "heading": "The Islamic calendar and Ramadan timetable",
+        "paragraphs": [
+          "The Islamic Calendar shows today's Hijri date beside the Gregorian date, a month view in both calendars, and the key days ahead: the start of Ramadan, Eid al-Fitr, the Day of Arafah, Eid al-Adha, the Islamic New Year and Ashura. It is a quick way to plan fasting, travel and family gatherings around the year's important days.",
+          "For Ramadan 1448, expected in early 2027, the Ramadan page gives a sehri and iftar timetable for Boston, New York, London, Lahore, Karachi, Makkah and any other city, with calendar reminders, a printable PDF, du'as and key dates. As with prayer times, the moon sighting and the timetable your local mosque follows are the final word."
+        ],
+        "links": [
+          {
+            "href": "/islamic-calendar",
+            "label": "Open the Islamic calendar"
+          },
+          {
+            "href": "/ramadan",
+            "label": "Get your Ramadan timetable"
+          },
+          {
+            "href": "/knowledge-hub/fasting",
+            "label": "Read the fasting guide"
+          }
+        ]
+      },
+      {
+        "heading": "Holy sites of Makkah, Madinah and Jerusalem",
+        "paragraphs": [
+          "The Holy Sites page introduces eleven places of worship and ziyarat with their history from the Qur'an and Sunnah: the Ka'bah, the Black Stone (Hajr-e-Aswad), the Station of Ibrahim (Maqam-e-Ibrahim), the Well of Zamzam, the Prophet's Mosque (Masjid an-Nabawi), the Prophet's resting place (Roza-e-Rasool), Jannat al-Baqi', the martyrs of Uhud, the Cave of Thawr, the Cave of Hira and Al-Aqsa Mosque.",
+          "Each site has a real photograph, credited to its photographer under its licence. The site also features a gallery of great mosques of the world, from Masjid al-Haram and Masjid an-Nabawi to the Badshahi Mosque in Lahore, the Faisal Mosque in Islamabad and the Sultan Ahmed Mosque in Istanbul.",
+          "The page is useful before Hajj or Umrah, for teaching children about the places they see in pictures, and for anyone who wants the story behind a site rather than just its name."
+        ],
+        "links": [
+          {
+            "href": "/holy-sites",
+            "label": "Visit the holy sites"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg/1920px-Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg",
+          "alt": "Al-Aqsa Mosque with its grey dome in the Old City of Jerusalem",
+          "width": 1920,
+          "height": 1032,
+          "author": "Godot13",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_(NE_exposure).jpg"
+        }
+      },
+      {
+        "heading": "New to Islam? Start the Path to Success",
+        "paragraphs": [
+          "If you are curious about Islam, have just embraced it, or are helping someone who has, the Path to Success is a free, step-by-step introduction in 12 milestones. You can start it from the panel on our home page.",
+          "The milestones move from the big picture to daily life: what Islam means, One God and the six articles of faith, the life of the Prophet (peace be upon him) from Makkah to Madinah, the Qur'an and the Sunnah, the Shahadah, purity and prayer, fasting in Ramadan, zakah and charity, Hajj and the holy sites, character, daily life, and the lifelong path of community and consistency.",
+          "Each milestone includes history, real examples and a quick checkpoint, with a progress bar so you can see how far you have come and a place to ask your questions. It is written to be welcoming, never rushed, and it links into the Knowledge Hub whenever you want more detail."
+        ],
+        "links": [
+          {
+            "href": "/",
+            "label": "Find the Path to Success on our home page"
+          },
+          {
+            "href": "/learning",
+            "label": "See all learning paths"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg/1920px-Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg",
+          "alt": "White marble domes and minarets of Sheikh Zayed Grand Mosque in Abu Dhabi",
+          "width": 1920,
+          "height": 1440,
+          "author": "Guilhem Vellut",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque_@_Abu_Dhabi_(15856602738).jpg"
+        }
+      },
+      {
+        "heading": "Themes, weekly reflections and scholar profiles",
+        "paragraphs": [
+          "Beyond the practical guides, Knowlege.org helps you reflect on what the Qur'an teaches about life. The Theme Explorer gathers cited verses and hadith on eleven themes: mercy, justice, knowledge, family, charity, patience, gratitude, stewardship, human dignity, responsible citizenship and ethics. The Knowledge Graph shows how concepts such as mercy, forgiveness, justice and human dignity relate to each other.",
+          "Each week our blog publishes a Qur'an reflection on one theme, with the verses and hadith shown in full and linked to their sources. Recent reflections have covered patience and prayer, charity given with a sincere heart, mercy in the family, and the prayer for more knowledge.",
+          "Scholar Profiles give short, sourced biographies of the four imams of Sunni law, Abu Hanifah, Malik, al-Shafi'i and Ahmad ibn Hanbal, and of the compilers of the six major hadith collections, al-Bukhari, Muslim, Abu Dawud, al-Tirmidhi, al-Nasa'i and Ibn Majah. They cover dates, teachers, students, major works and why each scholar matters."
+        ],
+        "links": [
+          {
+            "href": "/themes",
+            "label": "Explore the themes"
+          },
+          {
+            "href": "/blog",
+            "label": "Read the weekly reflections"
+          },
+          {
+            "href": "/scholars",
+            "label": "Read the scholar profiles"
+          }
+        ]
+      },
+      {
+        "heading": "Serve: help, charity and community",
+        "paragraphs": [
+          "Knowledge in Islam is meant to lead to action, so Serve is the fourth pillar of the site. The Help Center is a dignity-first directory of free food, housing, education, healthcare, counselling and community services in Massachusetts and across the US, checked against official sources, with urgent crisis numbers.",
+          "The charity directory lists organisations for food, education, medical aid, family support, emergency relief and water, and each one is reviewed before it is listed. Before you give, read the zakah guide so you know which causes can receive zakah and which are better suited to voluntary charity (sadaqah)."
+        ],
+        "links": [
+          {
+            "href": "/help",
+            "label": "Find help near you"
+          },
+          {
+            "href": "/charity",
+            "label": "See the charity directory"
+          }
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg/1920px-Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg",
+          "alt": "Faisal Mosque in Islamabad with its four pencil minarets",
+          "width": 1920,
+          "height": 1208,
+          "author": "Ali Mujtaba",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ali_Mujtaba_WLM2017_FAISAL_MOSQUE_019.jpg"
+        }
+      },
+      {
+        "heading": "Write for us, and get the Knowlege Letter",
+        "paragraphs": [
+          "Knowlege.org welcomes guest posts from students of knowledge, teachers and everyday Muslims with something useful to say. The process has four steps: you submit your article and receive a tracking code by email, an editor checks every Qur'an and hadith reference, usually within 7 days, you get a note if anything needs changing, and once approved your article goes live on the blog with your name and bio.",
+          "The guidelines are simple. Articles must be original and not written by AI, between 600 and 2,000 words, in English. Every verse and hadith needs a reference, and hadith should be sound (sahih or hasan). Where the four schools differ, say so fairly. Do not issue rulings, and do not include affiliate links or promotion. Guest posts are unpaid; they are shared as sadaqah jariyah, ongoing charity.",
+          "To keep learning between visits, subscribe free to the Knowlege Letter for daily reflections and a weekly research digest. A Knowlege.org YouTube channel for daily Qur'an recitation and short hadith videos is launching soon; the Media page has the latest."
+        ],
+        "links": [
+          {
+            "href": "/write-for-us",
+            "label": "Read the guest post guidelines"
+          },
+          {
+            "href": "/newsletter",
+            "label": "Subscribe to the Knowlege Letter"
+          },
+          {
+            "href": "/videos",
+            "label": "Visit the Media page"
+          }
+        ]
+      },
+      {
+        "heading": "How we check what we publish",
+        "paragraphs": [
+          "Trust is the whole point of a knowledge site, so here is how we earn it. First, sources: every point of religious teaching links to the Qur'an or to a hadith with its collection and number, and our Qur'an text is loaded from its published source and shown exactly as it is. Second, balance: Knowledge Hub guides lead with what the four Sunni schools agree on and present differences fairly. Third, review: guides show who wrote and reviewed them and when, and guest articles are checked by an editor before they go live.",
+          "Fourth, honesty about limits. Nothing on Knowlege.org is a fatwa. Our guides explain what the schools teach, but for a ruling on your own situation, ask a qualified scholar you trust. Fifth, privacy: your location for prayer times stays in your browser.",
+          "Knowlege.org is led by its Editor-in-Chief, Hafiz Faheem Arif, of Michigan, USA. It is dedicated as sadaqah jariyah to the late Mr and Mrs Ch Muhammad Arif. If this site benefits you, please remember them in your prayers: may Allah forgive them, have mercy on them and grant them Jannat al-Firdaws."
+        ],
+        "links": [
+          {
+            "href": "/about",
+            "label": "About Knowlege.org"
+          },
+          {
+            "href": "/contact",
+            "label": "Contact the editors"
+          }
+        ]
+      },
+      {
+        "heading": "Where to start: a quick map",
+        "paragraphs": [
+          "Not sure where to begin? Match what you need to the right page."
+        ],
+        "points": [
+          "I want to read the Qur'an: open the Qur'an reader and choose a surah.",
+          "I want to learn how to pray correctly: read the prayer guide and the purity guide in the Knowledge Hub.",
+          "I need today's prayer times or the Qibla: open Prayer Times and tap Use my location.",
+          "I want to check a hadith someone sent me: search the Hadith Library by collection and number.",
+          "I need to work out my zakah: use the zakah calculator on the Research Desk, then read the zakah guide.",
+          "I am new to Islam: start the Path to Success from the home page.",
+          "I am planning Ramadan or Eid: open the Islamic calendar and the Ramadan timetable.",
+          "I want to contribute: read the Write for Us guidelines and submit an article."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is Knowlege.org free?",
+        "a": "Yes. Every part of Knowlege.org is free: the Qur'an reader, the hadith library, the Knowledge Hub guides, prayer times, the Research Desk tools and the newsletter. There is no subscription, and the site does not sell products or carry affiliate links."
+      },
+      {
+        "q": "Which madhab does Knowlege.org follow?",
+        "a": "Knowlege.org covers all four Sunni schools: Hanafi, Maliki, Shafi'i and Hanbali. Each Knowledge Hub guide starts with what the four schools agree on, then shows where they differ and the evidence each school relies on, so you can follow your own school or your local scholar."
+      },
+      {
+        "q": "Which Qur'an translation does Knowlege.org use?",
+        "a": "The Qur'an reader shows the Uthmani Arabic text with Marmaduke Pickthall's English translation from 1930, which is in the public domain. Every verse links to Quran.com so you can check it at an independent source."
+      },
+      {
+        "q": "How does Knowlege.org calculate prayer times?",
+        "a": "Prayer times are calculated in your browser from your location and the position of the sun. The site picks the most common method for your country, such as ISNA in the US and Canada or Umm al-Qura in Saudi Arabia, and you can change the method or choose the Hanafi Asr time. Your local mosque's timetable is the final word."
+      },
+      {
+        "q": "Does Knowlege.org store my location?",
+        "a": "No. Your location stays in your browser and is never sent to Knowlege.org. City search and place names are looked up with Open-Meteo and BigDataCloud."
+      },
+      {
+        "q": "Can Knowlege.org play the Adhan at prayer time?",
+        "a": "Yes, while Knowlege.org is open in a browser tab, which can be a background tab. Turn on the Adhan option on the Prayer Times page. Browsers do not allow a closed website to play sound."
+      },
+      {
+        "q": "Are the guides on Knowlege.org fatwas?",
+        "a": "No. Knowlege.org explains what the Qur'an, the Sunnah and the four schools teach, with sources, for learning. For a ruling on your own situation, ask a qualified scholar."
+      },
+      {
+        "q": "Can I write a guest post for Knowlege.org?",
+        "a": "Yes. Read the Write for Us guidelines and submit an original, well-sourced article of 600 to 2,000 words in English. An editor reviews it, usually within 7 days, and checks every Qur'an and hadith reference before it is published with your name and bio."
+      },
+      {
+        "q": "I am new to Islam. Where should I start on Knowlege.org?",
+        "a": "Start the Path to Success from the home page. It is a free introduction in 12 milestones, from belief in One God and the life of the Prophet (peace be upon him) to prayer, fasting, zakah, Hajj and daily life, with checkpoints and a place to ask questions."
+      }
+    ],
+    "ayahs": [
+      {
+        "id": "Q 20:114",
+        "ref": "20:114",
+        "surah": "Taa-Haa",
+        "surahNumber": 20,
+        "ayah": 114,
+        "arabic": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمࣰ ا",
+        "english": "Then exalted be Allah, the True King! And hasten not (O Muhammad) with the Qur'an ere its revelation hath been perfected unto thee, and say: My Lord! Increase me in knowledge",
+        "url": "https://quran.com/20/114"
+      },
+      {
+        "id": "Q 39:9",
+        "ref": "39:9",
+        "surah": "Az-Zumar",
+        "surahNumber": 39,
+        "ayah": 9,
+        "arabic": "أَمَّنۡ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيۡلِ سَاجِدࣰ ا وَقَآئِمࣰ ا يَحۡذَرُ ٱلۡأٓخِرَةَ وَيَرۡجُواْ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ يَسۡتَوِي ٱلَّذِينَ يَعۡلَمُونَ وَٱلَّذِينَ لَا يَعۡلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+        "english": "Is he who payeth adoration in the watches of the night, prostrate and standing, bewaring of the Hereafter and hoping for the mercy of his Lord, (to be accounted equal with a disbeliever)? Say (unto them, O Muhammad): Are those who know equal with those who know not? But only men of understanding will pay heed",
+        "url": "https://quran.com/39/9"
+      },
+      {
+        "id": "Q 16:43",
+        "ref": "16:43",
+        "surah": "An-Nahl",
+        "surahNumber": 16,
+        "ayah": 43,
+        "arabic": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+        "english": "And We sent not (as Our messengers) before thee other than men whom We inspired - Ask the followers of the Remembrance if ye know not! -",
+        "url": "https://quran.com/16/43"
+      },
+      {
+        "id": "Q 2:144",
+        "ref": "2:144",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 144,
+        "arabic": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةًۭ تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+        "english": "We have seen the turning of thy face to heaven (for guidance, O Muhammad). And now verily We shall make thee turn (in prayer) toward a qiblah which is dear to thee. So turn thy face toward the Inviolable Place of Worship, and ye (O Muslims), wheresoever ye may be, turn your faces (when ye pray) toward it. Lo! Those who have received the Scripture know that (this revelation) is the Truth from their Lord. And Allah is not unaware of what they do.",
+        "url": "https://quran.com/2/144"
+      }
+    ],
+    "hadiths": [
+      {
+        "id": "H bukhari 71",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 71,
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ سَمِعْتُ مُعَاوِيَةَ، خَطِيبًا يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ، وَإِنَّمَا أَنَا قَاسِمٌ وَاللَّهُ يُعْطِي، وَلَنْ تَزَالَ هَذِهِ الأُمَّةُ قَائِمَةً عَلَى أَمْرِ اللَّهِ لاَ يَضُرُّهُمْ مَنْ خَالَفَهُمْ حَتَّى يَأْتِيَ أَمْرُ اللَّهِ ‏\"‏‏.‏",
+        "english": "Narrated Muawiya:I heard Allah's Messenger (ﷺ) saying, \"If Allah wants to do good to a person, He makes him comprehend the religion. I am just a distributor, but the grant is from Allah. (And remember) that this nation (true Muslims) will keep on following Allah's teachings strictly and they will not be harmed by any one going on a different path till Allah's order (Day of Judgment) is established",
+        "grades": [],
+        "section": "Knowledge",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/71.json"
+      },
+      {
+        "id": "H bukhari 5027",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 5027,
+        "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثَدٍ، سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عُثْمَانَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ ‏\"‏‏.‏ قَالَ وَأَقْرَأَ أَبُو عَبْدِ الرَّحْمَنِ فِي إِمْرَةِ عُثْمَانَ حَتَّى كَانَ الْحَجَّاجُ، قَالَ وَذَاكَ الَّذِي أَقْعَدَنِي مَقْعَدِي هَذَا‏.‏",
+        "english": "Narrated `Uthman:The Prophet (ﷺ) said, \"The best among you (Muslims) are those who learn the Qur'an and teach it",
+        "grades": [],
+        "section": "Virtues of the Qur'an",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/5027.json"
+      }
+    ],
+    "translation": "Marmaduke Pickthall (1930)",
+    "hadithSource": "hadith-api by fawazahmed0 (open dataset of the six books)",
+    "model": "editorial",
+    "disclaimer": "A guide to Knowlege.org, written by Knowlege.org Editorial. The Qur'an verses and hadith it quotes are shown in full below with their sources. It is not a religious ruling (fatwa); for rulings, ask a qualified scholar."
+  },
+  {
     "slug": "seeking-help-through-patience-and-prayer-2026-10-31",
     "date": "2026-10-31",
     "theme": "Patience",
