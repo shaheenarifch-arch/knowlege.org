@@ -1027,5 +1027,1000 @@
     "hadithSource": "hadith-api by fawazahmed0 (open dataset of the six books)",
     "model": "claude-opus-5-5",
     "disclaimer": "An AI-assisted reflection, written only from the Qur'an verses and hadith shown below. It is not a religious ruling (fatwa); for rulings, ask a qualified scholar."
+  },
+  {
+    "slug": "holy-sites-of-islam-makkah-madinah-al-aqsa-guide",
+    "date": "2026-11-26",
+    "theme": "Guide",
+    "title": "The Holy Sites of Islam: Makkah, Madinah, Al-Aqsa and Other Sacred Places",
+    "summary": "A guide to the holy sites of Islam: Masjid al-Haram, the Prophet's Mosque and Al-Aqsa first, then Arafat, Mina, Quba, Uhud and more, with the Qur'an and hadith behind each one.",
+    "byline": "Knowlege.org Editorial",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_%28cropped%29.jpg/1920px-Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_%28cropped%29.jpg",
+      "alt": "Masjid al-Haram in Makkah, with worshippers around the Ka'bah at its centre",
+      "width": 1920,
+      "height": 1571,
+      "author": "Saudipics.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_(cropped).jpg"
+    },
+    "sections": [
+      {
+        "heading": "What makes a place holy in Islam?",
+        "paragraphs": [
+          "In Islam a place is holy because God has honoured it, not because of its stones. The Qur'an and the authentic Sunnah single out a small number of places, and they rank three mosques above all others: Masjid al-Haram in Makkah, Masjid an-Nabawi in Madinah and al-Masjid al-Aqsa in Jerusalem. The Prophet (peace be upon him) said that journeys for worship are made only to these three [H bukhari 1189].",
+          "Around them are places tied to the story of revelation: the hills of Safa and Marwah, the plain of Arafat, the caves where revelation began and where the Hijrah was sheltered, and the resting places of the Prophet's family and companions. This guide covers each one, starting with the three mosques, then sets out what the four Sunni schools agree on and where scholars differ."
+        ]
+      },
+      {
+        "heading": "The three holiest mosques at a glance",
+        "paragraphs": [
+          "All four Sunni schools agree on the order of honour: Masjid al-Haram first, the Prophet's Mosque second and Al-Aqsa third. Abu Dharr asked the Prophet ﷺ which mosque was built first on earth. He answered Masjid al-Haram, then Al-Aqsa, forty years later [H bukhari 3366]."
+        ],
+        "points": [
+          "Masjid al-Haram, Makkah: home of the Ka'bah, the qiblah of every prayer [Q 2:144]. One prayer here is better than a hundred thousand prayers elsewhere [H ibnmajah 1406].",
+          "Masjid an-Nabawi, Madinah: built by the Prophet ﷺ himself. One prayer here is better than a thousand elsewhere, except Masjid al-Haram [H bukhari 1190].",
+          "Al-Masjid al-Aqsa, Jerusalem: the first qiblah and the destination of the Night Journey [Q 17:1]."
+        ]
+      },
+      {
+        "heading": "Masjid al-Haram and the Ka'bah",
+        "paragraphs": [
+          "At the heart of Makkah, the Prophet's birthplace, stands Masjid al-Haram, the largest mosque in the world, built around the Ka'bah. The Qur'an calls the Ka'bah the first house of worship appointed for mankind, a blessed place and a guidance to the worlds [Q 3:96].",
+          "Ibrahim and his son Isma'il raised its foundations, praying that God would accept it from them [Q 2:127]. Today it is a plain cube of stone draped in the black kiswah, and every Muslim turns towards it in prayer [Q 2:144]. Pilgrims walk around it seven times in tawaf during Hajj and Umrah.",
+          "Makkah is a sanctuary (haram). Whoever enters it is to be safe [Q 3:97], and God swears by \"this land made safe\" [Q 95:3]. Within its boundaries game may not be hunted and its plants may not be cut, a ruling all four schools accept."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg/1280px-The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg",
+          "alt": "The Ka'bah draped in its black kiswah, with pilgrims performing tawaf around it",
+          "width": 1280,
+          "height": 960,
+          "author": "Richard Mortel",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Ka%27ba,_Great_Mosque_of_Mecca,_Saudi_Arabia_(4).jpg"
+        }
+      },
+      {
+        "heading": "The Black Stone (al-Hajar al-Aswad)",
+        "paragraphs": [
+          "Set in the eastern corner of the Ka'bah in a silver frame, the Black Stone marks where each circuit of tawaf begins and ends. Pilgrims kiss it or touch it, or simply raise a hand towards it from a distance when the crowd is heavy.",
+          "Its honour comes from following the Prophet ﷺ, not from any power in the stone. 'Umar ibn al-Khattab kissed it and said: I know you are a stone that can neither harm nor benefit, and had I not seen the Messenger of God kiss you, I would not have kissed you [H bukhari 1597]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6.jpg/1280px-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6.jpg",
+          "alt": "The Black Stone (al-Hajar al-Aswad) in its silver frame at the corner of the Ka'bah",
+          "width": 1280,
+          "height": 1707,
+          "author": "Noor Mohammad Siam",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B8%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6.jpg"
+        }
+      },
+      {
+        "heading": "Maqam Ibrahim: the Station of Ibrahim",
+        "paragraphs": [
+          "A few metres from the Ka'bah, inside a gilded glass case, is the stone on which Ibrahim stood while building the House. The Qur'an names it among the clear signs of the sanctuary [Q 3:97] and commands: take the Station of Ibrahim as a place of prayer [Q 2:125]. After tawaf, pilgrims pray two short units of prayer behind it, or anywhere in the mosque when it is crowded."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Door_of_the_Holy_Kaaba_and_Maqam_Ibrahim_in_the_Grand_Mosque%2C_Makkah_%282025%29.jpg/1280px-Door_of_the_Holy_Kaaba_and_Maqam_Ibrahim_in_the_Grand_Mosque%2C_Makkah_%282025%29.jpg",
+          "alt": "The golden enclosure of Maqam Ibrahim beside the door of the Ka'bah",
+          "width": 1280,
+          "height": 880,
+          "author": "Saudi Press Agency (SPA)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Door_of_the_Holy_Kaaba_and_Maqam_Ibrahim_in_the_Grand_Mosque,_Makkah_(2025).jpg"
+        }
+      },
+      {
+        "heading": "The well of Zamzam",
+        "paragraphs": [
+          "When Ibrahim left Hajar and the infant Isma'il in a valley without crops, he prayed that God would provide for them [Q 14:37]. The spring of Zamzam welled up in that valley, and it has flowed ever since. The well now lies beneath the mosque floor; the photo shows its historic brass well head, kept on display."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%D8%A8%D8%A6%D8%B1_%D8%B2%D9%85%D8%B2%D9%85_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg/1280px-%D8%A8%D8%A6%D8%B1_%D8%B2%D9%85%D8%B2%D9%85_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg",
+          "alt": "The historic brass well head of the Zamzam well on display",
+          "width": 1280,
+          "height": 853,
+          "author": "Mohammad Bahareth",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A8%D8%A6%D8%B1_%D8%B2%D9%85%D8%B2%D9%85_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg"
+        }
+      },
+      {
+        "heading": "Safa and Marwah",
+        "paragraphs": [
+          "Safa and Marwah are two small hills, now joined by a long gallery inside the mosque. Hajar ran between them seven times searching for water for her son. The Qur'an says that Safa and Marwah are among the symbols of God [Q 2:158], so pilgrims walk between them seven times in the sa'i of Hajj and Umrah, remembering her trust in God."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mount_Safa_Mecca.jpg/1280px-Mount_Safa_Mecca.jpg",
+          "alt": "The rock of Mount Safa inside Masjid al-Haram, where the sa'i begins",
+          "width": 1280,
+          "height": 960,
+          "author": "Swerveut",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Safa_Mecca.jpg"
+        }
+      },
+      {
+        "heading": "Mina: the city of tents",
+        "paragraphs": [
+          "Mina is a valley a few kilometres east of Masjid al-Haram. During Hajj it becomes a city of white tents where pilgrims spend the 8th of Dhul Hijjah and the days after Eid. The Prophet ﷺ said the days of Mina are three, and whoever leaves after two days commits no sin [H tirmidhi 889]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mina_Overview.JPG/1280px-Mina_Overview.JPG",
+          "alt": "The white tent city of Mina in the valley east of Makkah",
+          "width": 1280,
+          "height": 960,
+          "author": "Mubeen Rahman",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mina_Overview.JPG"
+        }
+      },
+      {
+        "heading": "Arafat: the heart of Hajj",
+        "paragraphs": [
+          "On the 9th of Dhul Hijjah pilgrims gather on the plain of Arafat, about 20 kilometres from Masjid al-Haram, and stay until sunset in prayer and supplication. Being present at Arafat in its time is the one rite without which there is no Hajj. The Prophet ﷺ had it proclaimed: the Hajj is Arafah, and whoever reaches it before dawn on the following night has still caught the Hajj [H tirmidhi 889].",
+          "The Qur'an speaks of the moment pilgrims pour down from Arafat [Q 2:198]. Many gather near Jabal al-Rahmah, the Mount of Mercy."
+        ],
+        "photo": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Pilgrims_cover_Arafat%27s_roads%2C_plains_and_mountain_-_Flickr_-_Al_Jazeera_English.jpg",
+          "alt": "Pilgrims covering the roads, plain and Mount of Mercy at Arafat",
+          "width": 1024,
+          "height": 684,
+          "author": "Al Jazeera English",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilgrims_cover_Arafat%27s_roads,_plains_and_mountain_-_Flickr_-_Al_Jazeera_English.jpg"
+        }
+      },
+      {
+        "heading": "Muzdalifah",
+        "paragraphs": [
+          "After sunset, pilgrims move to Muzdalifah, an open plain between Arafat and Mina. The Qur'an tells them to remember God at the Sacred Monument, al-Mash'ar al-Haram [Q 2:198]. They pray Maghrib and Isha together, rest under the open sky, and many collect small pebbles there for the stoning in Mina."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Fajr_in_Muzdalifah.jpg/1280px-Fajr_in_Muzdalifah.jpg",
+          "alt": "Pilgrims at Muzdalifah at dawn after a night under the open sky",
+          "width": 1280,
+          "height": 853,
+          "author": "Arisdp",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fajr_in_Muzdalifah.jpg"
+        }
+      },
+      {
+        "heading": "The Jamarat",
+        "paragraphs": [
+          "In Mina stand three stone pillars, now long walls inside a multi-level bridge built to keep pilgrims safe. On the 10th of Dhul Hijjah pilgrims throw seven pebbles at the largest, Jamrat al-'Aqabah, and on the days that follow at all three, saying God is greatest with each throw. The rite follows the Sunnah of the Prophet ﷺ, and a report from Ibn 'Abbas links it to Ibrahim rejecting Satan."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Jamaraat_Bridge_2.jpg/1280px-Jamaraat_Bridge_2.jpg",
+          "alt": "The multi-level Jamarat bridge in Mina",
+          "width": 1280,
+          "height": 853,
+          "author": "saudipics",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jamaraat_Bridge_2.jpg"
+        }
+      },
+      {
+        "heading": "The Cave of Hira",
+        "paragraphs": [
+          "On Jabal al-Nur, the Mountain of Light, is the small cave where the Prophet ﷺ used to spend nights in worship before prophethood. Here, in Ramadan, the angel Jibril brought the first words of the Qur'an: Read in the name of your Lord who created [Q 96:1]. Visitors climb for the history and the view; there is no special prayer or rite at the cave."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hira_Cave.jpg/1280px-Hira_Cave.jpg",
+          "alt": "Visitors at the narrow entrance of the Cave of Hira on Jabal al-Nur",
+          "width": 1280,
+          "height": 854,
+          "author": "saudipics",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hira_Cave.jpg"
+        }
+      },
+      {
+        "heading": "The Cave of Thawr",
+        "paragraphs": [
+          "South of Makkah, on Jabal Thawr, the Prophet ﷺ and Abu Bakr hid for three nights at the start of the Hijrah while their enemies searched the hills. The Qur'an records the Prophet telling his companion: do not grieve, God is with us [Q 9:40]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jabl_e_Thawr.jpg/1280px-Jabl_e_Thawr.jpg",
+          "alt": "The great rock of the Cave of Thawr on the summit of Jabal Thawr",
+          "width": 1280,
+          "height": 960,
+          "author": "King Eliot",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jabl_e_Thawr.jpg"
+        }
+      },
+      {
+        "heading": "Jannat al-Mu'alla",
+        "paragraphs": [
+          "Makkah's oldest cemetery lies north of Masjid al-Haram. Khadijah, the Prophet's first wife and the first person to believe in him, is buried here with members of his family and many early Muslims. Visitors greet the dead and pray for them. The Prophet ﷺ allowed the visiting of graves because it reminds us of the Hereafter [H tirmidhi 1054]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Jannat_ul_Mualla_Cemetery.jpg/1280px-Jannat_ul_Mualla_Cemetery.jpg",
+          "alt": "Simple graves in Jannat al-Mu'alla cemetery in Makkah",
+          "width": 1280,
+          "height": 720,
+          "author": "Tubi719",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jannat_ul_Mualla_Cemetery.jpg"
+        }
+      },
+      {
+        "heading": "Madinah: the City of the Prophet",
+        "paragraphs": [
+          "Madinah, once called Yathrib, welcomed the Prophet ﷺ in 622 CE after the Hijrah. It is where he lived, taught and is buried, and he declared it a sanctuary: its trees are not to be cut and no evil is to be introduced there [H bukhari 1867].",
+          "Visiting Madinah is not part of Hajj or Umrah, but most pilgrims travel there before or after to pray in the Prophet's Mosque and greet him."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mezquita_del_Profeta%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_01.jpg/1280px-Mezquita_del_Profeta%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_01.jpg",
+          "alt": "Panorama of Masjid an-Nabawi in Madinah with its minarets and courtyard umbrellas",
+          "width": 1280,
+          "height": 661,
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_del_Profeta,_Medina,_Arabia_Saudita,_2025-05-22,_DD_01.jpg"
+        }
+      },
+      {
+        "heading": "Masjid an-Nabawi: the Prophet's Mosque",
+        "paragraphs": [
+          "The Prophet ﷺ helped build this mosque with his own hands from palm trunks and mud brick. It has been expanded many times since, with sliding domes and giant umbrellas that shade its courtyards.",
+          "Its virtue is stated plainly: one prayer in it is better than a thousand prayers in any other mosque, except Masjid al-Haram [H bukhari 1190]. It is the second of the three mosques to which journeys for worship are made [H bukhari 1189]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/1280px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+          "alt": "Bird's-eye view of Masjid an-Nabawi and its courtyards",
+          "width": 1280,
+          "height": 853,
+          "author": "Konevi",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Masjid_An-Nabawi_(Bird%27s_Eye_View).jpg"
+        }
+      },
+      {
+        "heading": "The Rawdah and the Green Dome",
+        "paragraphs": [
+          "Between the Prophet's house and his pulpit lies a small area marked by green carpet. The Prophet ﷺ said: between my house and my pulpit is a garden from the gardens of Paradise [H bukhari 1196]. Visitors hope to pray there, and entry is now managed by appointment, so check the current arrangements before you go.",
+          "The Green Dome rises above the room where the Prophet ﷺ is buried. A dome was first built there in 1279 CE and was first painted green in the nineteenth century. It has become the best-known image of Madinah."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg/1280px-Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_%28Al_Masjid-e-Nabawi%29.jpg",
+          "alt": "The Green Dome and minarets of Masjid an-Nabawi, the Prophet's Mosque in Madinah",
+          "width": 1280,
+          "height": 853,
+          "author": "TheHadiRahim",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_shot_of_the_Green_Dome_at_The_Prophet%27s_Mosque_(Al_Masjid-e-Nabawi).jpg"
+        }
+      },
+      {
+        "heading": "Greeting the Prophet ﷺ at his grave",
+        "paragraphs": [
+          "The Prophet ﷺ is buried in the room of his wife 'A'ishah, now inside the mosque behind a brass grille, with Abu Bakr and 'Umar beside him. Visitors stand calmly, greet him with salam, then greet his two companions, and move on so others can come forward.",
+          "The Qur'an's command to lower voices in the Prophet's presence [Q 49:2] is applied by scholars at his grave too, so this is a place for quiet respect, not crowding or calling out. Du'a is made to God alone."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mrs_Aisha_room.jpg/1280px-Mrs_Aisha_room.jpg",
+          "alt": "Visitors before the brass grille of the Prophet's chamber in Masjid an-Nabawi",
+          "width": 1280,
+          "height": 960,
+          "author": "Aiman titi",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mrs_Aisha_room.jpg"
+        }
+      },
+      {
+        "heading": "Masjid Quba",
+        "paragraphs": [
+          "Quba, on the southern edge of Madinah, is the first mosque built in Islam. The Prophet ﷺ laid its foundations when he arrived from Makkah, before entering the city. Many commentators link it to the Qur'an's praise of a mosque founded on piety from the first day [Q 9:108].",
+          "The Prophet ﷺ used to visit Quba every Saturday, sometimes walking and sometimes riding, and Ibn 'Umar kept up the practice [H bukhari 1193]."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mezquita_de_Quba%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_16-18_HDR.jpg/1280px-Mezquita_de_Quba%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_16-18_HDR.jpg",
+          "alt": "Masjid Quba in Madinah, the first mosque built in Islam",
+          "width": 1280,
+          "height": 1051,
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_de_Quba,_Medina,_Arabia_Saudita,_2025-05-22,_DD_16-18_HDR.jpg"
+        }
+      },
+      {
+        "heading": "Masjid al-Qiblatayn",
+        "paragraphs": [
+          "For some months after the Hijrah, Muslims prayed towards Jerusalem. Then the command came to turn towards Masjid al-Haram [Q 2:144]. Tradition places the moment of the change at this mosque of the Banu Salimah, where the congregation turned mid-prayer, which is why it is called the Mosque of the Two Qiblahs."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Masjid_al-Qiblatain.jpg/1280px-Masjid_al-Qiblatain.jpg",
+          "alt": "Masjid al-Qiblatayn, the Mosque of the Two Qiblahs, in Madinah",
+          "width": 1280,
+          "height": 960,
+          "author": "Aiman titi",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_al-Qiblatain.jpg"
+        }
+      },
+      {
+        "heading": "Jannat al-Baqi'",
+        "paragraphs": [
+          "Al-Baqi', beside the Prophet's Mosque, is Madinah's main cemetery. Thousands of companions rest there, among them 'Uthman ibn 'Affan, several of the Prophet's wives and daughters, and his infant son Ibrahim. The Prophet ﷺ used to go out to al-Baqi' to pray for the believers buried there."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Al-Baqi_Cemetery_2021.jpg/1280px-Al-Baqi_Cemetery_2021.jpg",
+          "alt": "Simple graves of Jannat al-Baqi' with the minarets of Masjid an-Nabawi behind",
+          "width": 1280,
+          "height": 960,
+          "author": "Saleh Al Hussain",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Baqi_Cemetery_2021.jpg"
+        }
+      },
+      {
+        "heading": "Mount Uhud",
+        "paragraphs": [
+          "North of the city rises Mount Uhud, where the Battle of Uhud was fought in 3 AH (625 CE). Around seventy companions were martyred, including the Prophet's uncle Hamzah ibn 'Abd al-Muttalib, and they are buried at the foot of the mountain. Visitors pray for the martyrs and remember the lessons of that day."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Monte_Uhud%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_06.jpg/1280px-Monte_Uhud%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_06.jpg",
+          "alt": "Mount Uhud on the northern edge of Madinah",
+          "width": 1280,
+          "height": 853,
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Uhud,_Medina,_Arabia_Saudita,_2025-05-22,_DD_06.jpg"
+        }
+      },
+      {
+        "heading": "Al-Masjid al-Aqsa: the Farthest Mosque",
+        "paragraphs": [
+          "Jerusalem holds the third holiest mosque in Islam. Surah al-Isra opens with the Night Journey: glorified be He who carried His servant by night from Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed [Q 17:1]. From there the Prophet ﷺ was taken up through the heavens in the Mi'raj.",
+          "Al-Aqsa was the first qiblah of the Muslims and the second mosque built on earth, forty years after Masjid al-Haram [H bukhari 3366]. Most scholars use the name for the whole walled compound, often called al-Haram al-Sharif. It covers about 14 hectares and includes the Qibli Mosque, the Dome of the Rock, open courtyards and old schools."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/1280px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg",
+          "alt": "Aerial view of the al-Aqsa compound (al-Haram al-Sharif) in Jerusalem, with the Dome of the Rock and the Qibli Mosque",
+          "width": 1280,
+          "height": 961,
+          "author": "Godot13",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem-2013(2)-Aerial-Temple_Mount-(south_exposure).jpg"
+        }
+      },
+      {
+        "heading": "The Qibli Mosque",
+        "paragraphs": [
+          "The congregational mosque with the grey dome at the southern end of the compound is often what people mean by Al-Aqsa Mosque. It is called the Qibli Mosque because it stands on the side that faces Makkah.",
+          "Access for worshippers is often restricted, so anyone planning a visit should check current conditions and official travel advice first."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg/1280px-Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg",
+          "alt": "The Qibli Mosque with its grey dome at the southern end of the al-Aqsa compound",
+          "width": 1280,
+          "height": 688,
+          "author": "Godot13",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_(NE_exposure).jpg"
+        }
+      },
+      {
+        "heading": "The Dome of the Rock",
+        "paragraphs": [
+          "The golden dome in the centre of the compound was completed around 691 CE under the Umayyad caliph 'Abd al-Malik ibn Marwan, which makes it one of the oldest surviving Islamic buildings. It shelters the rock linked by tradition to the Prophet's ascent in the Mi'raj. According to most scholars it is part of al-Masjid al-Aqsa, so prayer anywhere within the compound shares in the virtue of Al-Aqsa."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG/1280px-Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG",
+          "alt": "The Dome of the Rock with its golden dome and blue tiled walls",
+          "width": 1280,
+          "height": 864,
+          "author": "Ludvig14",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem_DomeoftheRock_J65_(cropped).JPG"
+        }
+      },
+      {
+        "heading": "Other places Muslims honour",
+        "paragraphs": [
+          "Beyond the three sanctuaries, Muslims honour places linked to earlier prophets and to the Prophet's family. They are visited for history, reflection and prayer for the dead, but no school of law gives them the rank of the three mosques or prescribes special rites there."
+        ]
+      },
+      {
+        "heading": "The Ibrahimi Mosque, Hebron",
+        "paragraphs": [
+          "In the city of al-Khalil (Hebron) stands the mosque built over the Cave of the Patriarchs, the traditional burial place of Ibrahim, Ishaq and Ya'qub and their wives. The city's Arabic name comes from Ibrahim's title, Khalil Allah, the friend of God."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Hebron_Cave_of_the_Patriarchs.jpg/1280px-Hebron_Cave_of_the_Patriarchs.jpg",
+          "alt": "The Ibrahimi Mosque over the Cave of the Patriarchs in Hebron",
+          "width": 1280,
+          "height": 960,
+          "author": "Djampa",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hebron_Cave_of_the_Patriarchs.jpg"
+        }
+      },
+      {
+        "heading": "The Umayyad Mosque, Damascus",
+        "paragraphs": [
+          "Built in the early eighth century under the caliph al-Walid I, the Umayyad Mosque is one of the oldest and grandest mosques in the world. Inside is a shrine that tradition says holds the head of the Prophet Yahya (John the Baptist), and one of its minarets is named after 'Isa (Jesus)."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Umayyad_Mosque%2C_Damascus.jpg/1280px-Umayyad_Mosque%2C_Damascus.jpg",
+          "alt": "The courtyard and minaret of the Umayyad Mosque in Damascus",
+          "width": 1280,
+          "height": 860,
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umayyad_Mosque,_Damascus.jpg"
+        }
+      },
+      {
+        "heading": "Mount Sinai (Tur Sina)",
+        "paragraphs": [
+          "God swears by Mount Sinai in Surah al-Tin [Q 95:2], alongside \"this land made safe\", which the commentators explain as Makkah [Q 95:3]. It is linked with Musa, who spoke with God and received revelation, a reminder that Islam honours the whole line of prophets."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mount_Sinai_from_the_southwest.jpg/1280px-Mount_Sinai_from_the_southwest.jpg",
+          "alt": "Mount Sinai seen from the southwest",
+          "width": 1280,
+          "height": 853,
+          "author": "Gerd Eichmann",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Sinai_from_the_southwest.jpg"
+        }
+      },
+      {
+        "heading": "Najaf and Karbala",
+        "paragraphs": [
+          "In Iraq, Najaf holds the shrine of 'Ali ibn Abi Talib, the fourth caliph and the Prophet's cousin, and Karbala holds the shrine of his son al-Husayn, martyred there in 680 CE. Shia Muslims count them among their holiest places, and millions visit each year.",
+          "Sunni Muslims also love and honour 'Ali and al-Husayn as members of the Prophet's household. Sunni scholars treat a visit there like any other visit to graves: greeting the dead and praying for them, with no special rites."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Shrine_of_Imam_Ali_Najaf_August_2023.jpg/1280px-Shrine_of_Imam_Ali_Najaf_August_2023.jpg",
+          "alt": "The golden dome of the shrine of 'Ali ibn Abi Talib in Najaf",
+          "width": 1280,
+          "height": 853,
+          "author": "Goudarz.memar",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrine_of_Imam_Ali_Najaf_August_2023.jpg"
+        }
+      },
+      {
+        "heading": "What the four Sunni schools agree on",
+        "paragraphs": [
+          "The Hanafi, Maliki, Shafi'i and Hanbali schools share these core positions on the holy sites."
+        ],
+        "points": [
+          "The three mosques are the most virtuous places on earth for worship, in the order Makkah, Madinah, Jerusalem [H bukhari 1189].",
+          "Every Muslim faces the Ka'bah in prayer [Q 2:144].",
+          "Hajj to the House is a duty once in a lifetime for every adult Muslim who is able to make the journey [Q 3:97].",
+          "Being present at Arafat is the heart of Hajj; without it there is no Hajj [H tirmidhi 889].",
+          "Makkah is a sanctuary where hunting and cutting its plants are forbidden.",
+          "Visiting graves to greet and pray for the dead is permitted, because it is a reminder of the Hereafter [H tirmidhi 1054].",
+          "Historic places such as the caves of Hira and Thawr may be visited, but no act of worship is prescribed specially for them."
+        ]
+      },
+      {
+        "heading": "Where scholars differ",
+        "paragraphs": [
+          "On a few questions the schools and leading scholars reach different conclusions. Each view rests on evidence, so follow your own school or a scholar you trust."
+        ],
+        "points": [
+          "Madinah's sanctuary: the Maliki, Shafi'i and Hanbali schools apply rules like Makkah's, so its trees are not cut and its game is not hunted [H bukhari 1867]. The Hanafi school honours Madinah fully but does not apply Makkah's prohibitions there.",
+          "The sa'i between Safa and Marwah [Q 2:158]: the Maliki, Shafi'i and Hanbali schools count it a pillar of Hajj and Umrah. The Hanafi school counts it obligatory (wajib), so a missed sa'i is made up with a sacrifice.",
+          "Travelling to visit the Prophet's grave: scholars agree that greeting him at his grave is recommended, and most hold that travelling for it is commendable. Ibn Taymiyyah and those who follow him held that the journey should be made for the Prophet's Mosque [H bukhari 1189], with the greeting at the grave following from it.",
+          "Where the multiplied reward applies: many scholars hold that the hundred-thousandfold reward [H ibnmajah 1406] covers the whole sanctuary of Makkah, while others limit it to the mosque. For the Prophet's Mosque, al-Nawawi limited the reward to its area in the Prophet's time, while many others include the later extensions.",
+          "The mosque founded on piety [Q 9:108]: many commentators say it is Quba, others say the Prophet's Mosque. Both were founded on piety."
+        ]
+      },
+      {
+        "heading": "Etiquette for visitors",
+        "paragraphs": [
+          "How you visit matters as much as where you go."
+        ],
+        "points": [
+          "Make your intention for God alone, and learn the rites before you travel.",
+          "Stay calm and patient in crowds. The Qur'an forbids lewdness, abuse and angry quarrelling on Hajj [Q 2:197], and the Prophet ﷺ said whoever performs Hajj that way returns free of sin, as on the day he was born [H bukhari 1521].",
+          "Lower your voice in the Prophet's Mosque and at his grave [Q 49:2].",
+          "Touching the Black Stone is a Sunnah, but harming others to reach it is forbidden; a raised hand from a distance is enough.",
+          "Keep to what the Sunnah teaches, as 'Umar did at the Black Stone [H bukhari 1597]. Scholars have long discouraged rubbing walls, grilles or graves for blessing.",
+          "Check current entry rules, permits and travel advice before you go. The sanctuary of Makkah is open to Muslims only."
+        ],
+        "photo": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mezquita_del_Profeta%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_02.jpg/1280px-Mezquita_del_Profeta%2C_Medina%2C_Arabia_Saudita%2C_2025-05-22%2C_DD_02.jpg",
+          "alt": "Worshippers walking calmly in the courtyard of Masjid an-Nabawi",
+          "width": 1280,
+          "height": 853,
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_del_Profeta,_Medina,_Arabia_Saudita,_2025-05-22,_DD_02.jpg"
+        }
+      },
+      {
+        "heading": "Donate for practical demonstration of Islamic values",
+        "paragraphs": [
+          "The holy sites teach the same lesson again and again: worship is meant to change how we treat people. Hajar's search for water, Ibrahim's prayer for provision and the Eid sacrifice shared with the poor all point to giving. Charity (sadaqah) is how those values leave the mosque and reach a neighbour in need.",
+          "The Qur'an compares wealth spent in God's way to a grain that grows seven ears, each with a hundred grains [Q 2:261], and it says you will not attain righteousness until you spend from what you love [Q 3:92]. The Prophet ﷺ said: save yourself from the Fire, even with half a date given in charity [H bukhari 1417]. No gift is too small.",
+          "Knowlege.org does not accept donations itself. Our Verified Charity Directory is where reviewed organisations are listed once they pass checks on legal registration, official payment details and safeguarding, so you can give with confidence."
+        ],
+        "links": [
+          {
+            "href": "/charity",
+            "label": "Visit the Verified Charity Directory"
+          },
+          {
+            "href": "/knowledge-hub/zakah",
+            "label": "Learn how zakah works"
+          }
+        ]
+      },
+      {
+        "heading": "Keep learning on Knowlege.org",
+        "paragraphs": [
+          "Go further with the places, practices and sources in this guide."
+        ],
+        "links": [
+          {
+            "href": "/holy-sites",
+            "label": "See the holy sites of Makkah, Madinah and Jerusalem"
+          },
+          {
+            "href": "/prayer-times",
+            "label": "Find today's prayer times and the Qibla direction"
+          },
+          {
+            "href": "/islamic-calendar",
+            "label": "Check the Hijri date and when Dhul Hijjah begins"
+          },
+          {
+            "href": "/quran",
+            "label": "Read the Qur'an with translation"
+          },
+          {
+            "href": "/hadith",
+            "label": "Search the hadith library"
+          },
+          {
+            "href": "/knowledge-hub",
+            "label": "Browse the Knowledge Hub guides across the four schools"
+          },
+          {
+            "href": "/newsletter",
+            "label": "Subscribe to the Knowlege Letter"
+          },
+          {
+            "href": "/write-for-us",
+            "label": "Share what you learned on your visit: write for us"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are the three holiest sites in Islam?",
+        "a": "Masjid al-Haram in Makkah, home of the Ka'bah; Masjid an-Nabawi, the Prophet's Mosque in Madinah; and al-Masjid al-Aqsa in Jerusalem. In Sahih al-Bukhari the Prophet ﷺ said journeys for worship are made only to these three mosques."
+      },
+      {
+        "q": "Why do Muslims face the Ka'bah when they pray?",
+        "a": "Because God commanded it. Surah al-Baqarah tells the Prophet ﷺ and the believers to turn their faces towards Masjid al-Haram wherever they are. The Ka'bah is a direction that unites Muslims in prayer, not an object of worship."
+      },
+      {
+        "q": "What is the most important rite of Hajj?",
+        "a": "Being present at Arafat on the 9th of Dhul Hijjah. The Prophet ﷺ said: the Hajj is Arafah. All four schools agree that a pilgrim who misses Arafat has missed the Hajj."
+      },
+      {
+        "q": "What is the Rawdah in Masjid an-Nabawi?",
+        "a": "The area between the Prophet's house and his pulpit, which he called a garden from the gardens of Paradise. It is marked with green carpet, and entry is managed by appointment, so check the current arrangements before visiting."
+      },
+      {
+        "q": "Why is Al-Aqsa important to Muslims?",
+        "a": "It was the first qiblah, the destination of the Night Journey described in Surah al-Isra, and the second mosque built on earth, forty years after Masjid al-Haram. It is the third of the three mosques honoured above all others."
+      },
+      {
+        "q": "Is the Dome of the Rock the same as Al-Aqsa Mosque?",
+        "a": "Not exactly. The Dome of the Rock is the golden-domed shrine in the centre of the compound, and the Qibli Mosque is the congregational mosque at its southern end. Most scholars treat the whole compound as al-Masjid al-Aqsa, so both belong to it."
+      },
+      {
+        "q": "How can I live the lessons of the holy sites at home?",
+        "a": "Pray on time facing the Ka'bah, keep the calm and courtesy of the sanctuaries in daily life, and give in charity. The Qur'an says you will not attain righteousness until you spend from what you love. Our Verified Charity Directory lists reviewed organisations once they pass checks."
+      }
+    ],
+    "ayahs": [
+      {
+        "id": "Q 2:144",
+        "ref": "2:144",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 144,
+        "arabic": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةًۭ تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+        "english": "We have seen the turning of thy face to heaven (for guidance, O Muhammad). And now verily We shall make thee turn (in prayer) toward a qiblah which is dear to thee. So turn thy face toward the Inviolable Place of Worship, and ye (O Muslims), wheresoever ye may be, turn your faces (when ye pray) toward it. Lo! Those who have received the Scripture know that (this revelation) is the Truth from their Lord. And Allah is not unaware of what they do.",
+        "url": "https://quran.com/2/144"
+      },
+      {
+        "id": "Q 17:1",
+        "ref": "17:1",
+        "surah": "Al-Israa",
+        "surahNumber": 17,
+        "ayah": 1,
+        "arabic": "سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+        "english": "Glorified be He Who carried His servant by night from the Inviolable Place of Worship to the Far distant place of worship the neighbourhood whereof We have blessed, that We might show him of Our tokens! Lo! He, only He, is the Hearer, the Seer.",
+        "url": "https://quran.com/17/1"
+      },
+      {
+        "id": "Q 3:96",
+        "ref": "3:96",
+        "surah": "Aal-i-Imraan",
+        "surahNumber": 3,
+        "ayah": 96,
+        "arabic": "إِنَّ أَوَّلَ بَيْتٍۢ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًۭا وَهُدًۭى لِّلْعَٰلَمِينَ",
+        "english": "Lo! the first Sanctuary appointed for mankind was that at Becca, a blessed place, a guidance to the peoples;",
+        "url": "https://quran.com/3/96"
+      },
+      {
+        "id": "Q 2:127",
+        "ref": "2:127",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 127,
+        "arabic": "وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+        "english": "And when Abraham and Ishmael were raising the foundations of the House, (Abraham prayed): Our Lord! Accept from us (this duty). Lo! Thou, only Thou, art the Hearer, the Knower.",
+        "url": "https://quran.com/2/127"
+      },
+      {
+        "id": "Q 3:97",
+        "ref": "3:97",
+        "surah": "Aal-i-Imraan",
+        "surahNumber": 3,
+        "ayah": 97,
+        "arabic": "فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ",
+        "english": "Wherein are plain memorials (of Allah's guidance); the place where Abraham stood up to pray; and whosoever entereth it is safe. And pilgrimage to the House is a duty unto Allah for mankind, for him who can find a way thither. As for him who disbelieveth, (let him know that) lo! Allah is Independent of (all) creatures.",
+        "url": "https://quran.com/3/97"
+      },
+      {
+        "id": "Q 95:3",
+        "ref": "95:3",
+        "surah": "At-Tin",
+        "surahNumber": 95,
+        "ayah": 3,
+        "arabic": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+        "english": "And by this land made safe;",
+        "url": "https://quran.com/95/3"
+      },
+      {
+        "id": "Q 2:125",
+        "ref": "2:125",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 125,
+        "arabic": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةًۭ لِّلنَّاسِ وَأَمْنًۭا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّۭى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+        "english": "And when We made the House (at Makka) a resort for mankind and sanctuary, (saying): Take as your place of worship the place where Abraham stood (to pray). And We imposed a duty upon Abraham and Ishmael, (saying): Purify My house for those who go around and those who meditate therein and those who bow down and prostrate themselves (in worship).",
+        "url": "https://quran.com/2/125"
+      },
+      {
+        "id": "Q 14:37",
+        "ref": "14:37",
+        "surah": "Ibrahim",
+        "surahNumber": 14,
+        "ayah": 37,
+        "arabic": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+        "english": "Our Lord! Lo! I have settled some of my posterity in an uncultivable valley near unto Thy holy House, our Lord! that they may establish proper worship; so incline some hearts of men that they may yearn toward them, and provide Thou them with fruits in order that they may be thankful.",
+        "url": "https://quran.com/14/37"
+      },
+      {
+        "id": "Q 2:158",
+        "ref": "2:158",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 158,
+        "arabic": "۞ إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًۭا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+        "english": "Lo! (the mountains) As-Safa and Al-Marwah are among the indications of Allah. It is therefore no sin for him who is on pilgrimage to the House (of Allah) or visiteth it, to go around them (as the pagan custom is). And he who doeth good of his own accord, (for him) lo! Allah is Responsive, Aware.",
+        "url": "https://quran.com/2/158"
+      },
+      {
+        "id": "Q 2:198",
+        "ref": "2:198",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 198,
+        "arabic": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًۭا مِّن رَّبِّكُمْ ۚ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍۢ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ ۖ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+        "english": "It is no sin for you that ye seek the bounty of your Lord (by trading). But, when ye press on in the multitude from 'Arafat, remember Allah by the sacred monument. Remember Him as He hath guided you, although before ye were of those astray.",
+        "url": "https://quran.com/2/198"
+      },
+      {
+        "id": "Q 96:1",
+        "ref": "96:1",
+        "surah": "Al-Alaq",
+        "surahNumber": 96,
+        "ayah": 1,
+        "arabic": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+        "english": "Read: In the name of thy Lord Who createth",
+        "url": "https://quran.com/96/1"
+      },
+      {
+        "id": "Q 9:40",
+        "ref": "9:40",
+        "surah": "At-Tawba",
+        "surahNumber": 9,
+        "ayah": 40,
+        "arabic": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+        "english": "If ye help him not, still Allah helped him when those who disbelieve drove him forth, the second of two; when they two were in the cave, when he said unto his comrade: Grieve not. Lo! Allah is with us. Then Allah caused His peace of reassurance to descend upon him and supported him with hosts ye cannot see, and made the word of those who disbelieved the nethermost, while Allah's Word it was that became the uppermost. Allah is Mighty, Wise.",
+        "url": "https://quran.com/9/40"
+      },
+      {
+        "id": "Q 49:2",
+        "ref": "49:2",
+        "surah": "Al-Hujuraat",
+        "surahNumber": 49,
+        "ayah": 2,
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+        "english": "O ye who believe! Lift not up your voices above the voice of the Prophet, nor shout when speaking to him as ye shout one to another, lest your works be rendered vain while ye perceive not.",
+        "url": "https://quran.com/49/2"
+      },
+      {
+        "id": "Q 9:108",
+        "ref": "9:108",
+        "surah": "At-Tawba",
+        "surahNumber": 9,
+        "ayah": 108,
+        "arabic": "لَا تَقُمْ فِيهِ أَبَدًۭا ۚ لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌۭ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ ۚ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+        "english": "Never stand (to pray) there. A place of worship which was found upon duty (to Allah) from the first day is more worthy that thou shouldst stand (to pray) therein, wherein are men who love to purify themselves. Allah loveth the purifiers.",
+        "url": "https://quran.com/9/108"
+      },
+      {
+        "id": "Q 95:2",
+        "ref": "95:2",
+        "surah": "At-Tin",
+        "surahNumber": 95,
+        "ayah": 2,
+        "arabic": "وَطُورِ سِينِينَ",
+        "english": "By Mount Sinai,",
+        "url": "https://quran.com/95/2"
+      },
+      {
+        "id": "Q 2:197",
+        "ref": "2:197",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 197,
+        "arabic": "ٱلْحَجُّ أَشْهُرٌۭ مَّعْلُومَٰتٌۭ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ",
+        "english": "The pilgrimage is (in) the well-known months, and whoever is minded to perform the pilgrimage therein (let him remember that) there is (to be) no lewdness nor abuse nor angry conversation on the pilgrimage. And whatsoever good ye do Allah knoweth it. So make provision for yourselves (Hereafter); for the best provision is to ward off evil. Therefore keep your duty unto Me, O men of understanding.",
+        "url": "https://quran.com/2/197"
+      },
+      {
+        "id": "Q 2:261",
+        "ref": "2:261",
+        "surah": "Al-Baqara",
+        "surahNumber": 2,
+        "ayah": 261,
+        "arabic": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتۡ سَبۡعَ سَنَابِلَ فِي كُلِّ سُنۢبُلَةࣲ مِّاْئَةُ حَبَّةࣲۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+        "english": "The likeness of those who spend their wealth in Allah's way is as the likeness of a grain which groweth seven ears, in every ear a hundred grains. Allah giveth increase manifold to whom He will. Allah is All-Embracing, All-Knowing",
+        "url": "https://quran.com/2/261"
+      },
+      {
+        "id": "Q 3:92",
+        "ref": "3:92",
+        "surah": "Aal-i-Imraan",
+        "surahNumber": 3,
+        "ayah": 92,
+        "arabic": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ",
+        "english": "Ye will not attain unto piety until ye spend of that which ye love. And whatsoever ye spend, Allah is Aware thereof.",
+        "url": "https://quran.com/3/92"
+      }
+    ],
+    "hadiths": [
+      {
+        "id": "H bukhari 1189",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1189,
+        "arabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُشَدُّ الرِّحَالُ إِلاَّ إِلَى ثَلاَثَةِ مَسَاجِدَ الْمَسْجِدِ الْحَرَامِ، وَمَسْجِدِ الرَّسُولِ صلى الله عليه وسلم وَمَسْجِدِ الأَقْصَى ‏\"‏‏.‏",
+        "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Do not set out on a journey except for three Mosques i.e. Al-Masjid-Al-Haram, the Mosque of Allah's Messenger (ﷺ) , and the Mosque of Al-Aqsa, (Mosque of Jerusalem)",
+        "grades": [],
+        "section": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1189.json"
+      },
+      {
+        "id": "H bukhari 3366",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 3366,
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا إِبْرَاهِيمُ التَّيْمِيُّ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ أَبَا ذَرٍّ ـ رضى الله عنه ـ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ، أَىُّ مَسْجِدٍ وُضِعَ فِي الأَرْضِ أَوَّلُ قَالَ ‏\"‏ الْمَسْجِدُ الْحَرَامُ ‏\"‏‏.‏ قَالَ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ الْمَسْجِدُ الأَقْصَى ‏\"‏‏.‏ قُلْتُ كَمْ كَانَ بَيْنَهُمَا قَالَ ‏\"‏ أَرْبَعُونَ سَنَةً، ثُمَّ أَيْنَمَا أَدْرَكَتْكَ الصَّلاَةُ بَعْدُ فَصَلِّهْ، فَإِنَّ الْفَضْلَ فِيهِ ‏\"‏‏.‏",
+        "english": "Narrated Abu Dhar:I said, \"O Allah's Messenger (ﷺ)! Which mosque was first built on the surface of the earth?\" He said, \"Al-Masjid-ul-Haram (in Mecca).\" I said, \"Which was built next?\" He replied, \"The mosque of Al-Aqsa (in Jerusalem) .\" I said, \"What was the period of construction between the two?\" He said, \"Forty years.\" He added, \"Wherever (you may be, and) the prayer time becomes due, perform the prayer there, for the best thing is to do so (i.e. to offer the prayers in time)",
+        "grades": [],
+        "section": "Prophets",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/3366.json"
+      },
+      {
+        "id": "H ibnmajah 1406",
+        "collection": "ibnmajah",
+        "book": "Sunan Ibn Majah",
+        "number": 1406,
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَسَدٍ، حَدَّثَنَا زَكَرِيَّا بْنُ عَدِيٍّ، أَنْبَأَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ صَلاَةٌ فِي مَسْجِدِي أَفْضَلُ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ. إِلاَّ الْمَسْجِدَ الْحَرَامَ. وَصَلاَةٌ فِي الْمَسْجِدِ الْحَرَامِ أَفْضَلُ مِنْ مِائَةِ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ ‏\"‏ ‏.‏",
+        "english": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:“One prayer in my mosque is better than one thousand prayers elsewhere, except the Sacred Mosque, and one prayer in the Sacred Mosque is better than one hundred thousand prayers elsewhere.”",
+        "grades": [
+          {
+            "name": "Al-Albani",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Muhammad Fouad Abd al-Baqi",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Shuaib Al Arnaut",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Zubair Ali Zai",
+            "grade": "Isnaad Sahih"
+          }
+        ],
+        "section": "Establishing the Prayer and the Sunnah Regarding Them",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-ibnmajah/1406.json"
+      },
+      {
+        "id": "H bukhari 1190",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1190,
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ زَيْدِ بْنِ رَبَاحٍ، وَعُبَيْدِ اللَّهِ بْنِ أَبِي عَبْدِ اللَّهِ الأَغَرِّ، عَنْ أَبِي عَبْدِ اللَّهِ الأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ صَلاَةٌ فِي مَسْجِدِي هَذَا خَيْرٌ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ إِلاَّ الْمَسْجِدَ الْحَرَامَ ‏\"‏‏.‏",
+        "english": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"One prayer in my Mosque is better than one thousand prayers in any other mosque excepting Al-Masjid-Al-Haram",
+        "grades": [],
+        "section": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1190.json"
+      },
+      {
+        "id": "H bukhari 1597",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1597,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَابِسِ بْنِ رَبِيعَةَ، عَنْ عُمَرَ ـ رضى الله عنه ـ أَنَّهُ جَاءَ إِلَى الْحَجَرِ الأَسْوَدِ فَقَبَّلَهُ، فَقَالَ إِنِّي أَعْلَمُ أَنَّكَ حَجَرٌ لاَ تَضُرُّ وَلاَ تَنْفَعُ، وَلَوْلاَ أَنِّي رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُقَبِّلُكَ مَا قَبَّلْتُكَ‏.‏",
+        "english": "Narrated `Abis bin Rabi`a:`Umar came near the Black Stone and kissed it and said \"No doubt, I know that you are a stone and can neither benefit anyone nor harm anyone. Had I not seen Allah's Messenger (ﷺ) kissing you I would not have kissed you",
+        "grades": [],
+        "section": "Hajj (Pilgrimage)",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1597.json"
+      },
+      {
+        "id": "H tirmidhi 889",
+        "collection": "tirmidhi",
+        "book": "Jami' at-Tirmidhi",
+        "number": 889,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ بُكَيْرِ بْنِ عَطَاءٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ، أَنَّ نَاسًا، مِنْ أَهْلِ نَجْدٍ أَتَوْا رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ بِعَرَفَةَ فَسَأَلُوهُ فَأَمَرَ مُنَادِيًا فَنَادَى ‏ \"‏ الْحَجُّ عَرَفَةُ مَنْ جَاءَ لَيْلَةَ جَمْعٍ قَبْلَ طُلُوعِ الْفَجْرِ فَقَدْ أَدْرَكَ الْحَجَّ أَيَّامُ مِنًى ثَلاَثَةٌ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلاَ إِثْمَ عَلَيْهِ ‏\"‏ ‏.‏ قَالَ مُحَمَّدٌ وَزَادَ يَحْيَى وَأَرْدَفَ رَجُلاً فَنَادَى",
+        "english": "Abdur-Rahman bin Ya'mar narrated that:Some people among the residents of Najd came to the Messenger of Allah while he was at Arafat. They were questioning him, so he ordered a caller to proclaim: \"The Hajj is Arafah. Whoever came to Jam during the night, before the time of Fajr, then he has attended the Hajj. The days of Mina are three, so whoever hastens (leaving after) two days, then there is no sin upon him, and whoever delays, then there is no sin upon him.\" Muhammad said: \"Yahya added: 'And he took a companion rider to proclaim it",
+        "grades": [
+          {
+            "name": "Ahmad Muhammad Shakir",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Al-Albani",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Zubair Ali Zai",
+            "grade": "Isnaad Sahih"
+          }
+        ],
+        "section": "The Book on Hajj",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi/889.json"
+      },
+      {
+        "id": "H tirmidhi 1054",
+        "collection": "tirmidhi",
+        "book": "Jami' at-Tirmidhi",
+        "number": 1054,
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمَحْمُودُ بْنُ غَيْلاَنَ، وَالْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، قَالُوا حَدَّثَنَا أَبُو عَاصِمٍ النَّبِيلُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ قَدْ كُنْتُ نَهَيْتُكُمْ عَنْ زِيَارَةِ الْقُبُورِ فَقَدْ أُذِنَ لِمُحَمَّدٍ فِي زِيَارَةِ قَبْرِ أُمِّهِ فَزُورُوهَا فَإِنَّهَا تُذَكِّرُ الآخِرَةَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ وَابْنِ مَسْعُودٍ وَأَنَسٍ وَأَبِي هُرَيْرَةَ وَأُمِّ سَلَمَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ بُرَيْدَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ لاَ يَرَوْنَ بِزِيَارَةِ الْقُبُورِ بَأْسًا ‏.‏ وَهُوَ قَوْلُ ابْنِ الْمُبَارَكِ وَالشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏",
+        "english": "Sulaiman bin Buraidah narrated from his father that:The Messenger of Allah said: \"I had prohibited you from visiting the graves. But Muhammad was permitted to visit the grave of his mother: so visit them, for they will remind you of the Hereafter",
+        "grades": [
+          {
+            "name": "Ahmad Muhammad Shakir",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Al-Albani",
+            "grade": "Sahih"
+          },
+          {
+            "name": "Bashar Awad Maarouf",
+            "grade": "Hasan Sahih"
+          },
+          {
+            "name": "Zubair Ali Zai",
+            "grade": "Sahih Muslim"
+          }
+        ],
+        "section": "The Book on Jana''iz (Funerals)",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi/1054.json"
+      },
+      {
+        "id": "H bukhari 1867",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1867,
+        "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ، حَدَّثَنَا عَاصِمٌ أَبُو عَبْدِ الرَّحْمَنِ الأَحْوَلُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْمَدِينَةُ حَرَمٌ، مِنْ كَذَا إِلَى كَذَا، لاَ يُقْطَعُ شَجَرُهَا، وَلاَ يُحْدَثُ فِيهَا حَدَثٌ، مَنْ أَحْدَثَ حَدَثًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ ‏\"‏‏.‏",
+        "english": "Narrated Anas:The Prophet (ﷺ) said, \"Medina is a sanctuary from that place to that. Its trees should not be cut and no heresy should be innovated nor any sin should be committed in it, and whoever innovates in it an heresy or commits sins (bad deeds), then he will incur the curse of Allah, the angels, and all the people.\" (See Hadith No. 409, Vol)",
+        "grades": [],
+        "section": "Virtues of Madinah",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1867.json"
+      },
+      {
+        "id": "H bukhari 1196",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1196,
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي خُبَيْبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا بَيْنَ بَيْتِي وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الْجَنَّةِ، وَمِنْبَرِي عَلَى حَوْضِي ‏\"‏‏.‏",
+        "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Between my house and my pulpit there is a garden of the gardens of Paradise, and my pulpit is on my fountain tank (i.e. Al-Kauthar)",
+        "grades": [],
+        "section": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1196.json"
+      },
+      {
+        "id": "H bukhari 1193",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1193,
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْتِي مَسْجِدَ قُبَاءٍ كُلَّ سَبْتٍ مَاشِيًا وَرَاكِبًا‏.‏ وَكَانَ عَبْدُ اللَّهِ ـ رضى الله عنهما ـ يَفْعَلُهُ‏.‏",
+        "english": "Narrated `Abdullah bin Dinar:Ibn `Umar said, \"The Prophet (ﷺ) used to go to the Mosque of Quba every Saturday (sometimes) walking and (sometimes) riding.\" `Abdullah (Ibn `Umar) used to do the same",
+        "grades": [],
+        "section": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1193.json"
+      },
+      {
+        "id": "H bukhari 1521",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1521,
+        "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا سَيَّارٌ أَبُو الْحَكَمِ، قَالَ سَمِعْتُ أَبَا حَازِمٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ وَلَمْ يَفْسُقْ رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ ‏\"‏‏.‏",
+        "english": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Whoever performs Hajj for Allah's pleasure and does not have sexual relations with his wife, and does not do evil or sins then he will return (after Hajj free from all sins) as if he were born anew",
+        "grades": [],
+        "section": "Hajj (Pilgrimage)",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1521.json"
+      },
+      {
+        "id": "H bukhari 1417",
+        "collection": "bukhari",
+        "book": "Sahih al-Bukhari",
+        "number": 1417,
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَعْقِلٍ، قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ ‏\"‏‏.‏",
+        "english": "Narrated `Adi bin Hatim heard the Prophet (ﷺ) saying:\"Save yourself from Hell-fire even by giving half a date-fruit in charity",
+        "grades": [],
+        "section": "Obligatory Charity Tax (Zakat)",
+        "source": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari/1417.json"
+      }
+    ],
+    "translation": "Marmaduke Pickthall (1930)",
+    "hadithSource": "hadith-api by fawazahmed0 (open dataset of the six books)",
+    "model": "editorial",
+    "disclaimer": "A guide to the holy sites of Islam, written by Knowlege.org Editorial. The Qur'an verses and hadith it quotes are shown in full below with their sources, and every photo is credited to its author under its licence. It is not a religious ruling (fatwa); for rulings, ask a qualified scholar."
   }
 ]
